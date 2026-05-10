@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Image from "next/image";
 
 export type Answer = {
@@ -22,6 +22,23 @@ export type QCMData = {
     meta: { title: string };
     questions: Question[];
 };
+
+export const QCM_PROGRESS_KEY = "qcm-progress";
+
+type QCMProgress = {
+    currentIndex: number;
+    selections: Record<number, string[]>;
+    validated: number[];
+    showScore: boolean;
+};
+
+function loadProgress(): QCMProgress | null {
+    try {
+        const saved = localStorage.getItem(QCM_PROGRESS_KEY);
+        if (saved) return JSON.parse(saved) as QCMProgress;
+    } catch {}
+    return null;
+}
 
 interface QCMQuizProps {
     data: QCMData;
@@ -46,10 +63,19 @@ function isQuestionCorrect(question: Question, selections: Record<number, string
 
 export const QCMQuiz: React.FC<QCMQuizProps> = ({ data, onChangeQuiz }) => {
     const { questions, meta } = data;
-    const [currentIndex, setCurrentIndex] = useState(0);
-    const [selections, setSelections] = useState<Record<number, string[]>>({});
-    const [validated, setValidated] = useState<Set<number>>(new Set());
-    const [showScore, setShowScore] = useState(false);
+    const [currentIndex, setCurrentIndex] = useState<number>(() => loadProgress()?.currentIndex ?? 0);
+    const [selections, setSelections] = useState<Record<number, string[]>>(() => loadProgress()?.selections ?? {});
+    const [validated, setValidated] = useState<Set<number>>(() => new Set(loadProgress()?.validated ?? []));
+    const [showScore, setShowScore] = useState<boolean>(() => loadProgress()?.showScore ?? false);
+
+    useEffect(() => {
+        localStorage.setItem(QCM_PROGRESS_KEY, JSON.stringify({
+            currentIndex,
+            selections,
+            validated: [...validated],
+            showScore,
+        } satisfies QCMProgress));
+    }, [currentIndex, selections, validated, showScore]);
 
     const currentQuestion = questions[currentIndex];
     const isValidated = validated.has(currentQuestion.id);
@@ -86,6 +112,7 @@ export const QCMQuiz: React.FC<QCMQuizProps> = ({ data, onChangeQuiz }) => {
                 selections={selections}
                 score={score}
                 onRestart={() => {
+                    localStorage.removeItem(QCM_PROGRESS_KEY);
                     setCurrentIndex(0);
                     setSelections({});
                     setValidated(new Set());

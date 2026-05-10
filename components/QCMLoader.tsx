@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { QCMQuiz } from "./QCMQuiz";
+import { QCMQuiz, QCM_PROGRESS_KEY } from "./QCMQuiz";
 import type { QCMData } from "./QCMQuiz";
 
 const STORAGE_KEY = "qcm-data";
@@ -58,6 +58,7 @@ export const QCMLoader: React.FC<QCMLoaderProps> = ({ defaultData }) => {
 
     function handleChangeQuiz() {
         localStorage.removeItem(STORAGE_KEY);
+        localStorage.removeItem(QCM_PROGRESS_KEY);
         setData(null);
         setError(null);
     }
