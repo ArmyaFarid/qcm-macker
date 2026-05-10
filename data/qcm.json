@@ -1,167 +1,447 @@
 {
-    "meta": {
-        "title": "Quiz – Culture Générale"
+  "meta": {
+    "title": "Examen Blanc Stomatologie S9 - 40 Questions (Intégral)"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "L'aphte mineur se caractérise par :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Une taille < 1 cm", "correct": true, "feedback": "Vrai. C'est la forme la plus fréquente." },
+        { "id": "B", "text": "Une base infiltrée", "correct": false, "feedback": "Faux. Sa base est souple." },
+        { "id": "C", "text": "Un fond jaune 'beurre frais'", "correct": true, "feedback": "Vrai. Aspect nécrotique typique." },
+        { "id": "D", "text": "Une guérison sans cicatrice", "correct": true, "feedback": "Vrai. En 8 à 10 jours." }
+      ]
     },
-    "questions": [
-        {
-            "id": 1,
-            "question": "Quelle est la planète la plus proche du Soleil dans notre système solaire ?",
-            "image": null,
-            "multiple": false,
-            "answers": [
-                {
-                    "id": "A",
-                    "text": "Vénus",
-                    "correct": false,
-                    "feedback": "Vénus est la deuxième planète du système solaire, non la première."
-                },
-                {
-                    "id": "B",
-                    "text": "Mercure",
-                    "correct": true,
-                    "feedback": "Correct ! Mercure est la planète la plus proche du Soleil, à environ 57 millions de km en moyenne."
-                },
-                {
-                    "id": "C",
-                    "text": "Mars",
-                    "correct": false,
-                    "feedback": "Mars est la quatrième planète, bien plus éloignée du Soleil."
-                },
-                {
-                    "id": "D",
-                    "text": "Terre",
-                    "correct": false,
-                    "feedback": "La Terre est la troisième planète, à environ 150 millions de km du Soleil."
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "question": "Parmi les propositions suivantes, lesquelles sont des langages de programmation ?",
-            "image": null,
-            "multiple": true,
-            "answers": [
-                {
-                    "id": "A",
-                    "text": "Python",
-                    "correct": true,
-                    "feedback": "Oui, Python est un langage de programmation très populaire, créé par Guido van Rossum en 1991."
-                },
-                {
-                    "id": "B",
-                    "text": "HTML",
-                    "correct": false,
-                    "feedback": "HTML est un langage de balisage (markup), pas un langage de programmation à proprement parler."
-                },
-                {
-                    "id": "C",
-                    "text": "Rust",
-                    "correct": true,
-                    "feedback": "Oui, Rust est un langage de programmation système, connu pour sa sécurité mémoire et ses performances."
-                },
-                {
-                    "id": "D",
-                    "text": "CSS",
-                    "correct": false,
-                    "feedback": "CSS est un langage de style, utilisé pour la mise en forme des pages web, pas un langage de programmation."
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "question": "En quelle année a eu lieu la prise de la Bastille, marquant le début de la Révolution française ?",
-            "image": null,
-            "multiple": false,
-            "answers": [
-                {
-                    "id": "A",
-                    "text": "1776",
-                    "correct": false,
-                    "feedback": "1776 est l'année de la Déclaration d'indépendance américaine, non de la Révolution française."
-                },
-                {
-                    "id": "B",
-                    "text": "1804",
-                    "correct": false,
-                    "feedback": "1804 est l'année où Napoléon Bonaparte est sacré Empereur des Français."
-                },
-                {
-                    "id": "C",
-                    "text": "1789",
-                    "correct": true,
-                    "feedback": "Correct ! La Bastille fut prise le 14 juillet 1789, date devenue la fête nationale française."
-                },
-                {
-                    "id": "D",
-                    "text": "1815",
-                    "correct": false,
-                    "feedback": "1815 marque la défaite de Napoléon à Waterloo et la fin de l'Empire."
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "question": "Quel est le plus grand océan du monde ?",
-            "image": null,
-            "multiple": false,
-            "answers": [
-                {
-                    "id": "A",
-                    "text": "Océan Atlantique",
-                    "correct": false,
-                    "feedback": "L'Atlantique est le deuxième plus grand océan, couvrant environ 106 millions de km²."
-                },
-                {
-                    "id": "B",
-                    "text": "Océan Indien",
-                    "correct": false,
-                    "feedback": "L'océan Indien est le troisième plus grand océan du monde, avec environ 70 millions de km²."
-                },
-                {
-                    "id": "C",
-                    "text": "Océan Arctique",
-                    "correct": false,
-                    "feedback": "L'océan Arctique est le plus petit des cinq océans reconnus."
-                },
-                {
-                    "id": "D",
-                    "text": "Océan Pacifique",
-                    "correct": true,
-                    "feedback": "Correct ! Le Pacifique est le plus grand océan, couvrant plus de 165 millions de km², soit plus d'un tiers de la surface terrestre."
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "question": "Lesquels de ces éléments sont considérés comme des organes vitaux chez l'être humain ?",
-            "image": null,
-            "multiple": true,
-            "answers": [
-                {
-                    "id": "A",
-                    "text": "Le cœur",
-                    "correct": true,
-                    "feedback": "Oui, le cœur est un organe vital qui assure la circulation du sang dans tout l'organisme."
-                },
-                {
-                    "id": "B",
-                    "text": "Les poumons",
-                    "correct": true,
-                    "feedback": "Oui, les poumons sont vitaux car ils permettent les échanges gazeux (O₂ / CO₂) indispensables à la vie."
-                },
-                {
-                    "id": "C",
-                    "text": "L'appendice",
-                    "correct": false,
-                    "feedback": "L'appendice n'est pas considéré comme vital — son ablation chirurgicale n'engage pas le pronostic vital."
-                },
-                {
-                    "id": "D",
-                    "text": "Le cerveau",
-                    "correct": true,
-                    "feedback": "Oui, le cerveau est l'organe vital central qui contrôle et coordonne l'ensemble des fonctions du corps."
-                }
-            ]
-        }
-    ]
+    {
+      "id": 2,
+      "question": "L'aphtose géante de Sutton présente quel risque majeur ?",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Transformation maligne", "correct": false, "feedback": "Faux. Un aphte ne devient jamais un cancer." },
+        { "id": "B", "text": "Cicatrisation fibreuse", "correct": true, "feedback": "Vrai. En raison de sa profondeur, il laisse des séquelles." },
+        { "id": "C", "text": "Surinfection fongique systématique", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "Atteinte osseuse", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Le critère obligatoire pour le diagnostic de la maladie de Behçet est :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "L'uvéite", "correct": false, "feedback": "Faux. C'est un critère majeur mais pas l'unique pivot." },
+        { "id": "B", "text": "L'aphtose buccale récidivante", "correct": true, "feedback": "Vrai. Obligatoire selon les critères internationaux (3 poussées/an)." },
+        { "id": "C", "text": "Le test de pathergie", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "L'aphtose génitale", "correct": false, "feedback": "Faux (Majeur mais pas le pivot obligatoire)." }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Quel médicament est utilisé en 2ème intention pour les aphtoses sévères résistantes ?",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Amoxicilline", "correct": false, "feedback": "Faux. Aucun effet." },
+        { "id": "B", "text": "Thalidomide", "correct": true, "feedback": "Vrai. Réservé aux cas graves en raison de sa teratogénicité." },
+        { "id": "C", "text": "Paracétamol", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "Colchicine", "correct": false, "feedback": "Faux (C'est la 1ère intention)." }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Le sarcome de Kaposi buccal est :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Une tumeur vasculaire", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Lié au virus HHV-8", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "Souvent localisé au palais dur", "correct": true, "feedback": "Vrai (50% des cas)." },
+        { "id": "D", "text": "Classant pour le stade SIDA", "correct": true, "feedback": "Vrai." }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "La leucoplasie orale chevelue (LOC) est due à quel virus ?",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "HSV-1", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "EBV (Epstein-Barr)", "correct": true, "feedback": "Vrai. Elle siège sur les bords de la langue." },
+        { "id": "C", "text": "HPV", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "VZV", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "L'érythème gingival linéaire (EGL) lié au VIH se caractérise par :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Une bande rouge de 2-3 mm au bord libre de la gencive", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Une disparition après détartrage", "correct": false, "feedback": "Faux. Sa persistance malgré l'hygiène est son signe typique." },
+        { "id": "C", "text": "Des saignements au moindre contact", "correct": true, "feedback": "Vrai." },
+        { "id": "D", "text": "Une origine fongique (Candida)", "correct": false, "feedback": "Faux (bien que le Candida puisse cohabiter)." }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "La candidose pseudomembraneuse (muguet) se définit par :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Des enduits blancs détachables", "correct": true, "feedback": "Vrai. C'est sa caractéristique majeure." },
+        { "id": "B", "text": "Une muqueuse saine après grattage", "correct": false, "feedback": "Faux. La muqueuse est érythémateuse en dessous." },
+        { "id": "C", "text": "Des sensations de brûlure", "correct": true, "feedback": "Vrai." },
+        { "id": "D", "text": "Un goût métallique", "correct": true, "feedback": "Vrai." }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "La candidose érythémateuse atrophique est souvent consécutive à :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Un traumatisme mécanique", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "Une antibiothérapie à large spectre", "correct": true, "feedback": "Vrai. Déséquilibre de la flore buccale." },
+        { "id": "C", "text": "Une anémie", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "Une allergie alimentaire", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Le traitement local de référence d'une candidose est :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Nystatine ou Miconazole", "correct": true, "feedback": "Vrai. Antifongiques locaux." },
+        { "id": "B", "text": "Aciclovir", "correct": false, "feedback": "Faux (Antiviral)." },
+        { "id": "C", "text": "Prednisolone", "correct": false, "feedback": "Faux (Aggraverait la candidose)." },
+        { "id": "D", "text": "Pénicilline", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Une LOPM (Lésion potentiellement maligne) se définit par :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Une lésion qui est déjà cancéreuse", "correct": false, "feedback": "Faux. C'est un état précurseur." },
+        { "id": "B", "text": "Un tissu morphologiquement modifié où l'apparition d'un cancer est plus probable", "correct": true, "feedback": "Vrai. Définition de l'OMS." },
+        { "id": "C", "text": "Une lésion toujours blanche", "correct": false, "feedback": "Faux (Erythroplasie = rouge)." },
+        { "id": "D", "text": "Une lésion toujours douloureuse", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Quelle leucoplasie présente le risque de transformation le plus élevé ?",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Homogène", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "Non-homogène (mouchetée/verruqueuse)", "correct": true, "feedback": "Vrai. Risque de dysplasie sévère beaucoup plus fréquent." },
+        { "id": "C", "text": "Linéaire", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "Tabagique pure", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "L'érythroplasie de Queyrat :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Est une plaque rouge veloutée", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Est souvent mal limitée", "correct": false, "feedback": "Faux. Elle est généralement bien délimitée." },
+        { "id": "C", "text": "A un risque de transformation de 90%", "correct": true, "feedback": "Vrai." },
+        { "id": "D", "text": "Nécessite une biopsie systématique", "correct": true, "feedback": "Vrai." }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "La fibrose sous-muqueuse est principalement liée à :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Tabac", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "Alcool", "correct": false, "feedback": "Faux." },
+        { "id": "C", "text": "Noix d'Arec (Bétel)", "correct": true, "feedback": "Vrai. Entraîne une limitation de l'ouverture buccale." },
+        { "id": "D", "text": "Virus HPV", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Le tatouage à l'amalgame se présente comme :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Une macule noire ou bleu ardoisé", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Une lésion qui s'efface à la vitropression", "correct": false, "feedback": "Faux." },
+        { "id": "C", "text": "Souvent à proximité d'une obturation métallique", "correct": true, "feedback": "Vrai." },
+        { "id": "D", "text": "Une lésion stable dans le temps", "correct": true, "feedback": "Vrai." }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "La maladie d'Addison donne des pigmentations buccales :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Focales", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "Diffuses et bilatérales", "correct": true, "feedback": "Vrai. Mélanodermie liée à l'insuffisance surrénalienne." },
+        { "id": "C", "text": "Uniquement linguales", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "Détachables", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Le syndrome de Peutz-Jeghers associe :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Lentigines péri-orificielles", "correct": true, "feedback": "Vrai. Taches brunes sur les lèvres." },
+        { "id": "B", "text": "Polyposis intestinale", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "Cancer colorectal fréquent", "correct": true, "feedback": "Vrai." },
+        { "id": "D", "text": "Ulcérations génitales", "correct": false, "feedback": "Faux (Behçet)." }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "La langue noire villeuse est due à :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Une hypertrophie des papilles filiformes", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Une infection fongique profonde", "correct": false, "feedback": "Faux. C'est une accumulation de pigments et de débris." },
+        { "id": "C", "text": "Le tabac et les bains de bouche oxydants", "correct": true, "feedback": "Vrai." },
+        { "id": "D", "text": "Une mauvaise hygiène", "correct": true, "feedback": "Vrai." }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "L'hyperplasie gingivale médicamenteuse peut être causée par :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Nifédipine", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Ciclosporine", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "Phénytoïne", "correct": true, "feedback": "Vrai." },
+        { "id": "D", "text": "Amoxicilline", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Quel délai est typique pour les réactions lichénoides médicamenteuses ?",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "2 heures", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "Plusieurs mois ou années après le début du traitement", "correct": true, "feedback": "Vrai. Délai très long contrairement à l'allergie aiguë." },
+        { "id": "C", "text": "10 jours", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "Immédiat", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Le signe clinique majeur d'une thrombopénie en bouche est :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Hypertrophie", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "Purpura (pétéchies/ecchymoses)", "correct": true, "feedback": "Vrai. Défaut de l'hémostase primaire." },
+        { "id": "C", "text": "Ulcération", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "Xérostomie", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 22,
+      "question": "La neutropénie se manifeste par des ulcérations :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Nécrotiques", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Douloureuses", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "Sans halo inflammatoire", "correct": true, "feedback": "Vrai. Pas de globules blancs pour créer le halo rouge." },
+        { "id": "D", "text": "Entourées de pus", "correct": false, "feedback": "Faux (le pus nécessite des neutrophiles)." }
+      ]
+    },
+    {
+      "id": 23,
+      "question": "L'anémie ferriprive peut donner une :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Langue noire", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "Glossite de Hunter (langue lisse et dépapillée)", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "Macroglossie", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "Parodontite", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 24,
+      "question": "L'agranulocytose est :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Une urgence médicale", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Risque de mortalité de 10%", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "Souvent iatrogène", "correct": true, "feedback": "Vrai." },
+        { "id": "D", "text": "Indolore", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 25,
+      "question": "La primo-infection herpétique (HSV-1) :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Est souvent asymptomatique (90%)", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Donne une gingivo-stomatite aiguë", "correct": true, "feedback": "Vrai (forme clinique bruyante)." },
+        { "id": "C", "text": "Est unilatérale", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "S'accompagne de fièvre", "correct": true, "feedback": "Vrai." }
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Le zona buccal :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Suit un métamère nerveux", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Est bilatéral", "correct": false, "feedback": "Faux. Strictement unilatéral." },
+        { "id": "C", "text": "Est précédé de névralgies", "correct": true, "feedback": "Vrai." },
+        { "id": "D", "text": "Est dû au VZV", "correct": true, "feedback": "Vrai." }
+      ]
+    },
+    {
+      "id": 27,
+      "question": "L'herpangine est causée par :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Herpès virus", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "Coxsackie virus groupe A", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "EBV", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "HPV", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Le signe de Köplik :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Précède l'éruption de la rougeole", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Est pathognomonique", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "Siège au palais", "correct": false, "feedback": "Faux. Face aux molaires." },
+        { "id": "D", "text": "Est éphémère (48-72h)", "correct": true, "feedback": "Vrai." }
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Une macule se définit par :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Une lésion en relief", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "Une modification de la couleur sans relief ni infiltration", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "Une lésion liquide", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "Une perte de substance", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 30,
+      "question": "La différence entre vésicule et bulle est :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "La couleur", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "La taille (> 5 mm pour la bulle)", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "La douleur", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "Le siège", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Une papule est :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Une lésion liquide", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "Une lésion pleine en relief < 5 mm", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "Une lésion infiltrée profonde", "correct": false, "feedback": "Faux (Nodule)." },
+        { "id": "D", "text": "Une ulcération", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Une lésion élémentaire secondaire est :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "L'évolution d'une lésion primitive", "correct": true, "feedback": "Vrai (ex: érosion après vésicule)." },
+        { "id": "B", "text": "Une lésion moins grave", "correct": false, "feedback": "Faux." },
+        { "id": "C", "text": "Une lésion invisible", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "Un diagnostic final", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 33,
+      "question": "L'induration de la base d'une ulcération évoque :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Traumatisme", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "Aphte", "correct": false, "feedback": "Faux." },
+        { "id": "C", "text": "Carcinome épidermoïde", "correct": true, "feedback": "Vrai. Signe d'infiltration maligne." },
+        { "id": "D", "text": "Muguet", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Le chancre syphilitique buccal est :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Indolore", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Induré", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "Accompagné d'une adénopathie satellite", "correct": true, "feedback": "Vrai." },
+        { "id": "D", "text": "Très douloureux", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 35,
+      "question": "La biopsie est impérative après quel délai de persistance d'une ulcération ?",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "1 semaine", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "15 jours", "correct": false, "feedback": "Faux." },
+        { "id": "C", "text": "3 semaines", "correct": true, "feedback": "Vrai. Règle absolue en pathologie orale." },
+        { "id": "D", "text": "2 mois", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Le lichen plan buccal présente souvent un aspect en :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Grains de sel", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "Feuille de fougère (réseau de Wickham)", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "Beurre frais", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "Cratère", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 37,
+      "question": "L'hyposalivation (xérostomie) iatrogène est liée aux :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Anticholinergiques", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Antihistaminiques", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "Antidépresseurs", "correct": true, "feedback": "Vrai." },
+        { "id": "D", "text": "Sialogogues", "correct": false, "feedback": "Faux (ils augmentent la salive)." }
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Une macroglossie avec empreintes dentaires peut révéler :",
+      "multiple": true,
+      "answers": [
+        { "id": "A", "text": "Acromégalie", "correct": true, "feedback": "Vrai." },
+        { "id": "B", "text": "Hypothyroïdie", "correct": true, "feedback": "Vrai." },
+        { "id": "C", "text": "Amylose", "correct": true, "feedback": "Vrai." },
+        { "id": "D", "text": "Anémie", "correct": false, "feedback": "Faux (donne plutôt une microglossie par atrophie)." }
+      ]
+    },
+    {
+      "id": 39,
+      "question": "La syphilis secondaire donne des :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Chancres", "correct": false, "feedback": "Faux (Syphilis primaire)." },
+        { "id": "B", "text": "Plaques opalines", "correct": true, "feedback": "Vrai. Lésions très contagieuses." },
+        { "id": "C", "text": "Gommes", "correct": false, "feedback": "Faux (Syphilis tertiaire)." },
+        { "id": "D", "text": "Stomatites", "correct": false, "feedback": "Faux." }
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Le traitement d'une ulcération traumatique commence par :",
+      "multiple": false,
+      "answers": [
+        { "id": "A", "text": "Biopsie immédiate", "correct": false, "feedback": "Faux." },
+        { "id": "B", "text": "Suppression de la cause irritative (épine irritative)", "correct": true, "feedback": "Vrai. Si pas de guérison en 8j, biopsie." },
+        { "id": "C", "text": "Radiothérapie", "correct": false, "feedback": "Faux." },
+        { "id": "D", "text": "Antibiotiques", "correct": false, "feedback": "Faux." }
+      ]
+    }
+  ]
 }
