@@ -1,0 +1,167 @@
+{
+    "meta": {
+        "title": "Quiz – Culture Générale"
+    },
+    "questions": [
+        {
+            "id": 1,
+            "question": "Quelle est la planète la plus proche du Soleil dans notre système solaire ?",
+            "image": null,
+            "multiple": false,
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Vénus",
+                    "correct": false,
+                    "feedback": "Vénus est la deuxième planète du système solaire, non la première."
+                },
+                {
+                    "id": "B",
+                    "text": "Mercure",
+                    "correct": true,
+                    "feedback": "Correct ! Mercure est la planète la plus proche du Soleil, à environ 57 millions de km en moyenne."
+                },
+                {
+                    "id": "C",
+                    "text": "Mars",
+                    "correct": false,
+                    "feedback": "Mars est la quatrième planète, bien plus éloignée du Soleil."
+                },
+                {
+                    "id": "D",
+                    "text": "Terre",
+                    "correct": false,
+                    "feedback": "La Terre est la troisième planète, à environ 150 millions de km du Soleil."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Parmi les propositions suivantes, lesquelles sont des langages de programmation ?",
+            "image": null,
+            "multiple": true,
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Python",
+                    "correct": true,
+                    "feedback": "Oui, Python est un langage de programmation très populaire, créé par Guido van Rossum en 1991."
+                },
+                {
+                    "id": "B",
+                    "text": "HTML",
+                    "correct": false,
+                    "feedback": "HTML est un langage de balisage (markup), pas un langage de programmation à proprement parler."
+                },
+                {
+                    "id": "C",
+                    "text": "Rust",
+                    "correct": true,
+                    "feedback": "Oui, Rust est un langage de programmation système, connu pour sa sécurité mémoire et ses performances."
+                },
+                {
+                    "id": "D",
+                    "text": "CSS",
+                    "correct": false,
+                    "feedback": "CSS est un langage de style, utilisé pour la mise en forme des pages web, pas un langage de programmation."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "En quelle année a eu lieu la prise de la Bastille, marquant le début de la Révolution française ?",
+            "image": null,
+            "multiple": false,
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "1776",
+                    "correct": false,
+                    "feedback": "1776 est l'année de la Déclaration d'indépendance américaine, non de la Révolution française."
+                },
+                {
+                    "id": "B",
+                    "text": "1804",
+                    "correct": false,
+                    "feedback": "1804 est l'année où Napoléon Bonaparte est sacré Empereur des Français."
+                },
+                {
+                    "id": "C",
+                    "text": "1789",
+                    "correct": true,
+                    "feedback": "Correct ! La Bastille fut prise le 14 juillet 1789, date devenue la fête nationale française."
+                },
+                {
+                    "id": "D",
+                    "text": "1815",
+                    "correct": false,
+                    "feedback": "1815 marque la défaite de Napoléon à Waterloo et la fin de l'Empire."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Quel est le plus grand océan du monde ?",
+            "image": null,
+            "multiple": false,
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Océan Atlantique",
+                    "correct": false,
+                    "feedback": "L'Atlantique est le deuxième plus grand océan, couvrant environ 106 millions de km²."
+                },
+                {
+                    "id": "B",
+                    "text": "Océan Indien",
+                    "correct": false,
+                    "feedback": "L'océan Indien est le troisième plus grand océan du monde, avec environ 70 millions de km²."
+                },
+                {
+                    "id": "C",
+                    "text": "Océan Arctique",
+                    "correct": false,
+                    "feedback": "L'océan Arctique est le plus petit des cinq océans reconnus."
+                },
+                {
+                    "id": "D",
+                    "text": "Océan Pacifique",
+                    "correct": true,
+                    "feedback": "Correct ! Le Pacifique est le plus grand océan, couvrant plus de 165 millions de km², soit plus d'un tiers de la surface terrestre."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Lesquels de ces éléments sont considérés comme des organes vitaux chez l'être humain ?",
+            "image": null,
+            "multiple": true,
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Le cœur",
+                    "correct": true,
+                    "feedback": "Oui, le cœur est un organe vital qui assure la circulation du sang dans tout l'organisme."
+                },
+                {
+                    "id": "B",
+                    "text": "Les poumons",
+                    "correct": true,
+                    "feedback": "Oui, les poumons sont vitaux car ils permettent les échanges gazeux (O₂ / CO₂) indispensables à la vie."
+                },
+                {
+                    "id": "C",
+                    "text": "L'appendice",
+                    "correct": false,
+                    "feedback": "L'appendice n'est pas considéré comme vital — son ablation chirurgicale n'engage pas le pronostic vital."
+                },
+                {
+                    "id": "D",
+                    "text": "Le cerveau",
+                    "correct": true,
+                    "feedback": "Oui, le cerveau est l'organe vital central qui contrôle et coordonne l'ensemble des fonctions du corps."
+                }
+            ]
+        }
+    ]
+}
