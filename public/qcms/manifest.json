@@ -1,0 +1,34 @@
+[
+  {
+    "id": "v1",
+    "file": "qcm_v1_general.json",
+    "title": "QCM Stomatologie S9",
+    "questionCount": 35,
+    "imageCount": 5,
+    "sizeKb": 1227
+  },
+  {
+    "id": "v2",
+    "file": "qcm_v2_identification.json",
+    "title": "QCM Stomatologie S9 – Version 2 : Identification clinique",
+    "questionCount": 20,
+    "imageCount": 8,
+    "sizeKb": 1856
+  },
+  {
+    "id": "v3",
+    "file": "qcm_v3_therapeutique.json",
+    "title": "QCM Stomatologie S9 – Version 3 : Thérapeutique",
+    "questionCount": 20,
+    "imageCount": 7,
+    "sizeKb": 1289
+  },
+  {
+    "id": "v4",
+    "file": "qcm_v4_ia_illustree.json",
+    "title": "QCM Stomatologie S9 — Version IA : Schémas illustratifs (⚠ images générées par IA)",
+    "questionCount": 20,
+    "imageCount": 8,
+    "sizeKb": 55
+  }
+]

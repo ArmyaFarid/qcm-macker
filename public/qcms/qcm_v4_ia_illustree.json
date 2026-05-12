@@ -1,0 +1,647 @@
+{
+  "meta": {
+    "title": "QCM Stomatologie S9 — Version IA : Schémas illustratifs (⚠ images générées par IA)"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "La prise médicamenteuse peut entraîner quelles manifestations sur la muqueuse buccale ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Xérostomie (sécheresse buccale)",
+          "correct": true,
+          "feedback": "Vrai. De nombreux médicaments (antidépresseurs, antihistaminiques, diurétiques) induisent une xérostomie."
+        },
+        {
+          "id": "B",
+          "text": "Hyperplasie gingivale",
+          "correct": true,
+          "feedback": "Vrai. Certains médicaments (phénytoïne, ciclosporine, inhibiteurs calciques) provoquent une hyperplasie gingivale."
+        },
+        {
+          "id": "C",
+          "text": "Ulcérations buccales",
+          "correct": true,
+          "feedback": "Vrai. Des médicaments comme les AINS, les sels d'or ou le méthotrexate peuvent induire des ulcérations buccales."
+        },
+        {
+          "id": "D",
+          "text": "Transformation systématique en carcinome",
+          "correct": false,
+          "feedback": "Faux. Les médicaments n'induisent pas systématiquement de transformation carcinomateuse."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Le signe de Köplik, pathognomonique de la rougeole, présente quelles caractéristiques buccales ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Petites taches blanches sur fond rouge",
+          "correct": true,
+          "feedback": "Vrai. Le cours décrit les taches de Köplik comme de petites taches blanches sur muqueuse érythémateuse."
+        },
+        {
+          "id": "B",
+          "text": "Siège en regard des molaires supérieures",
+          "correct": true,
+          "feedback": "Vrai. Elles siègent typiquement en regard des molaires, en particulier la 2ème molaire supérieure."
+        },
+        {
+          "id": "C",
+          "text": "Apparition après l'éruption cutanée",
+          "correct": false,
+          "feedback": "Faux. Le signe de Köplik précède l'éruption cutanée, ce qui en fait un signe précoce de diagnostic."
+        },
+        {
+          "id": "D",
+          "text": "Disparition spontanée avant l'exanthème",
+          "correct": true,
+          "feedback": "Vrai. Les taches de Köplik disparaissent lors de l'apparition de l'éruption cutanée."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Le syndrome pied-main-bouche est dû à quel virus ?",
+      "image": null,
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Herpès simplex virus (HSV-1)",
+          "correct": false,
+          "feedback": "Faux. HSV-1 est responsable de la gingivo-stomatite herpétique et de l'herpès labial."
+        },
+        {
+          "id": "B",
+          "text": "Coxsackievirus A16 (Entérovirus)",
+          "correct": true,
+          "feedback": "Vrai. Le cours cite le Coxsackievirus A16 comme agent du syndrome pied-main-bouche."
+        },
+        {
+          "id": "C",
+          "text": "Virus varicelle-zona (VZV)",
+          "correct": false,
+          "feedback": "Faux. VZV est responsable de la varicelle et du zona, pas du syndrome pied-main-bouche."
+        },
+        {
+          "id": "D",
+          "text": "Virus d'Epstein-Barr (EBV)",
+          "correct": false,
+          "feedback": "Faux. EBV est responsable de la mononucléose infectieuse et de la leucoplasie orale chevelue."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "L'érythroplasie se distingue de la leucoplasie principalement par :",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Sa couleur rouge veloutée",
+          "correct": true,
+          "feedback": "Vrai. L'érythroplasie est définie comme une plaque rouge veloutée, contrairement à la leucoplasie (blanche)."
+        },
+        {
+          "id": "B",
+          "text": "Un risque de transformation maligne nettement plus élevé",
+          "correct": true,
+          "feedback": "Vrai. Le cours indique un risque de 14–50 % pour l'érythroplasie contre 1–17 % pour la leucoplasie."
+        },
+        {
+          "id": "C",
+          "text": "Sa fréquence plus grande que la leucoplasie",
+          "correct": false,
+          "feedback": "Faux. L'érythroplasie est bien plus rare que la leucoplasie."
+        },
+        {
+          "id": "D",
+          "text": "L'absence de nécessité de biopsie",
+          "correct": false,
+          "feedback": "Faux. En raison de son haut potentiel malin, l'érythroplasie justifie une biopsie."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "D'après le schéma de classification étiologique des ulcérations, dans quelle catégorie se classe une ulcération par prothèse dentaire mal adaptée ?",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMjg0IiB2aWV3Qm94PSIwIDAgNjAwIDI4NCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIj4KICA8cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI4NCIgZmlsbD0iI2Y4ZjlmZiIgcng9IjEyIi8+CiAgCiAgPHRleHQgeD0iMzAwIiB5PSIzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMxZTI5M2IiPkNsYXNzaWZpY2F0aW9uIMOpdGlvbG9naXF1ZSBkZXMgdWxjw6lyYXRpb25zIGJ1Y2NhbGVzPC90ZXh0PgogIDwhLS0gVW5pcXVlIC0tPgogIDxyZWN0IHg9IjE1IiB5PSI0NiIgd2lkdGg9IjI3OCIgaGVpZ2h0PSIyOCIgcng9IjYiIGZpbGw9IiMwODkxYjIiLz4KICA8dGV4dCB4PSIxNTQiIHk9IjY1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPlVsY8OpcmF0aW9ucyBVTklRVUVTPC90ZXh0PgogIDxyZWN0IHg9IjE1IiB5PSI3NiIgd2lkdGg9IjI3OCIgaGVpZ2h0PSIxNDUiIHJ4PSI4IiBmaWxsPSIjZWNmZWZmIiBzdHJva2U9IiM2N2U4ZjkiLz4KICA8dGV4dCB4PSIzMCIgeT0iOTYiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMwZTc0OTAiPuKAoiBBcGh0ZSBzaW1wbGUgaXNvbMOpPC90ZXh0PgogIDx0ZXh0IHg9IjMwIiB5PSIxMTQiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMwZTc0OTAiPuKAoiBUcmF1bWF0aXNtZSBtw6ljYW5pcXVlPC90ZXh0PgogIDx0ZXh0IHg9IjMwIiB5PSIxMzIiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMwZTc0OTAiPiAgKHByb3Row6hzZSwgZGVudCBmcmFjdHVyw6llKTwvdGV4dD4KICA8dGV4dCB4PSIzMCIgeT0iMTUwIiBmb250LXNpemU9IjExIiBmaWxsPSIjMGU3NDkwIj7igKIgQ2F1c2UgdGhlcm1pcXVlIC8gY2hpbWlxdWU8L3RleHQ+CiAgPHRleHQgeD0iMzAiIHk9IjE2OCIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzBlNzQ5MCI+4oCiIFVsY8OpcmF0aW9uIHR1bW9yYWxlPC90ZXh0PgogIDx0ZXh0IHg9IjMwIiB5PSIxODYiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMwZTc0OTAiPiAgKGNhcmNpbm9tZSDDqXBpZGVybW/Dr2RlKTwvdGV4dD4KICA8dGV4dCB4PSIzMCIgeT0iMjA0IiBmb250LXNpemU9IjExIiBmaWxsPSIjMGU3NDkwIj7igKIgUGF0aG9taW1pZTwvdGV4dD4KICA8IS0tIE11bHRpcGxlcyAtLT4KICA8cmVjdCB4PSIzMDciIHk9IjQ2IiB3aWR0aD0iMjc4IiBoZWlnaHQ9IjI4IiByeD0iNiIgZmlsbD0iIzdjM2FlZCIvPgogIDx0ZXh0IHg9IjQ0NiIgeT0iNjUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSI+VWxjw6lyYXRpb25zIE1VTFRJUExFUzwvdGV4dD4KICA8cmVjdCB4PSIzMDciIHk9Ijc2IiB3aWR0aD0iMjc4IiBoZWlnaHQ9IjE0NSIgcng9IjgiIGZpbGw9IiNmYWY1ZmYiIHN0cm9rZT0iI2M0YjVmZCIvPgogIDx0ZXh0IHg9IjMyMiIgeT0iOTYiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM0YzFkOTUiPuKAoiBBcGh0b3NlIGJ1Y2NhbGUgKHLDqWNpZGl2YW50ZSk8L3RleHQ+CiAgPHRleHQgeD0iMzIyIiB5PSIxMTQiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM0YzFkOTUiPuKAoiBJbmZlY3Rpb25zIHZpcmFsZXMgKEhTViwgVlpWKTwvdGV4dD4KICA8dGV4dCB4PSIzMjIiIHk9IjEzMiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzRjMWQ5NSI+4oCiIE1hbGFkaWVzIGJ1bGxldXNlczwvdGV4dD4KICA8dGV4dCB4PSIzMjIiIHk9IjE1MCIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzRjMWQ5NSI+ICAocGVtcGhpZ2/Dr2RlLCBwZW1waGlndXMpPC90ZXh0PgogIDx0ZXh0IHg9IjMyMiIgeT0iMTY4IiBmb250LXNpemU9IjExIiBmaWxsPSIjNGMxZDk1Ij7igKIgSMOpbW9wYXRoaWVzIChsZXVjw6ltaWUsPC90ZXh0PgogIDx0ZXh0IHg9IjMyMiIgeT0iMTg2IiBmb250LXNpemU9IjExIiBmaWxsPSIjNGMxZDk1Ij4gIG5ldXRyb3DDqW5pZSk8L3RleHQ+CiAgPHRleHQgeD0iMzIyIiB5PSIyMDQiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM0YzFkOTUiPuKAoiBNw6lkaWNhbWVudHMgKEFJTlMsIHNlbHMgZCdvcik8L3RleHQ+CiAgPCEtLSBBbGFybWUgLS0+CiAgPHJlY3QgeD0iMTUiIHk9IjIzNCIgd2lkdGg9IjU3MCIgaGVpZ2h0PSIyOCIgcng9IjgiIGZpbGw9IiNmZWYzYzciIHN0cm9rZT0iI2Y1OWUwYiIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICA8dGV4dCB4PSIzMDAiIHk9IjI1MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiM3ODM1MGYiPuKaoCBUb3V0ZSB1bGPDqXJhdGlvbiBwZXJzaXN0YW50ZSAmZ3Q7IDE0IGpvdXJzIHNhbnMgY2F1c2Ugw6l2aWRlbnRlIOKGkiBiaW9wc2llIG9ibGlnYXRvaXJlPC90ZXh0PgogIDx0ZXh0IHg9IjEwIiB5PSIyNzgiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzk0YTNiOCI+4pqgIFNjaMOpbWEgaWxsdXN0cmF0aWYgZ8OpbsOpcsOpIHBhciBJQSDigJQgYmFzw6kgc3VyIGxlIGNvdXJzPC90ZXh0PgoKPC9zdmc+",
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Ulcération multiple d'origine virale",
+          "correct": false,
+          "feedback": "Faux. Les ulcérations virales (HSV) sont multiples, pas liées à un facteur mécanique local."
+        },
+        {
+          "id": "B",
+          "text": "Ulcération unique traumatique mécanique",
+          "correct": true,
+          "feedback": "Vrai. La prothèse mal adaptée est citée comme cause mécanique principale d'ulcération unique dans le cours."
+        },
+        {
+          "id": "C",
+          "text": "Ulcération multiple d'origine hématologique",
+          "correct": false,
+          "feedback": "Faux. Les ulcérations hématologiques (leucémie, neutropénie) sont multiples et d'origine systémique."
+        },
+        {
+          "id": "D",
+          "text": "Ulcération unique tumorale",
+          "correct": false,
+          "feedback": "Faux. Une ulcération tumorale (carcinome) est indolore, à bords indurés, non liée à une prothèse."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Le schéma présente les critères de la maladie de Behçet. Quel est le critère OBLIGATOIRE pour poser le diagnostic ?",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMjcyIiB2aWV3Qm94PSIwIDAgNjAwIDI3MiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIj4KICA8cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI3MiIgZmlsbD0iI2Y4ZjlmZiIgcng9IjEyIi8+CiAgCiAgPHRleHQgeD0iMzAwIiB5PSIzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMxZTI5M2IiPk1hbGFkaWUgZGUgQmVow6dldCDigJQgQ3JpdMOocmVzIGRpYWdub3N0aXF1ZXM8L3RleHQ+CiAgPCEtLSBPYmxpZ2F0b2lyZSAtLT4KICA8cmVjdCB4PSIyMCIgeT0iNDgiIHdpZHRoPSI1NjAiIGhlaWdodD0iNTAiIHJ4PSIxMCIgZmlsbD0iI2RjMjYyNiIgc3Ryb2tlPSIjYjkxYzFjIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8dGV4dCB4PSIzMDAiIHk9IjcwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPkNSSVTDiFJFIE9CTElHQVRPSVJFPC90ZXh0PgogIDx0ZXh0IHg9IjMwMCIgeT0iODgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiNmZWNhY2EiPkFwaHRvc2UgYnVjY2FsZSByw6ljaWRpdmFudGUg4omlIDMgcG91c3PDqWVzL2FuPC90ZXh0PgogIDwhLS0gKzIgY3JpdMOocmVzIG1hamV1cnMgLS0+CiAgPHRleHQgeD0iMzAwIiB5PSIxMTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNDc1NTY5Ij4rIGF1IG1vaW5zIDIgY3JpdMOocmVzIG1hamV1cnMgOjwvdGV4dD4KICA8cmVjdCB4PSIyMCIgeT0iMTI4IiB3aWR0aD0iMTI4IiBoZWlnaHQ9IjgwIiByeD0iOCIgZmlsbD0iI2ZlZjNjNyIgc3Ryb2tlPSIjZjU5ZTBiIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8dGV4dCB4PSI4NCIgeT0iMTUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzc4MzUwZiI+QXBodG9zZTwvdGV4dD4KICA8dGV4dCB4PSI4NCIgeT0iMTY2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjNzgzNTBmIj5nw6luaXRhbGU8L3RleHQ+CiAgPHRleHQgeD0iODQiIHk9IjE4NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzkyNDAwZSI+UsOpY2lkaXZhbnRlPC90ZXh0PgogIDxyZWN0IHg9IjE2MiIgeT0iMTI4IiB3aWR0aD0iMTI4IiBoZWlnaHQ9IjgwIiByeD0iOCIgZmlsbD0iI2ZlZjNjNyIgc3Ryb2tlPSIjZjU5ZTBiIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8dGV4dCB4PSIyMjYiIHk9IjE1MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiM3ODM1MGYiPlV2w6lpdGU8L3RleHQ+CiAgPHRleHQgeD0iMjI2IiB5PSIxNjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM3ODM1MGYiPmFudMOpcmlldXJlPC90ZXh0PgogIDx0ZXh0IHg9IjIyNiIgeT0iMTg0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjOTI0MDBlIj5vdSBwb3N0w6lyaWV1cmU8L3RleHQ+CiAgPHJlY3QgeD0iMzA0IiB5PSIxMjgiIHdpZHRoPSIxMjgiIGhlaWdodD0iODAiIHJ4PSI4IiBmaWxsPSIjZmVmM2M3IiBzdHJva2U9IiNmNTllMGIiIHN0cm9rZS13aWR0aD0iMiIvPgogIDx0ZXh0IHg9IjM2OCIgeT0iMTUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzc4MzUwZiI+TMOpc2lvbnM8L3RleHQ+CiAgPHRleHQgeD0iMzY4IiB5PSIxNjYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM3ODM1MGYiPmN1dGFuw6llczwvdGV4dD4KICA8dGV4dCB4PSIzNjgiIHk9IjE4NCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzkyNDAwZSI+UHNldWRvZm9sbGljdWxpdGU8L3RleHQ+CiAgPHJlY3QgeD0iNDQ2IiB5PSIxMjgiIHdpZHRoPSIxMzQiIGhlaWdodD0iODAiIHJ4PSI4IiBmaWxsPSIjZmVmM2M3IiBzdHJva2U9IiNmNTllMGIiIHN0cm9rZS13aWR0aD0iMiIvPgogIDx0ZXh0IHg9IjUxMyIgeT0iMTUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzc4MzUwZiI+VGVzdCBkZTwvdGV4dD4KICA8dGV4dCB4PSI1MTMiIHk9IjE2NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzc4MzUwZiI+cGF0aGVyZ2llICs8L3RleHQ+CiAgPHRleHQgeD0iNTEzIiB5PSIxODQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5MjQwMGUiPkx1IMOgIDQ4aDwvdGV4dD4KICA8IS0tIE5vdGUgLS0+CiAgPHJlY3QgeD0iMjAiIHk9IjIyMiIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIyOCIgcng9IjgiIGZpbGw9IiNlMGYyZmUiIHN0cm9rZT0iIzAyODRjNyIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICA8dGV4dCB4PSIzMDAiIHk9IjI0MSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzBjNGE2ZSI+UGFzIGRlIHRlc3QgYmlvbG9naXF1ZSBzcMOpY2lmaXF1ZSDigKIgVGVycmFpbiA6IGpldW5lIGFkdWx0ZSDigKIgT3JpZ2luZSBtw6lkaXRlcnJhbsOpZW5uZSAvIE1veWVuLU9yaWVudDwvdGV4dD4KICA8dGV4dCB4PSIxMCIgeT0iMjY2IiBmb250LXNpemU9IjkiIGZpbGw9IiM5NGEzYjgiPuKaoCBTY2jDqW1hIGlsbHVzdHJhdGlmIGfDqW7DqXLDqSBwYXIgSUEg4oCUIGJhc8OpIHN1ciBsZSBjb3VyczwvdGV4dD4KCjwvc3ZnPg==",
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Le test de pathergie positif",
+          "correct": false,
+          "feedback": "Faux. C'est un critère majeur, mais non obligatoire."
+        },
+        {
+          "id": "B",
+          "text": "L'uvéite antérieure ou postérieure",
+          "correct": false,
+          "feedback": "Faux. L'uvéite est un critère majeur mais pas l'élément pivot obligatoire."
+        },
+        {
+          "id": "C",
+          "text": "L'aphtose buccale récidivante (≥ 3 poussées/an)",
+          "correct": true,
+          "feedback": "Vrai. Le cours précise que l'aphtose buccale récidivante est le seul critère obligatoire selon les critères internationaux."
+        },
+        {
+          "id": "D",
+          "text": "L'aphtose génitale récidivante",
+          "correct": false,
+          "feedback": "Faux. L'aphtose génitale est un critère majeur important mais non obligatoire."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Quels sont les critères de diagnostic positif d'une ulcération traumatique mécanique ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Cause identifiée et concordante avec la localisation",
+          "correct": true,
+          "feedback": "Vrai. C'est le premier critère du diagnostic positif selon le cours du Pr Belmehdi."
+        },
+        {
+          "id": "B",
+          "text": "Guérison en 7 à 14 jours après suppression du facteur causal",
+          "correct": true,
+          "feedback": "Vrai. La régression rapide après élimination de la cause est pathognomonique."
+        },
+        {
+          "id": "C",
+          "text": "Présence obligatoire d'une adénopathie cervicale",
+          "correct": false,
+          "feedback": "Faux. Une adénopathie peut être réactionnelle mais n'est pas un critère obligatoire de l'ulcération traumatique."
+        },
+        {
+          "id": "D",
+          "text": "Absence de durcissement des bords (base souple)",
+          "correct": true,
+          "feedback": "Vrai. Une base indurée oriente vers une origine tumorale et doit faire reconsidérer le diagnostic."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "D'après le schéma des manifestations VIH, quelles lésions appartiennent au groupe 1 (fortement associées au VIH) ?",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMjU4IiB2aWV3Qm94PSIwIDAgNjAwIDI1OCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIj4KICA8cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI1OCIgZmlsbD0iI2Y4ZjlmZiIgcng9IjEyIi8+CiAgCiAgPHRleHQgeD0iMzAwIiB5PSIzNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMxZTI5M2IiPk1hbmlmZXN0YXRpb25zIGJ1Y2NhbGVzIGR1IFZJSDwvdGV4dD4KICA8IS0tIEdyb3VwZSAxIC0tPgogIDxyZWN0IHg9IjIwIiB5PSI1MiIgd2lkdGg9IjU1MCIgaGVpZ2h0PSIyOCIgcng9IjYiIGZpbGw9IiNkYzI2MjYiLz4KICA8dGV4dCB4PSIyOTUiIHk9IjcxIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPkdyb3VwZSAxIOKAlCBGb3J0ZW1lbnQgYXNzb2Npw6llcyBhdSBWSUg8L3RleHQ+CiAgPHJlY3QgeD0iMjAiIHk9IjgyIiB3aWR0aD0iMTcwIiBoZWlnaHQ9IjYwIiByeD0iOCIgZmlsbD0iI2ZlZTJlMiIgc3Ryb2tlPSIjZmNhNWE1Ii8+CiAgPHRleHQgeD0iMTA1IiB5PSI5OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiM3ZjFkMWQiPkNhbmRpZG9zZTwvdGV4dD4KICA8dGV4dCB4PSIxMDUiIHk9IjExNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzk5MWIxYiI+UHNldWRvbWVtYnJhbmV1c2U8L3RleHQ+CiAgPHRleHQgeD0iMTA1IiB5PSIxMjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5OTFiMWIiPsOJcnl0aMOpbWF0ZXVzZTwvdGV4dD4KICA8cmVjdCB4PSIyMDUiIHk9IjgyIiB3aWR0aD0iMTcwIiBoZWlnaHQ9IjYwIiByeD0iOCIgZmlsbD0iI2ZlZTJlMiIgc3Ryb2tlPSIjZmNhNWE1Ii8+CiAgPHRleHQgeD0iMjkwIiB5PSI5OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiM3ZjFkMWQiPkxldWNvcGxhc2llIGNoZXZlbHVlPC90ZXh0PgogIDx0ZXh0IHg9IjI5MCIgeT0iMTE0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjOTkxYjFiIj5FQlYg4oCiIEJvcmQgbGF0w6lyYWw8L3RleHQ+CiAgPHRleHQgeD0iMjkwIiB5PSIxMjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5OTFiMWIiPmRlIGxhbmd1ZTwvdGV4dD4KICA8cmVjdCB4PSIzOTAiIHk9IjgyIiB3aWR0aD0iMTgyIiBoZWlnaHQ9IjYwIiByeD0iOCIgZmlsbD0iI2ZlZTJlMiIgc3Ryb2tlPSIjZmNhNWE1Ii8+CiAgPHRleHQgeD0iNDgxIiB5PSI5OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiM3ZjFkMWQiPsOJcnl0aMOobWUgZ2luZ2l2YWw8L3RleHQ+CiAgPHRleHQgeD0iNDgxIiB5PSIxMTQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5OTFiMWIiPmxpbsOpYWlyZSAoRUdMKTwvdGV4dD4KICA8dGV4dCB4PSI0ODEiIHk9IjEyOCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzk5MWIxYiI+QmFuZGUgcm91Z2UgMuKAkzMgbW08L3RleHQ+CiAgPCEtLSBHcm91cGUgMiAtLT4KICA8cmVjdCB4PSIyMCIgeT0iMTU0IiB3aWR0aD0iNTUwIiBoZWlnaHQ9IjI4IiByeD0iNiIgZmlsbD0iI2VhNTgwYyIvPgogIDx0ZXh0IHg9IjI5NSIgeT0iMTczIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPkdyb3VwZSAyIOKAlCBNb2lucyBmcsOpcXVlbnRlczwvdGV4dD4KICA8cmVjdCB4PSIyMCIgeT0iMTg0IiB3aWR0aD0iMjYwIiBoZWlnaHQ9IjUwIiByeD0iOCIgZmlsbD0iI2ZmZWRkNSIgc3Ryb2tlPSIjZmRiYTc0Ii8+CiAgPHRleHQgeD0iMTUwIiB5PSIyMDMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjN2MyZDEyIj5TYXJjb21lIGRlIEthcG9zaTwvdGV4dD4KICA8dGV4dCB4PSIxNTAiIHk9IjIyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzlhMzQxMiI+SEhWLTgg4oCiIFBhbGFpcyBkdXIg4oCiIENsYXNzZSBTSURBPC90ZXh0PgogIDxyZWN0IHg9IjI5MiIgeT0iMTg0IiB3aWR0aD0iMjYwIiBoZWlnaHQ9IjUwIiByeD0iOCIgZmlsbD0iI2ZmZWRkNSIgc3Ryb2tlPSIjZmRiYTc0Ii8+CiAgPHRleHQgeD0iNDIyIiB5PSIyMDMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjN2MyZDEyIj5BcGh0b3NlIGJ1Y2NhbGUgc8OpdsOocmU8L3RleHQ+CiAgPHRleHQgeD0iNDIyIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5YTM0MTIiPlLDqWNpZGl2YW50ZSDigKIgVGFpbGxlIGF1Z21lbnTDqWU8L3RleHQ+CiAgPHRleHQgeD0iMTAiIHk9IjI1MiIgZm9udC1zaXplPSI5IiBmaWxsPSIjOTRhM2I4Ij7imqAgU2Now6ltYSBpbGx1c3RyYXRpZiBnw6luw6lyw6kgcGFyIElBIOKAlCBiYXPDqSBzdXIgbGUgY291cnM8L3RleHQ+Cgo8L3N2Zz4=",
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Candidose pseudomembraneuse",
+          "correct": true,
+          "feedback": "Vrai. La candidose est classée en groupe 1 des manifestations fortement associées au VIH."
+        },
+        {
+          "id": "B",
+          "text": "Leucoplasie orale chevelue",
+          "correct": true,
+          "feedback": "Vrai. La LOC (EBV, bord latéral de langue) est aussi classée groupe 1."
+        },
+        {
+          "id": "C",
+          "text": "Sarcome de Kaposi",
+          "correct": false,
+          "feedback": "Faux. Le sarcome de Kaposi est classé en groupe 2 selon le schéma."
+        },
+        {
+          "id": "D",
+          "text": "Érythème gingival linéaire",
+          "correct": true,
+          "feedback": "Vrai. L'EGL (bande rouge 2–3 mm) est classé groupe 1 dans le cours."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "La surveillance d'une lésion potentiellement maligne (LOPM) doit aboutir à une biopsie dans quel cas ?",
+      "image": null,
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Dès le premier examen, systématiquement",
+          "correct": false,
+          "feedback": "Faux. Une biopsie systématique d'emblée n'est pas indiquée pour toute LOPM."
+        },
+        {
+          "id": "B",
+          "text": "Uniquement si la lésion est douloureuse",
+          "correct": false,
+          "feedback": "Faux. La douleur n'est pas le critère décisionnel pour la biopsie."
+        },
+        {
+          "id": "C",
+          "text": "Si la lésion persiste après suppression des facteurs irritants ou en cas de doute diagnostique",
+          "correct": true,
+          "feedback": "Vrai. Le cours indique qu'en l'absence de régression après élimination des facteurs irritants, la biopsie est indiquée."
+        },
+        {
+          "id": "D",
+          "text": "Seulement si la lésion est rouge (érythroplasie)",
+          "correct": false,
+          "feedback": "Faux. La biopsie peut être indiquée pour toute LOPM qui persiste, pas uniquement l'érythroplasie."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Ce schéma présente la classification des aphtes. Identifiez la forme clinique caractérisée par des lésions multiples de 1 à 3 mm pouvant fusionner :",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMjU4IiB2aWV3Qm94PSIwIDAgNjAwIDI1OCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIj4KICA8cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI1OCIgZmlsbD0iI2Y4ZjlmZiIgcng9IjEyIi8+CiAgCiAgPHRleHQgeD0iMzAwIiB5PSIzNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMxZTI5M2IiPkNsYXNzaWZpY2F0aW9uIGRlcyBhcGh0ZXMgKE9NUyk8L3RleHQ+CiAgPCEtLSBBcGh0ZSBtaW5ldXIgLS0+CiAgPHJlY3QgeD0iMzAiIHk9IjYwIiB3aWR0aD0iMTgwIiBoZWlnaHQ9IjExMCIgcng9IjEwIiBmaWxsPSIjZGJlYWZlIiBzdHJva2U9IiMzYjgyZjYiIHN0cm9rZS13aWR0aD0iMiIvPgogIDx0ZXh0IHg9IjEyMCIgeT0iODIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMWQ0ZWQ4Ij5BcGh0ZSBtaW5ldXI8L3RleHQ+CiAgPHRleHQgeD0iMTIwIiB5PSIxMDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMxZTQwYWYiPuKAoiAmbHQ7IDEwIG1tPC90ZXh0PgogIDx0ZXh0IHg9IjEyMCIgeT0iMTE2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjMWU0MGFmIj7igKIgR3XDqXJpc29uIDjigJMxMCBqPC90ZXh0PgogIDx0ZXh0IHg9IjEyMCIgeT0iMTMyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjMWU0MGFmIj7igKIgU2FucyBjaWNhdHJpY2U8L3RleHQ+CiAgPHRleHQgeD0iMTIwIiB5PSIxNDgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMxZTQwYWYiPuKAoiBGb3JtZSBsYSArIGZyw6lxdWVudGU8L3RleHQ+CiAgPCEtLSBBcGh0ZSBtYWpldXIgKFN1dHRvbikgLS0+CiAgPHJlY3QgeD0iMjEwIiB5PSI2MCIgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxMTAiIHJ4PSIxMCIgZmlsbD0iI2ZjZTdmMyIgc3Ryb2tlPSIjZWM0ODk5IiBzdHJva2Utd2lkdGg9IjIiLz4KICA8dGV4dCB4PSIzMDAiIHk9IjgyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2JlMTg1ZCI+QXBodGUgbWFqZXVyIChTdXR0b24pPC90ZXh0PgogIDx0ZXh0IHg9IjMwMCIgeT0iMTAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjOWQxNzRkIj7igKIgJmd0OyAxMCBtbTwvdGV4dD4KICA8dGV4dCB4PSIzMDAiIHk9IjExNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzlkMTc0ZCI+4oCiIEd1w6lyaXNvbiAmZ3Q7IDYgc2VtYWluZXM8L3RleHQ+CiAgPHRleHQgeD0iMzAwIiB5PSIxMzIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM5ZDE3NGQiPuKAoiBDaWNhdHJpY2UgZmlicmV1c2U8L3RleHQ+CiAgPHRleHQgeD0iMzAwIiB5PSIxNDgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM5ZDE3NGQiPuKAoiBQcm9mb25kPC90ZXh0PgogIDwhLS0gQXBodGUgaGVycMOpdGlmb3JtZSAtLT4KICA8cmVjdCB4PSIzOTAiIHk9IjYwIiB3aWR0aD0iMTgwIiBoZWlnaHQ9IjExMCIgcng9IjEwIiBmaWxsPSIjZGNmY2U3IiBzdHJva2U9IiMyMmM1NWUiIHN0cm9rZS13aWR0aD0iMiIvPgogIDx0ZXh0IHg9IjQ4MCIgeT0iODIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMTU4MDNkIj5BcGh0ZSBoZXJww6l0aWZvcm1lPC90ZXh0PgogIDx0ZXh0IHg9IjQ4MCIgeT0iMTAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjMTY2NTM0Ij7igKIgMeKAkzMgbW08L3RleHQ+CiAgPHRleHQgeD0iNDgwIiB5PSIxMTYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMxNjY1MzQiPuKAoiBNdWx0aXBsZXMgKDEw4oCTMTAwKTwvdGV4dD4KICA8dGV4dCB4PSI0ODAiIHk9IjEzMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzE2NjUzNCI+4oCiIENvYWxlc2NlbmNlIHBvc3NpYmxlPC90ZXh0PgogIDx0ZXh0IHg9IjQ4MCIgeT0iMTQ4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjMTY2NTM0Ij7igKIgUmFyZTwvdGV4dD4KICA8IS0tIEZvbmQgY29tbXVuIC0tPgogIDxyZWN0IHg9IjMwIiB5PSIxODUiIHdpZHRoPSI1NDAiIGhlaWdodD0iNTAiIHJ4PSI4IiBmaWxsPSIjZmZmN2VkIiBzdHJva2U9IiNmNTllMGIiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPHRleHQgeD0iMzAwIiB5PSIyMDYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjOTI0MDBlIj5DYXJhY3TDqHJlIGNvbW11bjwvdGV4dD4KICA8dGV4dCB4PSIzMDAiIHk9IjIyNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzc4MzUwZiI+Rm9uZCBqYXVuw6J0cmUgwqsgYmV1cnJlIGZyYWlzIMK7IOKAoiBIYWxvIMOpcnl0aMOpbWF0ZXV4IOKAoiBNdXF1ZXVzZSBub24ga8OpcmF0aW5pc8OpZTwvdGV4dD4KICA8dGV4dCB4PSIxMCIgeT0iMjUyIiBmb250LXNpemU9IjkiIGZpbGw9IiM5NGEzYjgiPuKaoCBTY2jDqW1hIGlsbHVzdHJhdGlmIGfDqW7DqXLDqSBwYXIgSUEg4oCUIGJhc8OpIHN1ciBsZSBjb3VyczwvdGV4dD4KCjwvc3ZnPg==",
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Aphte mineur",
+          "correct": false,
+          "feedback": "Faux. L'aphte mineur mesure 5–10 mm, est unique ou peu nombreux."
+        },
+        {
+          "id": "B",
+          "text": "Aphte majeur (Sutton)",
+          "correct": false,
+          "feedback": "Faux. L'aphte de Sutton est une lésion unique, profonde, > 10 mm."
+        },
+        {
+          "id": "C",
+          "text": "Aphte herpétiforme",
+          "correct": true,
+          "feedback": "Vrai. Le cours décrit des aphtes herpétiformes : 1–3 mm, multiples (10 à 100), pouvant coalescer."
+        },
+        {
+          "id": "D",
+          "text": "Aphte géant",
+          "correct": false,
+          "feedback": "Faux. L'aphte géant est une autre appellation de l'aphte majeur."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Quels facteurs prédisposants locaux favorisent le développement d'une candidose buccale ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Port d'une prothèse dentaire",
+          "correct": true,
+          "feedback": "Vrai. Le cours cite le port de prothèse comme facteur local prédisposant majeur."
+        },
+        {
+          "id": "B",
+          "text": "Faible flux salivaire (xérostomie)",
+          "correct": true,
+          "feedback": "Vrai. La xérostomie (liée à des médicaments, une irradiation ou un diabète) est un facteur prédisposant cité."
+        },
+        {
+          "id": "C",
+          "text": "Hypertension artérielle",
+          "correct": false,
+          "feedback": "Faux. L'HTA n'est pas un facteur prédisposant direct de la candidose buccale."
+        },
+        {
+          "id": "D",
+          "text": "Faible hygiène orale",
+          "correct": true,
+          "feedback": "Vrai. Le cours précise que la faible hygiène orale favorise l'accumulation et la prolifération des levures."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "D'après le schéma des lésions élémentaires, quelle est la différence fondamentale entre une érosion et une ulcération ?",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMjYwIiB2aWV3Qm94PSIwIDAgNjAwIDI2MCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIj4KICA8cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI2MCIgZmlsbD0iI2Y4ZjlmZiIgcng9IjEyIi8+CiAgCiAgPHRleHQgeD0iMzAwIiB5PSIzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMxZTI5M2IiPkzDqXNpb25zIMOpbMOpbWVudGFpcmVzIGRlIGxhIG11cXVldXNlIGJ1Y2NhbGU8L3RleHQ+CiAgPCEtLSBMw6lzaW9ucyBzb2xpZGVzIC0tPgogIDxyZWN0IHg9IjE1IiB5PSI0NiIgd2lkdGg9IjI4MCIgaGVpZ2h0PSIyOCIgcng9IjYiIGZpbGw9IiMxZDRlZDgiLz4KICA8dGV4dCB4PSIxNTUiIHk9IjY1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPkzDqXNpb25zIHNvbGlkZXMgKGVuIHJlbGllZik8L3RleHQ+CiAgPHJlY3QgeD0iMTUiIHk9Ijc2IiB3aWR0aD0iMTMwIiBoZWlnaHQ9IjYwIiByeD0iOCIgZmlsbD0iI2RiZWFmZSIgc3Ryb2tlPSIjOTNjNWZkIi8+CiAgPHRleHQgeD0iODAiIHk9Ijk0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzFlNDBhZiI+TWFjdWxlPC90ZXh0PgogIDx0ZXh0IHg9IjgwIiB5PSIxMTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiMxZDRlZDgiPlRhY2hlIGRlIGNvdWxldXI8L3RleHQ+CiAgPHRleHQgeD0iODAiIHk9IjEyNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzFkNGVkOCI+U2FucyByZWxpZWY8L3RleHQ+CiAgPHJlY3QgeD0iMTY1IiB5PSI3NiIgd2lkdGg9IjEzMCIgaGVpZ2h0PSI2MCIgcng9IjgiIGZpbGw9IiNkYmVhZmUiIHN0cm9rZT0iIzkzYzVmZCIvPgogIDx0ZXh0IHg9IjIzMCIgeT0iOTQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMWU0MGFmIj5QYXB1bGUgLyBOb2R1bGU8L3RleHQ+CiAgPHRleHQgeD0iMjMwIiB5PSIxMTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiMxZDRlZDgiPsOJbMOpdmF0aW9uIHNvbGlkZTwvdGV4dD4KICA8dGV4dCB4PSIyMzAiIHk9IjEyNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzFkNGVkOCI+Jmx0OzVtbSAvICZndDs1bW08L3RleHQ+CiAgPCEtLSBMw6lzaW9ucyDDoCBjb250ZW51IGxpcXVpZGUgLS0+CiAgPHJlY3QgeD0iMzA1IiB5PSI0NiIgd2lkdGg9IjI4MCIgaGVpZ2h0PSIyOCIgcng9IjYiIGZpbGw9IiM3YzNhZWQiLz4KICA8dGV4dCB4PSI0NDUiIHk9IjY1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPkzDqXNpb25zIMOgIGNvbnRlbnUgbGlxdWlkaWVuPC90ZXh0PgogIDxyZWN0IHg9IjMwNSIgeT0iNzYiIHdpZHRoPSIxMzAiIGhlaWdodD0iNjAiIHJ4PSI4IiBmaWxsPSIjZWRlOWZlIiBzdHJva2U9IiNjNGI1ZmQiLz4KICA8dGV4dCB4PSIzNzAiIHk9Ijk0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzRjMWQ5NSI+VsOpc2ljdWxlPC90ZXh0PgogIDx0ZXh0IHg9IjM3MCIgeT0iMTEwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjNWIyMWI2Ij5Db250ZW51IHPDqXJldXg8L3RleHQ+CiAgPHRleHQgeD0iMzcwIiB5PSIxMjQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM1YjIxYjYiPiZsdDsgNSBtbTwvdGV4dD4KICA8cmVjdCB4PSI0NTUiIHk9Ijc2IiB3aWR0aD0iMTMwIiBoZWlnaHQ9IjYwIiByeD0iOCIgZmlsbD0iI2VkZTlmZSIgc3Ryb2tlPSIjYzRiNWZkIi8+CiAgPHRleHQgeD0iNTIwIiB5PSI5NCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiM0YzFkOTUiPkJ1bGxlPC90ZXh0PgogIDx0ZXh0IHg9IjUyMCIgeT0iMTEwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjNWIyMWI2Ij5Db250ZW51IHPDqXJldXg8L3RleHQ+CiAgPHRleHQgeD0iNTIwIiB5PSIxMjQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM1YjIxYjYiPiZndDsgNSBtbTwvdGV4dD4KICA8IS0tIEzDqXNpb25zIHBlcnRlIGRlIHN1YnN0YW5jZSAtLT4KICA8cmVjdCB4PSIxNSIgeT0iMTQ4IiB3aWR0aD0iNTcwIiBoZWlnaHQ9IjI4IiByeD0iNiIgZmlsbD0iI2RjMjYyNiIvPgogIDx0ZXh0IHg9IjMwMCIgeT0iMTY3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPkzDqXNpb25zIHBhciBwZXJ0ZSBkZSBzdWJzdGFuY2U8L3RleHQ+CiAgPHJlY3QgeD0iMTUiIHk9IjE3OCIgd2lkdGg9IjE4MCIgaGVpZ2h0PSI2MCIgcng9IjgiIGZpbGw9IiNmZWUyZTIiIHN0cm9rZT0iI2ZjYTVhNSIvPgogIDx0ZXh0IHg9IjEwNSIgeT0iMTk2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzdmMWQxZCI+w4lyb3Npb248L3RleHQ+CiAgPHRleHQgeD0iMTA1IiB5PSIyMTIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5OTFiMWIiPlBlcnRlIHN1cGVyZmljaWVsbGU8L3RleHQ+CiAgPHRleHQgeD0iMTA1IiB5PSIyMjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5OTFiMWIiPsOJcGl0aMOpbGl1bSBzZXVsPC90ZXh0PgogIDxyZWN0IHg9IjIxMCIgeT0iMTc4IiB3aWR0aD0iMTgwIiBoZWlnaHQ9IjYwIiByeD0iOCIgZmlsbD0iI2ZlZTJlMiIgc3Ryb2tlPSIjZmNhNWE1Ii8+CiAgPHRleHQgeD0iMzAwIiB5PSIxOTYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjN2YxZDFkIj5VbGPDqXJhdGlvbjwvdGV4dD4KICA8dGV4dCB4PSIzMDAiIHk9IjIxMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzk5MWIxYiI+RMOpcGFzc2UgbGFtZSBiYXNhbGU8L3RleHQ+CiAgPHRleHQgeD0iMzAwIiB5PSIyMjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5OTFiMWIiPkNob3Jpb24gYXR0ZWludDwvdGV4dD4KICA8cmVjdCB4PSI0MDUiIHk9IjE3OCIgd2lkdGg9IjE4MCIgaGVpZ2h0PSI2MCIgcng9IjgiIGZpbGw9IiNmZWUyZTIiIHN0cm9rZT0iI2ZjYTVhNSIvPgogIDx0ZXh0IHg9IjQ5NSIgeT0iMTk2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzdmMWQxZCI+Rmlzc3VyZSAvIEV4Y29yaWF0aW9uPC90ZXh0PgogIDx0ZXh0IHg9IjQ5NSIgeT0iMjEyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjOTkxYjFiIj5QZXJ0ZSBsaW7DqWFpcmU8L3RleHQ+CiAgPHRleHQgeD0iNDk1IiB5PSIyMjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5OTFiMWIiPm91IHN1cGVyZmljaWVsbGU8L3RleHQ+CiAgPHRleHQgeD0iMTAiIHk9IjI1NCIgZm9udC1zaXplPSI5IiBmaWxsPSIjOTRhM2I4Ij7imqAgU2Now6ltYSBpbGx1c3RyYXRpZiBnw6luw6lyw6kgcGFyIElBIOKAlCBiYXPDqSBzdXIgbGUgY291cnM8L3RleHQ+Cgo8L3N2Zz4=",
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "L'érosion est plus douloureuse que l'ulcération",
+          "correct": false,
+          "feedback": "Faux. La douleur n'est pas le critère distinctif anatomopathologique."
+        },
+        {
+          "id": "B",
+          "text": "L'érosion dépasse la lame basale, l'ulcération non",
+          "correct": false,
+          "feedback": "Faux. C'est l'inverse : l'ulcération dépasse la lame basale, pas l'érosion."
+        },
+        {
+          "id": "C",
+          "text": "L'érosion est une perte superficielle limitée à l'épithélium",
+          "correct": true,
+          "feedback": "Vrai. Le cours définit l'érosion comme une perte de substance superficielle n'atteignant pas la lame basale, contrairement à l'ulcération."
+        },
+        {
+          "id": "D",
+          "text": "L'érosion laisse toujours une cicatrice",
+          "correct": false,
+          "feedback": "Faux. Au contraire, l'érosion (superficielle) guérit sans cicatrice."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Quelle est la principale différence entre une hémopathie bénigne et une hémopathie maligne ?",
+      "image": null,
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Les hémopathies bénignes ne touchent jamais les plaquettes",
+          "correct": false,
+          "feedback": "Faux. Le purpura thrombocytopénique idiopathique est une hémopathie bénigne touchant les plaquettes."
+        },
+        {
+          "id": "B",
+          "text": "Les hémopathies malignes sont des cancers du sang ou de la moelle osseuse",
+          "correct": true,
+          "feedback": "Vrai. Le cours définit les hémopathies malignes (leucémies, lymphomes, myélomes) comme des cancers du sang."
+        },
+        {
+          "id": "C",
+          "text": "L'anémie est toujours une hémopathie maligne",
+          "correct": false,
+          "feedback": "Faux. L'anémie est citée comme hémopathie bénigne dans la définition du cours."
+        },
+        {
+          "id": "D",
+          "text": "Les hémopathies bénignes ne donnent pas de manifestations buccales",
+          "correct": false,
+          "feedback": "Faux. L'anémie et l'hémophilie (hémopathies bénignes) ont des manifestations buccales connues."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Le traitement de première intention d'une candidose localisée est :",
+      "image": null,
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Fluconazole per os",
+          "correct": false,
+          "feedback": "Faux. Le fluconazole systémique est réservé aux formes étendues ou résistantes au traitement local."
+        },
+        {
+          "id": "B",
+          "text": "Nystatine en suspension ou Miconazole gel buccal",
+          "correct": true,
+          "feedback": "Vrai. Le cours indique la nystatine et le miconazole comme antifongiques locaux de référence."
+        },
+        {
+          "id": "C",
+          "text": "Aciclovir comprimés",
+          "correct": false,
+          "feedback": "Faux. L'aciclovir est un antiviral, sans effet sur Candida albicans."
+        },
+        {
+          "id": "D",
+          "text": "Amoxicilline–acide clavulanique",
+          "correct": false,
+          "feedback": "Faux. Les antibiotiques ne traitent pas les infections fongiques et peuvent aggraver la candidose."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Parmi les manifestations buccales suivantes, lesquelles sont spécifiques de l'infection par le VIH (groupe 1) ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Candidose pseudomembraneuse récidivante",
+          "correct": true,
+          "feedback": "Vrai. La candidose récidivante est classée groupe 1 des manifestations VIH."
+        },
+        {
+          "id": "B",
+          "text": "Érythème gingival linéaire persistant malgré le détartrage",
+          "correct": true,
+          "feedback": "Vrai. L'EGL classé groupe 1 se distingue par sa persistance malgré une bonne hygiène."
+        },
+        {
+          "id": "C",
+          "text": "Aphtose buccale récidivante isolée",
+          "correct": false,
+          "feedback": "Faux. L'aphtose récidivante isolée n'est pas spécifique au VIH et peut survenir dans de nombreux autres contextes."
+        },
+        {
+          "id": "D",
+          "text": "Leucoplasie orale chevelue à EBV",
+          "correct": true,
+          "feedback": "Vrai. La LOC est classée groupe 1 et fortement évocatrice d'une immunodépression par VIH."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Le schéma présente les LOPM. Laquelle présente le risque de transformation maligne le plus élevé selon le cours ?",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgNjAwIDI1NiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIj4KICA8cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI1NiIgZmlsbD0iI2Y4ZjlmZiIgcng9IjEyIi8+CiAgCiAgPHRleHQgeD0iMzAwIiB5PSIzNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMxZTI5M2IiPkzDqXNpb25zIFBvdGVudGllbGxlbWVudCBNYWxpZ25lcyAoTE9QTSk8L3RleHQ+CiAgPCEtLSBMZXVjb3BsYXNpZSAtLT4KICA8cmVjdCB4PSIyMCIgeT0iNTIiIHdpZHRoPSIxNzAiIGhlaWdodD0iMTIwIiByeD0iMTAiIGZpbGw9IiNmZWZjZTgiIHN0cm9rZT0iI2NhOGEwNCIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPHRleHQgeD0iMTA1IiB5PSI3NCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiM3MTNmMTIiPkxldWNvcGxhc2llPC90ZXh0PgogIDxyZWN0IHg9IjM1IiB5PSI4NCIgd2lkdGg9IjE0MCIgaGVpZ2h0PSIyNiIgcng9IjYiIGZpbGw9IndoaXRlIiBzdHJva2U9IiNkOTc3MDYiLz4KICA8dGV4dCB4PSIxMDUiIHk9IjEwMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzkyNDAwZSI+UGxhcXVlIEJMQU5DSEU8L3RleHQ+CiAgPHRleHQgeD0iMTA1IiB5PSIxMjIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM3ODM1MGYiPk5vbiBkw6l0YWNoYWJsZTwvdGV4dD4KICA8dGV4dCB4PSIxMDUiIHk9IjEzOCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzc4MzUwZiI+UmlzcXVlIDHigJMxNyU8L3RleHQ+CiAgPHRleHQgeD0iMTA1IiB5PSIxNTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5MjQwMGUiPkhvbW9nw6huZSAmbHQ7IE5vbi1ob21vZ8OobmU8L3RleHQ+CiAgPCEtLSDDiXJ5dGhyb3BsYXNpZSAtLT4KICA8cmVjdCB4PSIyMTAiIHk9IjUyIiB3aWR0aD0iMTcwIiBoZWlnaHQ9IjEyMCIgcng9IjEwIiBmaWxsPSIjZmVmMmYyIiBzdHJva2U9IiNkYzI2MjYiIHN0cm9rZS13aWR0aD0iMiIvPgogIDx0ZXh0IHg9IjI5NSIgeT0iNzQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjN2YxZDFkIj7DiXJ5dGhyb3BsYXNpZTwvdGV4dD4KICA8cmVjdCB4PSIyMjUiIHk9Ijg0IiB3aWR0aD0iMTQwIiBoZWlnaHQ9IjI2IiByeD0iNiIgZmlsbD0iI2ZlZTJlMiIgc3Ryb2tlPSIjZWY0NDQ0Ii8+CiAgPHRleHQgeD0iMjk1IiB5PSIxMDIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM3ZjFkMWQiPlBsYXF1ZSBST1VHRTwvdGV4dD4KICA8dGV4dCB4PSIyOTUiIHk9IjEyMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzk5MWIxYiI+VmVsb3V0w6llPC90ZXh0PgogIDx0ZXh0IHg9IjI5NSIgeT0iMTM4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjOTkxYjFiIj5SaXNxdWUgMTTigJM1MCU8L3RleHQ+CiAgPHRleHQgeD0iMjk1IiB5PSIxNTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM3ZjFkMWQiPuKaoCBSaXNxdWUgKyDDqWxldsOpPC90ZXh0PgogIDwhLS0gTGljaGVuIHBsYW4gLS0+CiAgPHJlY3QgeD0iNDAwIiB5PSI1MiIgd2lkdGg9IjE3MCIgaGVpZ2h0PSIxMjAiIHJ4PSIxMCIgZmlsbD0iI2YwZjlmZiIgc3Ryb2tlPSIjMDI4NGM3IiBzdHJva2Utd2lkdGg9IjIiLz4KICA8dGV4dCB4PSI0ODUiIHk9Ijc0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzBjNGE2ZSI+TGljaGVuIHBsYW48L3RleHQ+CiAgPHJlY3QgeD0iNDE1IiB5PSI4NCIgd2lkdGg9IjE0MCIgaGVpZ2h0PSIyNiIgcng9IjYiIGZpbGw9IiNlMGYyZmUiIHN0cm9rZT0iIzBlYTVlOSIvPgogIDx0ZXh0IHg9IjQ4NSIgeT0iMTAyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjMGM0YTZlIj5Sw6lzZWF1IGRlIFdpY2toYW08L3RleHQ+CiAgPHRleHQgeD0iNDg1IiB5PSIxMjIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMwNzU5ODUiPkZvcm1lcyA6IHLDqXRpY3VsYWlyZTwvdGV4dD4KICA8dGV4dCB4PSI0ODUiIHk9IjEzOCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzA3NTk4NSI+w6lyb3NpdmUsIGF0cm9waGlxdWU8L3RleHQ+CiAgPHRleHQgeD0iNDg1IiB5PSIxNTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiMwYzRhNmUiPkZvcm1lIMOpcm9zaXZlID0gcmlzcXVlPC90ZXh0PgogIDwhLS0gU3VydmVpbGxhbmNlIC0tPgogIDxyZWN0IHg9IjIwIiB5PSIxODgiIHdpZHRoPSI1NjAiIGhlaWdodD0iNDYiIHJ4PSI4IiBmaWxsPSIjZmRmNGZmIiBzdHJva2U9IiNhODU1ZjciIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPHRleHQgeD0iMzAwIiB5PSIyMDgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNTgxYzg3Ij5TdXJ2ZWlsbGFuY2UgJmFtcDsgUHJpc2UgZW4gY2hhcmdlPC90ZXh0PgogIDx0ZXh0IHg9IjMwMCIgeT0iMjI2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjNmIyMWE4Ij5CaW9wc2llIHNpIGRvdXRlIOKAoiBTdWl2aSByw6lndWxpZXIg4oCiIMOJbGltaW5lciBmYWN0ZXVycyBpcnJpdGFudHMgKHRhYmFjLCBhbGNvb2wsIHByb3Row6hzZSk8L3RleHQ+CiAgPHRleHQgeD0iMTAiIHk9IjI1MCIgZm9udC1zaXplPSI5IiBmaWxsPSIjOTRhM2I4Ij7imqAgU2Now6ltYSBpbGx1c3RyYXRpZiBnw6luw6lyw6kgcGFyIElBIOKAlCBiYXPDqSBzdXIgbGUgY291cnM8L3RleHQ+Cgo8L3N2Zz4=",
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Leucoplasie homogène",
+          "correct": false,
+          "feedback": "Faux. La leucoplasie homogène a un risque faible (1–2 %)."
+        },
+        {
+          "id": "B",
+          "text": "Leucoplasie non homogène",
+          "correct": false,
+          "feedback": "Partiellement vrai (risque élevé), mais l'érythroplasie reste la LOPM au risque le plus élevé."
+        },
+        {
+          "id": "C",
+          "text": "Érythroplasie",
+          "correct": true,
+          "feedback": "Vrai. Le cours indique un risque de 14–50 % pour l'érythroplasie, supérieur à toutes les autres LOPM."
+        },
+        {
+          "id": "D",
+          "text": "Lichen plan réticulaire",
+          "correct": false,
+          "feedback": "Faux. Le lichen plan réticulaire a un risque très faible ; c'est la forme érosive qui est considérée à risque."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "D'après le schéma sur les candidoses, quelle forme clinique se caractérise par des plaques blanches NON détachables à la spatule ?",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMjU4IiB2aWV3Qm94PSIwIDAgNjAwIDI1OCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIj4KICA8cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI1OCIgZmlsbD0iI2Y4ZjlmZiIgcng9IjEyIi8+CiAgCiAgPHRleHQgeD0iMzAwIiB5PSIzNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMxZTI5M2IiPkZvcm1lcyBjbGluaXF1ZXMgZGVzIGNhbmRpZG9zZXMgYnVjY2FsZXM8L3RleHQ+CiAgPCEtLSBQc2V1ZG9tZW1icmFuZXVzZSAtLT4KICA8cmVjdCB4PSIyMCIgeT0iNTIiIHdpZHRoPSIxNzAiIGhlaWdodD0iMTMwIiByeD0iMTAiIGZpbGw9IiNmZWY5YzMiIHN0cm9rZT0iI2VhYjMwOCIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPHRleHQgeD0iMTA1IiB5PSI3NCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiM3MTNmMTIiPlBzZXVkb21lbWJyYW5ldXNlPC90ZXh0PgogIDx0ZXh0IHg9IjEwNSIgeT0iOTIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM3MTNmMTIiPihNdWd1ZXQpPC90ZXh0PgogIDx0ZXh0IHg9IjEwNSIgeT0iMTEwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjNzgzNTBmIj5FbmR1aXRzIGJsYW5jczwvdGV4dD4KICA8dGV4dCB4PSIxMDUiIHk9IjEyNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzc4MzUwZiI+ZMOpdGFjaGFibGVzPC90ZXh0PgogIDx0ZXh0IHg9IjEwNSIgeT0iMTQyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjNzgzNTBmIj5NdXF1ZXVzZSByb3VnZTwvdGV4dD4KICA8dGV4dCB4PSIxMDUiIHk9IjE1OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzc4MzUwZiI+ZW4gZGVzc291czwvdGV4dD4KICA8dGV4dCB4PSIxMDUiIHk9IjE3NCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzkyNDAwZSI+QWlndcOrPC90ZXh0PgogIDwhLS0gw4lyeXRow6ltYXRldXNlIC0tPgogIDxyZWN0IHg9IjIxMCIgeT0iNTIiIHdpZHRoPSIxNzAiIGhlaWdodD0iMTMwIiByeD0iMTAiIGZpbGw9IiNmZWUyZTIiIHN0cm9rZT0iI2VmNDQ0NCIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPHRleHQgeD0iMjk1IiB5PSI3NCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiM3ZjFkMWQiPsOJcnl0aMOpbWF0ZXVzZTwvdGV4dD4KICA8dGV4dCB4PSIyOTUiIHk9IjkyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjN2YxZDFkIj4oQXRyb3BoaXF1ZSk8L3RleHQ+CiAgPHRleHQgeD0iMjk1IiB5PSIxMTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM5OTFiMWIiPlBsYWdlIHJvdWdlIHZpZjwvdGV4dD4KICA8dGV4dCB4PSIyOTUiIHk9IjEyNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzk5MWIxYiI+RG91bG91cmV1c2U8L3RleHQ+CiAgPHRleHQgeD0iMjk1IiB5PSIxNDIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM5OTFiMWIiPkFwcsOocyBBVEI8L3RleHQ+CiAgPHRleHQgeD0iMjk1IiB5PSIxNTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM5OTFiMWIiPmxhcmdlIHNwZWN0cmU8L3RleHQ+CiAgPHRleHQgeD0iMjk1IiB5PSIxNzQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM3ZjFkMWQiPkFpZ3XDqyAvIENocm9uaXF1ZTwvdGV4dD4KICA8IS0tIEh5cGVycGxhc2lxdWUgLS0+CiAgPHJlY3QgeD0iNDAwIiB5PSI1MiIgd2lkdGg9IjE3MCIgaGVpZ2h0PSIxMzAiIHJ4PSIxMCIgZmlsbD0iI2YwZmRmNCIgc3Ryb2tlPSIjMjJjNTVlIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8dGV4dCB4PSI0ODUiIHk9Ijc0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzE0NTMyZCI+SHlwZXJwbGFzaXF1ZTwvdGV4dD4KICA8dGV4dCB4PSI0ODUiIHk9IjkyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjMTQ1MzJkIj4oTGV1Y29wbGFzaXF1ZSk8L3RleHQ+CiAgPHRleHQgeD0iNDg1IiB5PSIxMTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMxNjY1MzQiPlBsYXF1ZXMgYmxhbmNoZXM8L3RleHQ+CiAgPHRleHQgeD0iNDg1IiB5PSIxMjYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMxNjY1MzQiPm5vbiBkw6l0YWNoYWJsZXM8L3RleHQ+CiAgPHRleHQgeD0iNDg1IiB5PSIxNDIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMxNjY1MzQiPkNocm9uaXF1ZTwvdGV4dD4KICA8dGV4dCB4PSI0ODUiIHk9IjE1OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzE2NjUzNCI+Qm9yZHMgY29tbWlzc3VyYXV4PC90ZXh0PgogIDx0ZXh0IHg9IjQ4NSIgeT0iMTc0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjMTQ1MzJkIj5DaHJvbmlxdWU8L3RleHQ+CiAgPCEtLSBUcmFpdGVtZW50IGNvbW11biAtLT4KICA8cmVjdCB4PSIyMCIgeT0iMTk4IiB3aWR0aD0iNTYwIiBoZWlnaHQ9IjM4IiByeD0iOCIgZmlsbD0iI2VkZTlmZSIgc3Ryb2tlPSIjOGI1Y2Y2IiBzdHJva2Utd2lkdGg9IjEuNSIvPgogIDx0ZXh0IHg9IjMwMCIgeT0iMjEzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzRjMWQ5NSI+VHJhaXRlbWVudDwvdGV4dD4KICA8dGV4dCB4PSIzMDAiIHk9IjIyOSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzViMjFiNiI+TnlzdGF0aW5lIChsb2NhbCkg4oCiIEZsdWNvbmF6b2xlIChzeXN0w6ltaXF1ZSkg4oCiIENvcnJpZ2VyIGxlcyBmYWN0ZXVycyBwcsOpZGlzcG9zYW50czwvdGV4dD4KICA8dGV4dCB4PSIxMCIgeT0iMjUyIiBmb250LXNpemU9IjkiIGZpbGw9IiM5NGEzYjgiPuKaoCBTY2jDqW1hIGlsbHVzdHJhdGlmIGfDqW7DqXLDqSBwYXIgSUEg4oCUIGJhc8OpIHN1ciBsZSBjb3VyczwvdGV4dD4KCjwvc3ZnPg==",
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Candidose pseudomembraneuse (muguet)",
+          "correct": false,
+          "feedback": "Faux. Le muguet se caractérise précisément par des enduits blancs DÉTACHABLES."
+        },
+        {
+          "id": "B",
+          "text": "Candidose érythémateuse aiguë",
+          "correct": false,
+          "feedback": "Faux. La forme érythémateuse se présente comme une plage rouge, sans enduit."
+        },
+        {
+          "id": "C",
+          "text": "Candidose hyperplasique chronique",
+          "correct": true,
+          "feedback": "Vrai. C'est la forme chronique à plaques blanches non détachables, siégeant volontiers aux commissures."
+        },
+        {
+          "id": "D",
+          "text": "Chéilite angulaire",
+          "correct": false,
+          "feedback": "Faux. La chéilite angulaire est une fissuration des commissures, pas une plaque blanche intrabuccale."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Quel est le traitement de 2ème intention des aphtoses sévères résistantes, et pourquoi son usage est-il restreint ?",
+      "image": null,
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Colchicine — risque d'agranulocytose",
+          "correct": false,
+          "feedback": "Faux. La colchicine est utilisée en 1ère intention."
+        },
+        {
+          "id": "B",
+          "text": "Thalidomide — tératogénicité",
+          "correct": true,
+          "feedback": "Vrai. Le cours indique la thalidomide en 2ème intention pour les cas graves, réservée aux formes résistantes en raison de sa tératogénicité."
+        },
+        {
+          "id": "C",
+          "text": "Prednisolone — immunodépression systémique",
+          "correct": false,
+          "feedback": "Faux. Les corticoïdes locaux sont utilisés, mais la prednisolone n'est pas le 2ème intention cité."
+        },
+        {
+          "id": "D",
+          "text": "Dapsone — hépatotoxicité sévère",
+          "correct": false,
+          "feedback": "Faux. La dapsone n'est pas mentionnée comme 2ème intention dans le cours."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Le schéma sur l'herpès labial illustre les formes cliniques de HSV-1. Quelles caractéristiques distinguent la primo-infection de la réactivation ?",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMjcyIiB2aWV3Qm94PSIwIDAgNjAwIDI3MiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIj4KICA8cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI3MiIgZmlsbD0iI2Y4ZjlmZiIgcng9IjEyIi8+CiAgCiAgPHRleHQgeD0iMzAwIiB5PSIzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMxZTI5M2IiPkhTVi0xIDogRm9ybWVzIGNsaW5pcXVlcyBvcm8tZmFjaWFsZXM8L3RleHQ+CiAgPCEtLSBQcmltby1pbmZlY3Rpb24gLS0+CiAgPHJlY3QgeD0iMjAiIHk9IjQ4IiB3aWR0aD0iMjYwIiBoZWlnaHQ9IjE2MCIgcng9IjEwIiBmaWxsPSIjZmRmNGZmIiBzdHJva2U9IiNhODU1ZjciIHN0cm9rZS13aWR0aD0iMiIvPgogIDx0ZXh0IHg9IjE1MCIgeT0iNzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNTgxYzg3Ij5Qcmltby1pbmZlY3Rpb248L3RleHQ+CiAgPHRleHQgeD0iMTUwIiB5PSI4OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzZiMjFhOCI+KEdpbmdpdm8tc3RvbWF0aXRlIGhlcnDDqXRpcXVlKTwvdGV4dD4KICA8dGV4dCB4PSIzMCIgeT0iMTEwIiBmb250LXNpemU9IjExIiBmaWxsPSIjNGMxZDk1Ij7igKIgRW5mYW50IDHigJM1IGFucyArKzwvdGV4dD4KICA8dGV4dCB4PSIzMCIgeT0iMTI4IiBmb250LXNpemU9IjExIiBmaWxsPSIjNGMxZDk1Ij7igKIgVsOpc2ljdWxlcyBtdWx0aXBsZXM8L3RleHQ+CiAgPHRleHQgeD0iMzAiIHk9IjE0NiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzRjMWQ5NSI+4oCiIEZpw6h2cmUgKyBhZMOpbm9wYXRoaWVzPC90ZXh0PgogIDx0ZXh0IHg9IjMwIiB5PSIxNjQiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM0YzFkOTUiPuKAoiBEdXLDqWUgOiAxMOKAkzE0IGpvdXJzPC90ZXh0PgogIDx0ZXh0IHg9IjMwIiB5PSIxODQiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM0YzFkOTUiPuKAoiBBY2ljbG92aXIgc2kgc8OpdsOocmU8L3RleHQ+CiAgPCEtLSBSw6lhY3RpdmF0aW9uIC0tPgogIDxyZWN0IHg9IjMwMCIgeT0iNDgiIHdpZHRoPSIyODAiIGhlaWdodD0iMTYwIiByeD0iMTAiIGZpbGw9IiNlY2ZkZjUiIHN0cm9rZT0iIzEwYjk4MSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPHRleHQgeD0iNDQwIiB5PSI3MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMwNjRlM2IiPlLDqWFjdGl2YXRpb248L3RleHQ+CiAgPHRleHQgeD0iNDQwIiB5PSI4OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzA2NWY0NiI+KEhlcnDDqHMgbGFiaWFsIOKAkyDCqyBib3V0b24gZGUgZmnDqHZyZSDCuyk8L3RleHQ+CiAgPHRleHQgeD0iMzEwIiB5PSIxMTAiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMwNDc4NTciPuKAoiA1MCUgZGVzIHBvcnRldXJzPC90ZXh0PgogIDx0ZXh0IHg9IjMxMCIgeT0iMTI4IiBmb250LXNpemU9IjExIiBmaWxsPSIjMDQ3ODU3Ij7igKIgUHJvZHJvbWVzIDogYnLDu2x1cmUsIHBydXJpdDwvdGV4dD4KICA8dGV4dCB4PSIzMTAiIHk9IjE0NiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzA0Nzg1NyI+4oCiIFbDqXNpY3VsZXMgam9uY3Rpb24gY3V0YW7DqW8tbXVxLjwvdGV4dD4KICA8dGV4dCB4PSIzMTAiIHk9IjE2NCIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzA0Nzg1NyI+4oCiIEd1w6lyaXNvbiA34oCTMTAgajwvdGV4dD4KICA8dGV4dCB4PSIzMTAiIHk9IjE4NCIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzA0Nzg1NyI+4oCiIETDqWNsZW5jaGV1cnMgOiBzdHJlc3MsIHNvbGVpbCwgZmnDqHZyZTwvdGV4dD4KICA8IS0tIEZhY3RldXIgY29tbXVuIC0tPgogIDxyZWN0IHg9IjIwIiB5PSIyMjAiIHdpZHRoPSI1NjAiIGhlaWdodD0iMjgiIHJ4PSI4IiBmaWxsPSIjZTBmMmZlIiBzdHJva2U9IiMwMjg0YzciIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPHRleHQgeD0iMzAwIiB5PSIyMzkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMwNzU5ODUiPlRyYW5zbWlzc2lvbiA6IHZvaWUgb3JhbGUgKHNhbGl2ZSkg4oCiIERpYWdub3N0aWMgZ8OpbsOpcmFsZW1lbnQgY2xpbmlxdWUg4oCiIExhdGVuY2UgZGFucyBnYW5nbGlvbiB0cmlqdW1lYXU8L3RleHQ+CiAgPHRleHQgeD0iMTAiIHk9IjI2NiIgZm9udC1zaXplPSI5IiBmaWxsPSIjOTRhM2I4Ij7imqAgU2Now6ltYSBpbGx1c3RyYXRpZiBnw6luw6lyw6kgcGFyIElBIOKAlCBiYXPDqSBzdXIgbGUgY291cnM8L3RleHQ+Cgo8L3N2Zz4=",
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "La primo-infection s'accompagne de fièvre et d'adénopathies",
+          "correct": true,
+          "feedback": "Vrai. La primo-infection (gingivo-stomatite herpétique) est fébrile avec adénopathies cervicales."
+        },
+        {
+          "id": "B",
+          "text": "La réactivation touche préférentiellement les enfants de moins de 5 ans",
+          "correct": false,
+          "feedback": "Faux. C'est la primo-infection qui touche les enfants de 1–5 ans. La réactivation survient chez l'adulte porteur."
+        },
+        {
+          "id": "C",
+          "text": "La réactivation siège à la jonction cutanéo-muqueuse",
+          "correct": true,
+          "feedback": "Vrai. L'herpès labial récurrent (bouton de fièvre) siège à la jonction cutanéo-muqueuse."
+        },
+        {
+          "id": "D",
+          "text": "Des prodromes (brûlure, prurit) précèdent la réactivation",
+          "correct": true,
+          "feedback": "Vrai. Le cours mentionne les prodromes : sensation de brûlure et prurit avant l'éruption vésiculeuse."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "La leucoplasie orale chevelue (LOC) est caractérisée par :",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Une localisation sur les bords latéraux de la langue",
+          "correct": true,
+          "feedback": "Vrai. Le cours précise que la LOC siège sur les bords latéraux de la langue."
+        },
+        {
+          "id": "B",
+          "text": "Une étiologie par le virus EBV (Epstein-Barr)",
+          "correct": true,
+          "feedback": "Vrai. L'EBV est le virus responsable de la leucoplasie orale chevelue."
+        },
+        {
+          "id": "C",
+          "text": "Des enduits blancs facilement détachables",
+          "correct": false,
+          "feedback": "Faux. La LOC présente des stries blanches non détachables, d'aspect chevelu."
+        },
+        {
+          "id": "D",
+          "text": "Une association forte avec l'infection par le VIH",
+          "correct": true,
+          "feedback": "Vrai. Elle est classée dans le groupe 1 des manifestations fortement associées au VIH."
+        }
+      ]
+    }
+  ]
+}
