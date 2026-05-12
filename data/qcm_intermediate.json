@@ -1,0 +1,965 @@
+{
+  "meta": { "title": "QCM Stomatologie S9" },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Concernant la définition de l'aphte, quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Il apparaît d'emblée, sans bulle ni vésicule préalable",
+          "correct": true,
+          "feedback": "Correct. L'aphte est défini comme une ulcération muqueuse apparaissant d'emblée, sans bulle ou vésicule préalable (cours Aphtes et aphtoses, page 5)."
+        },
+        {
+          "id": "B",
+          "text": "Il résulte d'une vasculite leucocytoclasique",
+          "correct": true,
+          "feedback": "Correct. L'aphte est provoqué par une vasculite leucocytoclasique entraînant une nécrose tissulaire à l'origine d'une ulcération primaire (cours Aphtes et aphtoses, page 5)."
+        },
+        {
+          "id": "C",
+          "text": "Il est caractérisé par une consistance dure à la palpation",
+          "correct": false,
+          "feedback": "Incorrect. L'aphte a une consistance souple. Une consistance dure oriente vers une lésion suspecte de malignité (cours QCM CHBICHEB S9)."
+        },
+        {
+          "id": "D",
+          "text": "L'ulcération dépasse la membrane basale et lèse l'épithélium et le chorion",
+          "correct": true,
+          "feedback": "Correct. L'ulcération aphteuse est une perte de substance dépassant la membrane basale, lésant l'épithélium et le chorion (cours Aphtes et aphtoses, page 5)."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "L'aphtose mineure est caractérisée par :",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Elle représente 80 % des cas d'aphtose",
+          "correct": true,
+          "feedback": "Correct. L'aphtose mineure concerne 80 % des patients (cours Aphtes et aphtoses, page 9)."
+        },
+        {
+          "id": "B",
+          "text": "Diamètre de 2 mm à 10 mm, fond en cupule couleur beurre frais, halo érythémateux",
+          "correct": true,
+          "feedback": "Correct. L'aphtose mineure mesure de 2 mm à 10 mm, à fond beurre frais en cupule, cerné d'un halo érythémateux (cours Aphtes et aphtoses, page 9)."
+        },
+        {
+          "id": "C",
+          "text": "Guérison avec cicatrices fibreuses en 2 à 3 mois",
+          "correct": false,
+          "feedback": "Incorrect. L'aphtose mineure guérit en 7 à 10 jours sans séquelle. C'est l'aphtose majeure de Sutton qui peut laisser des cicatrices fibreuses et persiste de 2 semaines à 3 mois (cours Aphtes et aphtoses, pages 10 et 12)."
+        },
+        {
+          "id": "D",
+          "text": "Pas d'adénopathie satellite",
+          "correct": true,
+          "feedback": "Correct. L'aphte vulgaire (aphtose mineure) n'est pas accompagné d'adénopathie satellite (cours Aphtes et aphtoses, page 8)."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Parmi les étiologies suivantes, lesquelles peuvent être responsables d'une aphtose secondaire ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Maladie de Behçet",
+          "correct": true,
+          "feedback": "Correct. La maladie de Behçet est une vascularite systémique dont l'aphtose buccale récurrente est souvent le 1er signe (cours Aphtes et aphtoses, page 20)."
+        },
+        {
+          "id": "B",
+          "text": "Carence en fer, zinc, folates ou vitamine B12",
+          "correct": true,
+          "feedback": "Correct. Les carences en fer, zinc, folates ou vitamines B1, B6, B2 et B12 peuvent provoquer une aphtose secondaire traitable (cours Aphtes et aphtoses, page 22)."
+        },
+        {
+          "id": "C",
+          "text": "Tabagisme actif",
+          "correct": false,
+          "feedback": "Incorrect. Le tabac a au contraire un effet protecteur sur les aphtes : la corrélation négative entre tabac et aphtes est bien démontrée, et l'incidence est plus élevée chez les non-fumeurs (cours Aphtes et aphtoses, page 18)."
+        },
+        {
+          "id": "D",
+          "text": "Maladie cœliaque, maladie de Crohn, rectocolite ulcérohémorragique",
+          "correct": true,
+          "feedback": "Correct. Ces trois affections gastro-intestinales sont des causes d'aphtose secondaire (cours Aphtes et aphtoses, page 19)."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Concernant le traitement de l'aphtose, quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "La colchicine à 1 mg/j est le premier choix dans l'aphtose sévère et la maladie de Behçet",
+          "correct": true,
+          "feedback": "Correct. La colchicine 1 mg/j per os est le premier choix dans l'aphtose sévère et la maladie de Behçet, avec un temps de latence de 2 mois avant d'être efficace (cours Aphtes et aphtoses, page 36)."
+        },
+        {
+          "id": "B",
+          "text": "Le thalidomide est contre-indiqué dans les aphtoses sévères résistantes",
+          "correct": false,
+          "feedback": "Incorrect. Le thalidomide est indiqué pour les formes sévères récidivantes résistantes aux autres traitements, bien qu'il nécessite un suivi rigoureux en raison de ses effets secondaires graves (cours Aphtes et aphtoses, pages 37 et 45)."
+        },
+        {
+          "id": "C",
+          "text": "Les dermocorticoïdes topiques (clobétasol) en pâte adhésive constituent les traitements locaux les plus utilisés",
+          "correct": true,
+          "feedback": "Correct. Les corticoïdes topiques (dermocorticoïdes comme le clobétasol dans une pâte adhésive) sont les traitements locaux les plus utilisés (cours Aphtes et aphtoses, page 34)."
+        },
+        {
+          "id": "D",
+          "text": "Éviter les aliments incriminés (noix, noisettes, gruyère) fait partie des traitements non spécifiques",
+          "correct": true,
+          "feedback": "Correct. Limiter les causes déclenchantes alimentaires (noix, noisette, gruyère, etc.) fait partie des traitements non spécifiques (cours Aphtes et aphtoses, page 40)."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Quelle est la classification des lésions pigmentées orales selon le mécanisme de pigmentation ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Lésions mélanocytaires : pigmentations raciales, mélanose tabagique, mélanome oral malin",
+          "correct": true,
+          "feedback": "Correct. Ces lésions font partie de la classification mélanocytaire des lésions pigmentées orales (cours Lésions pigmentées, page 12)."
+        },
+        {
+          "id": "B",
+          "text": "Lésions non mélanocytaires endogènes : hématome, pétéchies, sarcome de Kaposi, angiomes",
+          "correct": true,
+          "feedback": "Correct. Ces lésions font partie des pigments endogènes non mélanocytaires (cours Lésions pigmentées, page 12)."
+        },
+        {
+          "id": "C",
+          "text": "Le tatouage d'amalgame est une lésion mélanocytaire endogène",
+          "correct": false,
+          "feedback": "Incorrect. Le tatouage d'amalgame est une lésion non mélanocytaire à pigments exogènes. C'est une des causes les plus fréquentes des pigmentations intraorales (cours Lésions pigmentées, pages 12 et 23)."
+        },
+        {
+          "id": "D",
+          "text": "La macule mélanotique est une lésion bénigne sans transformation maligne, siégeant surtout au vermillon de la lèvre inférieure",
+          "correct": true,
+          "feedback": "Correct. La macule mélanotique est une lésion pigmentée bénigne, sans transformation maligne, siégeant en priorité au vermillon de la lèvre inférieure (cours Lésions pigmentées, page 19)."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Concernant le mélanome oral malin, quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Il représente moins de 1 % des cancers de la cavité orale",
+          "correct": true,
+          "feedback": "Correct. Le mélanome oral malin est rare, représentant moins de 1 % des cancers de la cavité orale (cours Lésions pigmentées, page 26)."
+        },
+        {
+          "id": "B",
+          "text": "Il se localise de préférence au palais et à la gencive",
+          "correct": true,
+          "feedback": "Correct. Le site de prédilection est le palais puis la gencive (cours Lésions pigmentées, page 26)."
+        },
+        {
+          "id": "C",
+          "text": "Il est toujours pigmenté",
+          "correct": false,
+          "feedback": "Incorrect. Il existe des mélanomes non pigmentés (cours Lésions pigmentées, page 26)."
+        },
+        {
+          "id": "D",
+          "text": "Il se manifeste cliniquement par une tache brune à noire avec bordure irrégulière ou une masse de croissance rapide avec ulcération",
+          "correct": true,
+          "feedback": "Correct. Cliniquement il se présente soit comme une tache brune à noire à bordure irrégulière de croissance lente, soit comme une masse de croissance rapide avec ulcération, saignement et destruction osseuse (cours Lésions pigmentées, page 26)."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Concernant la leucoplasie orale, quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "C'est un terme clinique désignant une lésion blanche après exclusion de toutes les affections n'ayant pas un risque accru de cancer",
+          "correct": true,
+          "feedback": "Correct. La leucoplasie est un terme clinique désignant des lésions blanches à risque discutable de cancérisation après exclusion de toutes les autres lésions (cours Lésions potentiellement malignes, page 22)."
+        },
+        {
+          "id": "B",
+          "text": "La leucoplasie homogène est la forme la plus fréquente avec un risque élevé de transformation maligne",
+          "correct": false,
+          "feedback": "Incorrect. La leucoplasie homogène est la forme la plus fréquente mais elle présente rarement des dysplasies ou seulement légères, avec rarement une transformation maligne. C'est la leucoplasie inhomogène qui a un risque élevé de transformation (cours Lésions potentiellement malignes, pages 23 et 24)."
+        },
+        {
+          "id": "C",
+          "text": "La leucoplasie verruqueuse proliférative (PVL) a un risque de transformation maligne supérieur à 70 %",
+          "correct": true,
+          "feedback": "Correct. La PVL est une affection multifocale et évolutive avec un risque très élevé de transformation maligne supérieur à 70 % (cours Lésions potentiellement malignes, page 25)."
+        },
+        {
+          "id": "D",
+          "text": "Le traitement comprend l'élimination des facteurs de risque, l'exérèse chirurgicale ou au laser CO2",
+          "correct": true,
+          "feedback": "Correct. Le traitement de la leucoplasie comprend l'élimination des facteurs de risque (70 % de cas régressent après arrêt du tabac), l'exérèse chirurgicale et le laser CO2 (cours Lésions potentiellement malignes, page 29)."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Concernant l'érythroplasie orale, quelle(s) proposition(s) est/sont exacte(s) ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "C'est la lésion au potentiel de transformation maligne le plus élevé (90 %)",
+          "correct": true,
+          "feedback": "Correct. L'érythroplasie est la lésion oralement potentiellement maligne ayant le potentiel de transformation maligne le plus élevé, atteignant 90 % (cours Lésions potentiellement malignes, page 30)."
+        },
+        {
+          "id": "B",
+          "text": "Elle se présente comme une plage veloutée rouge brillant, uniforme, souvent très étendue à limite nette",
+          "correct": true,
+          "feedback": "Correct. L'érythroplasie est définie comme une plage veloutée, rouge brillant, le plus souvent uniforme sans trace de kératinisation, souvent très étendue mais ayant une limite nette (cours Lésions potentiellement malignes, page 30)."
+        },
+        {
+          "id": "C",
+          "text": "C'est une lésion très fréquente et facile à diagnostiquer",
+          "correct": false,
+          "feedback": "Incorrect. L'érythroplasie est rare et constitue un diagnostic d'élimination de toutes les autres étiologies possibles de plages érythémateuses (lichen plan, lupus, infections mycosiques, traumatismes...) (cours Lésions potentiellement malignes, page 30)."
+        },
+        {
+          "id": "D",
+          "text": "Le diagnostic différentiel comprend le lichen plan érythémateux, le lupus, les infections mycosiques et les traumatismes",
+          "correct": true,
+          "feedback": "Correct. Le diagnostic différentiel de l'érythroplasie comprend le lichen plan érythémateux, le lupus, la pemphigoïde cicatricielle, les infections bactériennes ou mycosiques chroniques et les traumatismes (cours Lésions potentiellement malignes, page 30)."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Concernant le lichen plan buccal, quelles propositions sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "C'est une maladie inflammatoire chronique d'origine immunitaire à médiation cellulaire",
+          "correct": true,
+          "feedback": "Correct. Le lichen plan est une maladie dermatologique inflammatoire chronique d'origine immunitaire à médiation cellulaire, d'étiologie inconnue (cours Lésions potentiellement malignes, page 40)."
+        },
+        {
+          "id": "B",
+          "text": "La forme réticulée est la plus commune et se manifeste par un réseau blanchâtre bilatéral de préférence sur la face interne des joues",
+          "correct": true,
+          "feedback": "Correct. La forme réticulée est la plus reconnue, avec des lésions asymptomatiques et bilatérales formant un réseau blanchâtre sur la face interne des joues ou la langue (cours Lésions potentiellement malignes, page 41)."
+        },
+        {
+          "id": "C",
+          "text": "Le lichen plan buccal n'a aucun potentiel de transformation maligne",
+          "correct": false,
+          "feedback": "Incorrect. Le lichen plan buccal est classé parmi les lésions orales potentiellement malignes (LOPM) selon l'OMS 2017. Son potentiel de transformation, bien que faible, existe, surtout pour la forme érosive (cours Lésions potentiellement malignes, pages 40 et 41)."
+        },
+        {
+          "id": "D",
+          "text": "La forme érosive présente un fond érythémateux avec zones érosives douloureuses et souvent un réseau lichénien en périphérie",
+          "correct": true,
+          "feedback": "Correct. La forme érosive du lichen plan présente un fond érythémateux avec zones érosives douloureuses à limites nettes, et la présence d'un réseau lichénien en périphérie confirme le diagnostic (cours Lésions potentiellement malignes, page 41)."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Parmi les manifestations buccales suivantes, lesquelles sont fortement associées à l'infection par le VIH (Groupe 1 de la classification ECC) ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Candidose oropharyngée",
+          "correct": true,
+          "feedback": "Correct. La candidose fait partie du Groupe 1 (fortement associée au VIH) de la classification ECC. Près de 75 % des patients VIH+ développent au moins un épisode d'infection candidosique (cours Manifestations buccales du VIH, pages 17 et 22)."
+        },
+        {
+          "id": "B",
+          "text": "Leucoplasie orale chevelue",
+          "correct": true,
+          "feedback": "Correct. La leucoplasie orale chevelue fait partie du Groupe 1 (fortement associée au VIH) de la classification ECC. Elle est présente chez environ 25 % des sujets séropositifs (cours Manifestations buccales du VIH, pages 17 et 30)."
+        },
+        {
+          "id": "C",
+          "text": "Sarcome de Kaposi",
+          "correct": true,
+          "feedback": "Correct. Le sarcome de Kaposi fait partie du Groupe 1 (fortement associée au VIH) de la classification ECC. Il est causé par HHV-8 et l'atteinte de la muqueuse buccale survient dans 50 % des cas (cours Manifestations buccales du VIH, pages 17 et 51)."
+        },
+        {
+          "id": "D",
+          "text": "Hyperplasie gingivale fibreuse idiopathique",
+          "correct": false,
+          "feedback": "Incorrect. L'hyperplasie gingivale fibreuse idiopathique n'est pas une manifestation associée au VIH. Les manifestations parodontales spécifiques du VIH sont l'érythème gingival linéaire et les pathologies ulcéro-nécrotiques (cours Manifestations buccales du VIH, page 16)."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "La leucoplasie orale chevelue est caractérisée par :",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Des lésions blanchâtres non détachables disposées verticalement sur les bords latéraux de la langue",
+          "correct": true,
+          "feedback": "Correct. La leucoplasie orale chevelue se manifeste par des lésions blanchâtres non détachables, mal limitées, irrégulières, disposées verticalement sur les bords latéraux de la langue (cours Manifestations buccales du VIH, page 31)."
+        },
+        {
+          "id": "B",
+          "text": "Une réactivation de l'EBV chez des patients immunodéprimés",
+          "correct": true,
+          "feedback": "Correct. La leucoplasie orale chevelue est liée à une réactivation de l'EBV chez des patients VIH+ ou immunodéprimés (cours Manifestations buccales du VIH, page 30)."
+        },
+        {
+          "id": "C",
+          "text": "Un potentiel de transformation maligne important",
+          "correct": false,
+          "feedback": "Incorrect. La leucoplasie orale chevelue n'a pas de potentiel de transformation maligne (cours Manifestations buccales du VIH, page 31)."
+        },
+        {
+          "id": "D",
+          "text": "Une disparition sous traitement antirétroviral efficace",
+          "correct": true,
+          "feedback": "Correct. La leucoplasie orale chevelue disparaît sous traitement antirétroviral efficace (cours Manifestations buccales du VIH, page 31)."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Concernant la candidose pseudomembraneuse aiguë (muguet), quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "C'est la forme la plus commune de candidose buccale, survenant surtout aux âges extrêmes",
+          "correct": true,
+          "feedback": "Correct. La candidose pseudomembraneuse aiguë (muguet) est la forme la plus commune, survenant aux âges extrêmes (cours Mycoses orales, page 12)."
+        },
+        {
+          "id": "B",
+          "text": "Les plaques blanches gélatineuses sont non détachables",
+          "correct": false,
+          "feedback": "Incorrect. Les plaques blanches de la candidose pseudomembraneuse sont détachables (à la spatule ou compresse), laissant de petites zones hémorragiques. C'est ce caractère détachable qui distingue le muguet de la leucoplasie (cours Mycoses orales, page 13)."
+        },
+        {
+          "id": "C",
+          "text": "Les zones blanches correspondent à des débris cellulaires associés à des levures",
+          "correct": true,
+          "feedback": "Correct. Les zones blanches sont des plaques molles gélatineuses constituées de débris cellulaires associés à des levures (cours Mycoses orales, page 13)."
+        },
+        {
+          "id": "D",
+          "text": "La gencive est une localisation exceptionnelle du muguet",
+          "correct": true,
+          "feedback": "Correct. Les plaques peuvent être n'importe où sur la muqueuse buccale (face interne des joues, palais, langue, lèvres) à l'exception de la gencive (cours Mycoses orales, page 13)."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Parmi les antifongiques suivants, lesquels appartiennent à la famille des polyènes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "La nystatine (Mycostatine®)",
+          "correct": true,
+          "feedback": "Correct. La nystatine est un polyène, traitement de choix pour les mycoses buccales, sans toxicité (cours Mycoses orales, page 35)."
+        },
+        {
+          "id": "B",
+          "text": "Le fluconazole (Triflucan®)",
+          "correct": false,
+          "feedback": "Incorrect. Le fluconazole est un triazolé (dérivé azolé), pas un polyène. Il est très actif sur la plupart des levures mais contre-indiqué pendant la grossesse et l'allaitement (cours Mycoses orales, page 36)."
+        },
+        {
+          "id": "C",
+          "text": "L'amphotéricine B (Fungizone®)",
+          "correct": true,
+          "feedback": "Correct. L'amphotéricine B est un polyène à large spectre antifongique. Par voie IV elle est utilisée pour les mycoses systémiques mais avec toxicité rénale (cours Mycoses orales, page 35)."
+        },
+        {
+          "id": "D",
+          "text": "Le miconazole (Daktarin®)",
+          "correct": false,
+          "feedback": "Incorrect. Le miconazole est un imidazolé (dérivé azolé). Il a un effet antifongique et staphylococcique et s'utilise en applications topiques buccales (cours Mycoses orales, page 36)."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Concernant la candidose érythémateuse chronique (stomatite sous-prothétique), quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Elle est localisée au niveau de la surface de contact de la prothèse avec la muqueuse palatine",
+          "correct": true,
+          "feedback": "Correct. La candidose érythémateuse chronique (stomatite sous-prothétique) concerne l'inflammation de la muqueuse palatine en contact avec l'intrados des prothèses (cours Mycoses orales, page 17)."
+        },
+        {
+          "id": "B",
+          "text": "Elle se présente sous 3 types : érythème localisé (type I), diffus atrophique (type II), et granuleux ou noduleux (type III)",
+          "correct": true,
+          "feedback": "Correct. La stomatite sous-prothétique présente 3 types cliniques selon l'aspect de la muqueuse palatine (cours Mycoses orales, page 17)."
+        },
+        {
+          "id": "C",
+          "text": "Elle est très douloureuse et s'accompagne toujours de plaques blanchâtres",
+          "correct": false,
+          "feedback": "Incorrect. Les candidoses chroniques sont en général moins symptomatiques que les formes aiguës. La stomatite sous-prothétique se manifeste par un érythème rouge-velouté sans plaques blanchâtres (cours Mycoses orales, page 17)."
+        },
+        {
+          "id": "D",
+          "text": "Son traitement comprend un antifongique prolongé à 4 semaines et le traitement de la prothèse elle-même",
+          "correct": true,
+          "feedback": "Correct. Le traitement de la candidose prothétique inclut le même traitement antifongique que pour la candidose buccale mais prolongé à 4 semaines, et il faut également traiter la prothèse (cours Mycoses orales, page 43)."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "La primo-infection herpétique à HSV-1 est caractérisée par :",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Elle est asymptomatique dans la grande majorité des cas",
+          "correct": true,
+          "feedback": "Correct. Le premier contact avec HSV-1 est asymptomatique chez la grande majorité des patients, seuls 15 % ont une manifestation clinique bruyante (cours Stomatites virales, page 12)."
+        },
+        {
+          "id": "B",
+          "text": "Quand symptomatique, elle atteint surtout les enfants de moins de 5 ans avec une gingivite érythémateuse et des vésicules évoluant en érosions polycycliques",
+          "correct": true,
+          "feedback": "Correct. Quand elle est symptomatique, la primo-infection touche surtout les enfants de moins de 5 ans, avec prodromes fébriles, gingivite érythémateuse puis vésicules évoluant en érosions confluentes polycycliques (cours Stomatites virales, page 12)."
+        },
+        {
+          "id": "C",
+          "text": "Elle guérit en 2-3 semaines sans cicatrices",
+          "correct": true,
+          "feedback": "Correct. La guérison survient en 2 à 3 semaines, sans cicatrices (cours Stomatites virales, page 12)."
+        },
+        {
+          "id": "D",
+          "text": "Le traitement antiviral est systématique dès les premiers symptômes",
+          "correct": false,
+          "feedback": "Incorrect. Le traitement antiviral n'est pas systématique. Pour la primo-infection, l'aciclovir 200 mg 5 fois/j ou valaciclovir 500 mg 2 fois/j pendant 10 jours est prescrit dans les formes symptomatiques, mais le traitement est surtout symptomatique (cours Stomatites virales, page 17)."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Le syndrome pied-main-bouche est causé par :",
+      "image": null,
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Le virus herpès simplex type 1 (HSV-1)",
+          "correct": false,
+          "feedback": "Incorrect. Le syndrome pied-main-bouche n'est pas causé par HSV-1 mais par les virus Coxsackie A16 et Entérovirus, ainsi que les Coxsackies sous-types A5, A6, A9, A10 et l'Echovirus 11 (cours Stomatites virales, page 38)."
+        },
+        {
+          "id": "B",
+          "text": "Le virus Coxsackie A16 et l'Entérovirus",
+          "correct": true,
+          "feedback": "Correct. Le syndrome pied-main-bouche est causé par les virus Coxsackie A16 et Entérovirus, ainsi que les Coxsackies sous-types A5, A6, A9 et A10, et l'Echovirus 11 (cours Stomatites virales, page 38)."
+        },
+        {
+          "id": "C",
+          "text": "Le virus Coxsackie A1, A6, A8 responsable uniquement de l'herpangine",
+          "correct": false,
+          "feedback": "Incorrect. Ces sous-types de Coxsackie sont responsables de l'herpangine, pas du syndrome pied-main-bouche. Le Coxsackie A16 est le principal agent du syndrome pied-main-bouche (cours Stomatites virales, pages 38 et 41)."
+        },
+        {
+          "id": "D",
+          "text": "Le virus varicelle-zona (VZV)",
+          "correct": false,
+          "feedback": "Incorrect. Le VZV est responsable de la varicelle (primo-infection) et du zona (réactivation), pas du syndrome pied-main-bouche (cours Stomatites virales, page 20)."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Concernant les lésions élémentaires primaires de la muqueuse buccale, quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "La macule est une lésion plane, circonscrite, non palpable de moins de 10 mm, sans relief ni infiltration",
+          "correct": true,
+          "feedback": "Correct. La macule est définie comme une lésion plane, circonscrite, non palpable, de diamètre inférieur à 10 mm, modification de la couleur sans relief ni infiltration (cours Lésions élémentaires Belmehdi, page 20)."
+        },
+        {
+          "id": "B",
+          "text": "La vésicule est un soulèvement intra-épithélial liquidien de taille inférieure à 3 mm, dont le toit cède rapidement laissant une érosion",
+          "correct": true,
+          "feedback": "Correct. La vésicule est un soulèvement intra-épithélial contenant une petite collection de liquide clair séreux ou hémorragique, de taille inférieure à 3 mm, dont le toit cède rapidement laissant place à une érosion (cours Lésions élémentaires Belmehdi, page 32)."
+        },
+        {
+          "id": "C",
+          "text": "Le nodule est une lésion de taille inférieure à 10 mm d'origine épithéliale",
+          "correct": false,
+          "feedback": "Incorrect. Le nodule est une lésion solide, arrondie ou ovoïde, de taille supérieure à 10 mm, d'origine souvent conjonctive, résultant d'une infiltration cellulaire profonde du chorion (cours Lésions élémentaires Belmehdi, page 28)."
+        },
+        {
+          "id": "D",
+          "text": "La papule est une lésion surélevée, palpable, solide, de diamètre inférieur à 10 mm, sans contenu liquidien",
+          "correct": true,
+          "feedback": "Correct. La papule est une lésion circonscrite surélevée, palpable, solide ou ferme, de diamètre inférieur à 10 mm, sans contenu liquidien (cours Lésions élémentaires Belmehdi, page 25)."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Quelle est la différence entre l'érosion et l'ulcération en tant que lésions élémentaires secondaires ?",
+      "image": null,
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "L'érosion atteint le chorion, l'ulcération se limite à l'épithélium",
+          "correct": false,
+          "feedback": "Incorrect. C'est l'inverse : l'érosion est limitée à l'épithélium, tandis que l'ulcération est plus profonde et atteint le chorion (cours Lésions élémentaires Belmehdi, pages 36 et 38)."
+        },
+        {
+          "id": "B",
+          "text": "L'érosion est limitée à l'épithélium et cicatrise sans séquelle ; l'ulcération dépasse la membrane basale et atteint le chorion",
+          "correct": true,
+          "feedback": "Correct. L'érosion est une perte de substance limitée à l'épithélium cicatrisant sans séquelle. L'ulcération est plus profonde, dépasse la membrane basale et atteint le chorion, pouvant être couverte de fibrine et de cellules inflammatoires (cours Lésions élémentaires Belmehdi, pages 36 et 38)."
+        },
+        {
+          "id": "C",
+          "text": "L'érosion est toujours douloureuse, l'ulcération est indolore",
+          "correct": false,
+          "feedback": "Incorrect. Les érosions peuvent être peu ou non douloureuses (ex. érosions de la varicelle). L'ulcération est décrite comme douloureuse dans le cours (cours Lésions élémentaires Belmehdi, pages 36 et 38)."
+        },
+        {
+          "id": "D",
+          "text": "L'érosion et l'ulcération sont toutes deux des lésions primitives de la muqueuse",
+          "correct": false,
+          "feedback": "Incorrect. L'érosion et l'ulcération sont des lésions élémentaires secondaires (de perte de substance), et non des lésions primitives (cours Lésions élémentaires Belmehdi, page 36)."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Concernant les manifestations buccales des syndromes neutropéniques, quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Les ulcérations neutropéniques sont arrondies, nécrotiques, extensives, douloureuses et sensibles à l'antibiothérapie",
+          "correct": true,
+          "feedback": "Correct. Les ulcérations neutropéniques sont arrondies, nécrotiques, à fond sanieux ou sphacélique, extensives en surface et en profondeur, douloureuses et sensibles à l'antibiothérapie (cours Manifestations des hémopathies, page 11)."
+        },
+        {
+          "id": "B",
+          "text": "L'agranulocytose est définie par des polynucléaires neutrophiles inférieurs à 500/mm³ et constitue une urgence médicale",
+          "correct": true,
+          "feedback": "Correct. L'agranulocytose est définie par des polynucléaires neutrophiles inférieurs à 500/mm³ et constitue une urgence médicale (cours Manifestations des hémopathies, page 8)."
+        },
+        {
+          "id": "C",
+          "text": "Les aphtes géants ne font pas partie des diagnostics différentiels des ulcérations neutropéniques",
+          "correct": false,
+          "feedback": "Incorrect. Les aphtoses, notamment les aphtes géants, l'aphtose de Behçet et la maladie de Crohn font partie des diagnostics différentiels des ulcérations neutropéniques (cours Manifestations des hémopathies, page 14)."
+        },
+        {
+          "id": "D",
+          "text": "Le risque infectieux majeur inclut la candidose et la cellulite",
+          "correct": true,
+          "feedback": "Correct. Parmi les manifestations buccales de la neutropénie, le risque infectieux majeur comprend les candidoses et les cellulites (cours Manifestations des hémopathies, page 11)."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Concernant les leucémies aiguës et leurs manifestations orales, quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "La gingivite hypertrophique par infiltration leucémique peut masquer les dents",
+          "correct": true,
+          "feedback": "Correct. La gingivite hypertrophique leucémique par infiltration des gencives peut provoquer une tuméfaction importante du bord libre, diffuse et pouvant masquer les dents (cours Manifestations des hémopathies, page 49)."
+        },
+        {
+          "id": "B",
+          "text": "Les manifestations orales des leucémies aiguës sont dues à l'infiltration leucémique, la pancytopénie et la thérapeutique",
+          "correct": true,
+          "feedback": "Correct. Les manifestations orales des leucémies aiguës résultent de trois éléments : l'infiltration leucémique, la pancytopénie et la thérapeutique (cours Manifestations des hémopathies, page 48)."
+        },
+        {
+          "id": "C",
+          "text": "La thrombopénie dans les leucémies aiguës provoque des lésions purpuriques et des bulles hémorragiques muqueuses",
+          "correct": true,
+          "feedback": "Correct. La thrombopénie dans les leucémies entraîne gingivorragies spontanées, taches purpuriques, pétéchies voire bulles hémorragiques muqueuses (cours Manifestations des hémopathies, page 51)."
+        },
+        {
+          "id": "D",
+          "text": "Les leucémies aiguës lymphoblastiques (LAL) concernent exclusivement les personnes âgées",
+          "correct": false,
+          "feedback": "Incorrect. Les leucémies aiguës lymphoblastiques (LAL) concernent principalement les jeunes enfants, pas les personnes âgées (cours Manifestations des hémopathies, page 48)."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Concernant les manifestations buccales de la prise médicamenteuse, quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "La phénytoine, la cyclosporine et les bloqueurs des canaux calciques (nifédipine, amlodipine) peuvent provoquer une hyperplasie gingivale",
+          "correct": true,
+          "feedback": "Correct. Les trois principales classes de médicaments responsables d'hyperplasie gingivale sont les antiépileptiques (phénytoine), les immunosuppresseurs (cyclosporine) et les antihypertenseurs bloqueurs des canaux calciques (nifédipine, amlodipine) (cours Prise médicamenteuse et muqueuse orale, pages 6 et 7)."
+        },
+        {
+          "id": "B",
+          "text": "L'érythème polymorphe médicamenteux est dû à une réaction d'hypersensibilité, causé notamment par l'allopurinol, la carbamazépine et les barbituriques",
+          "correct": true,
+          "feedback": "Correct. L'érythème polymorphe (appelé syndrome de Stevens-Johnson sous sa forme sévère) est dû à une réaction d'hypersensibilité causée notamment par l'allopurinol, la carbamazépine et les barbituriques (cours Prise médicamenteuse et muqueuse orale, page 10)."
+        },
+        {
+          "id": "C",
+          "text": "La xérostomie médicamenteuse est rare et concerne uniquement les antidépresseurs",
+          "correct": false,
+          "feedback": "Incorrect. La xérostomie médicamenteuse est la manifestation buccale la plus fréquente et concerne de nombreuses classes médicamenteuses : antidépresseurs tricycliques, benzodiazépines, bêta-bloquants, antipsychotiques, antihistaminiques, diurétiques, etc. (cours Prise médicamenteuse et muqueuse orale, pages 24 et 25)."
+        },
+        {
+          "id": "D",
+          "text": "Les réactions lichénoïdes médicamenteuses régressent à l'arrêt du traitement",
+          "correct": true,
+          "feedback": "Correct. Les lésions lichénoïdes médicamenteuses disparaissent à l'arrêt du traitement responsable (cours Prise médicamenteuse et muqueuse orale, page 21)."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Concernant la classification des ulcérations buccales, quelles propositions sont exactes selon le cours du Pr Belmehdi ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Toute ulcération persistant plus de 3 semaines sans cause évidente est suspecte de malignité jusqu'à preuve du contraire",
+          "correct": true,
+          "feedback": "Correct. La règle des 3 semaines stipule que toute ulcération persistant plus de 3 semaines sans cause évidente impose une biopsie pour éliminer un carcinome (cours Ulcérations Belmehdi, page 4)."
+        },
+        {
+          "id": "B",
+          "text": "L'ulcération est une perte de substance profonde dépassant la membrane basale et atteignant le chorion",
+          "correct": true,
+          "feedback": "Correct. L'ulcération est définie comme une perte de substance profonde dépassant la membrane basale, atteignant le chorion (tissu conjonctif), avec saignement possible au contact (cours Ulcérations Belmehdi, page 3)."
+        },
+        {
+          "id": "C",
+          "text": "Les aphtes récidivants représentent 10-30 % de la population, constituant la première cause d'ulcération buccale",
+          "correct": true,
+          "feedback": "Correct. Les aphtes récidivants concernent 10 à 30 % de la population et constituent la première cause d'ulcération buccale (cours Ulcérations Belmehdi, page 4)."
+        },
+        {
+          "id": "D",
+          "text": "L'érosion dépasse la membrane basale et cicatrise en laissant des cicatrices fibreuses",
+          "correct": false,
+          "feedback": "Incorrect. L'érosion est une perte de substance superficielle limitée à l'épithélium, la membrane basale reste intacte, et la cicatrisation est rapide sans séquelle. Ce sont les aphtes majeurs (Sutton) et les ulcérations profondes qui peuvent laisser des cicatrices fibreuses (cours Ulcérations Belmehdi, page 3)."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Le signe de Köplik dans la rougeole est caractérisé par :",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "C'est la lésion intra-orale typique de la rougeole, pathognomonique",
+          "correct": true,
+          "feedback": "Correct. Le signe de Köplik est la lésion intra-orale typique et pathognomonique de la rougeole (cours Stomatites virales, page 53)."
+        },
+        {
+          "id": "B",
+          "text": "Il se présente comme des petites macules érythémateuses centrées par des lésions punctiformes bleuâtres ou blanc-grisâtres",
+          "correct": true,
+          "feedback": "Correct. Le signe de Köplik correspond à des petites macules érythémateuses centrées par des minuscules lésions punctiformes bleuâtres puis blanc-grisâtres nécrotiques, ressemblant à des grains de sel (cours Stomatites virales, page 53)."
+        },
+        {
+          "id": "C",
+          "text": "Il se localise au niveau de la muqueuse jugale en regard des premières molaires et prémolaires supérieures, de façon bilatérale",
+          "correct": true,
+          "feedback": "Correct. Les lésions de Köplik sont bilatérales et symétriques, localisées sur la muqueuse jugale en regard des premières molaires et prémolaires supérieures (cours Stomatites virales, page 53)."
+        },
+        {
+          "id": "D",
+          "text": "Il précède l'éruption cutanée mais persiste pendant toute la durée de la maladie",
+          "correct": false,
+          "feedback": "Incorrect. Le signe de Köplik est un signe précoce (précède l'éruption cutanée) mais il est fugace, disparaissant en 48 à 72 heures (cours Stomatites virales, page 53)."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Concernant la maladie de Behçet, quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "C'est une vascularite systémique inflammatoire avec atteinte potentielle de tous les organes, survenant par poussées",
+          "correct": true,
+          "feedback": "Correct. La maladie de Behçet est une vascularite systémique inflammatoire avec atteinte potentielle de tous les organes, survenant par poussées aiguës (cours Aphtes et aphtoses, page 20)."
+        },
+        {
+          "id": "B",
+          "text": "L'aphtose buccale récurrente est souvent le premier signe de la maladie",
+          "correct": true,
+          "feedback": "Correct. L'aphtose buccale récurrente est souvent le 1er signe de la maladie de Behçet (cours Aphtes et aphtoses, page 20)."
+        },
+        {
+          "id": "C",
+          "text": "Les manifestations ophtalmologiques sont présentes dans 45 à 90 % des cas et peuvent évoluer vers la cécité",
+          "correct": true,
+          "feedback": "Correct. Les manifestations ophtalmologiques (uvéite, cécité) sont présentes dans 45 à 90 % des cas de maladie de Behçet (cours Aphtes et aphtoses, page 20)."
+        },
+        {
+          "id": "D",
+          "text": "La maladie de Behçet dispose d'un traitement curatif bien codifié",
+          "correct": false,
+          "feedback": "Incorrect. Il n'existe pas de traitement curatif de la maladie de Behçet, seulement un traitement préventif (cours Aphtes et aphtoses, page 41)."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Concernant la surveillance des lésions potentiellement malignes (LOPM), quelle est la fréquence de surveillance clinique recommandée pour les lésions à risque de dégénérescence fréquente ?",
+      "image": null,
+      "multiple": false,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Tous les 12 mois",
+          "correct": false,
+          "feedback": "Incorrect. Une surveillance tous les 12 mois concerne la surveillance histologique des lésions à risque de dégénérescence fréquente. La surveillance clinique est plus rapprochée (cours Lésions potentiellement malignes, pages 54 et 55)."
+        },
+        {
+          "id": "B",
+          "text": "Tous les 6 mois",
+          "correct": false,
+          "feedback": "Incorrect. Tous les 6 mois est la fréquence de surveillance clinique pour les lésions à risque de dégénérescence facultative, pas fréquente (cours Lésions potentiellement malignes, page 54)."
+        },
+        {
+          "id": "C",
+          "text": "Tous les 3 mois",
+          "correct": true,
+          "feedback": "Correct. La surveillance clinique est recommandée tous les 3 mois pour les lésions à risque de dégénérescence fréquente (cours Lésions potentiellement malignes, page 54)."
+        },
+        {
+          "id": "D",
+          "text": "Tous les 2 à 3 ans",
+          "correct": false,
+          "feedback": "Incorrect. Tous les 2 à 3 ans est la fréquence de surveillance histologique (biopsie) pour les lésions à risque de dégénérescence facultative (cours Lésions potentiellement malignes, page 55)."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Quelle est la définition de la maladie de Willebrand et ses manifestations orales ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "C'est une maladie constitutionnelle familiale à caractère dominant avec déficit en facteur antihémophilique A (facteur VIII)",
+          "correct": true,
+          "feedback": "Correct. La maladie de Willebrand est une maladie constitutionnelle familiale à caractère dominant caractérisée par un allongement du TS et un déficit en facteur antihémophilique A (facteur VIII) (cours Manifestations des hémopathies, page 35)."
+        },
+        {
+          "id": "B",
+          "text": "Elle se manifeste oralement par un purpura ecchymotique, des gingivorragies spontanées et des hémorragies amygdaliennes",
+          "correct": true,
+          "feedback": "Correct. Les manifestations orales de la maladie de Willebrand comprennent le purpura ecchymotique des muqueuses buccales, les gingivorragies spontanées et les hémorragies amygdaliennes spontanées (cours Manifestations des hémopathies, page 35)."
+        },
+        {
+          "id": "C",
+          "text": "Elle ne concerne que les garçons car c'est une maladie liée au chromosome X",
+          "correct": false,
+          "feedback": "Incorrect. La maladie de Willebrand est une maladie autosomique dominante qui concerne les deux sexes. Ce sont les hémophilies A et B qui sont récessive liées au chromosome X ne concernant que les garçons (cours Manifestations des hémopathies, pages 32 et 35)."
+        },
+        {
+          "id": "D",
+          "text": "Le risque hémorragique en cas d'intervention stomatologique est comparable à celui des hémophilies",
+          "correct": true,
+          "feedback": "Correct. Le risque hémorragique en cas d'intervention stomatologique dans la maladie de Willebrand est comparable à celui des hémophilies (cours Manifestations des hémopathies, page 35)."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Concernant la pigmentation par la maladie d'Addison, quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Elle résulte d'une destruction progressive du cortex adrénalien entraînant une augmentation de la production d'ACTH",
+          "correct": true,
+          "feedback": "Correct. La maladie d'Addison est un hypoadrénalisme primaire par destruction du cortex adrénalien, entraînant une augmentation de la production d'ACTH qui stimule l'hormone stimulant les mélanocytes, d'où l'accumulation de mélanine (cours Lésions pigmentées, page 42)."
+        },
+        {
+          "id": "B",
+          "text": "Elle se manifeste par des taches brunes diffuses au niveau de la gencive, du palais et de la langue",
+          "correct": true,
+          "feedback": "Correct. Les caractéristiques orales de la maladie d'Addison comprennent des taches brunes diffuses au niveau de la gencive, du palais et de la langue (cours Lésions pigmentées, page 42)."
+        },
+        {
+          "id": "C",
+          "text": "Le diagnostic différentiel principal est la mélanose tabagique qui ne touche jamais la gencive",
+          "correct": false,
+          "feedback": "Incorrect. Le principal diagnostic différentiel de la maladie d'Addison est la pigmentation physiologique (ethnique), pas la mélanose tabagique. De plus, la mélanose tabagique touche la gencive labiale antérieure (cours Lésions pigmentées, pages 41 et 42)."
+        },
+        {
+          "id": "D",
+          "text": "C'est une maladie fatale si non traitée, avec des manifestations générales : faiblesse, nausée, vomissement, douleur abdominale",
+          "correct": true,
+          "feedback": "Correct. La maladie d'Addison est fatale si non traitée, avec des manifestations générales incluant faiblesse, nausée, vomissement, douleur abdominale et diarrhée (cours Lésions pigmentées, page 42)."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Concernant la fibrose sous-muqueuse orale, quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Elle est surtout observée en Inde et en Asie, entre 20 et 40 ans",
+          "correct": true,
+          "feedback": "Correct. La fibrose sous-muqueuse est principalement observée en Inde et dans les régions d'Asie, survenant entre 20 et 40 ans (cours Lésions potentiellement malignes, page 34)."
+        },
+        {
+          "id": "B",
+          "text": "Son étiopathogénie est liée à la mastication de noix de bétel et au tabac",
+          "correct": true,
+          "feedback": "Correct. L'étiopathogénie de la fibrose sous-muqueuse est liée à la mastication de noix de bétel et au tabac, ainsi qu'aux habitudes alimentaires d'ingestion d'aliments épicés et aux déficiences en vitamines B (cours Lésions potentiellement malignes, page 34)."
+        },
+        {
+          "id": "C",
+          "text": "La trismus et la dysphagie sont des complications du stade avancé avec perte d'élasticité de la muqueuse",
+          "correct": true,
+          "feedback": "Correct. Au stade fibreux, la mobilité de la langue est limitée, l'ouverture de la bouche, la mastication et la déglutition deviennent difficiles (cours Lésions potentiellement malignes, page 35)."
+        },
+        {
+          "id": "D",
+          "text": "Il existe un traitement spécifique reconnu permettant la guérison complète",
+          "correct": false,
+          "feedback": "Incorrect. Il n'existe pas de traitement reconnu pour la fibrose sous-muqueuse. La prise en charge comprend la supplémentation en zinc, la curcumine et la chirurgie pour améliorer l'ouverture buccale (cours Lésions potentiellement malignes, page 37)."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Quelles sont les lésions buccales spécifiquement évocatrices de l'infection par le VIH selon le cours ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "Érythème gingival linéaire",
+          "correct": true,
+          "feedback": "Correct. L'érythème gingival linéaire est une des lésions très évocatrices de l'infection par le VIH, causée par l'invasion de la gencive par Candida species, survenant quand CD4 est inférieur à 200 cellules/mm³ (cours Manifestations buccales du VIH, pages 16 et 40)."
+        },
+        {
+          "id": "B",
+          "text": "Leucoplasie orale chevelue",
+          "correct": true,
+          "feedback": "Correct. La leucoplasie orale chevelue est très évocatrice de l'infection par le VIH et est classée dans le groupe 1 de la classification ECC (fortement associée) (cours Manifestations buccales du VIH, page 16)."
+        },
+        {
+          "id": "C",
+          "text": "Aphtes récidivants de l'aphtose mineure",
+          "correct": false,
+          "feedback": "Incorrect. Les aphtes de l'aphtose mineure récidivants sont très fréquents dans la population générale et ne sont pas spécifiquement évocateurs du VIH. Dans le VIH, les ulcérations sont plus évocatrices quand elles sont larges, récurrentes, cicatrisant lentement, avec un contexte d'immunodépression sévère (cours Manifestations buccales du VIH, pages 16 et 48)."
+        },
+        {
+          "id": "D",
+          "text": "Parodontite ulcéro-nécrotique",
+          "correct": true,
+          "feedback": "Correct. La parodontite ulcéro-nécrotique est une des lésions les plus fortement associées au VIH, avec destruction rapide de tout le support parodontal (cours Manifestations buccales du VIH, pages 16 et 43)."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Concernant les variations physiologiques de la muqueuse buccale décrites par le Pr Belmehdi, quelles propositions sont exactes ?",
+      "image": null,
+      "multiple": true,
+      "answers": [
+        {
+          "id": "A",
+          "text": "La langue géographique (glossite exfoliatrice marginée) est une dystrophie linguale autosomale dominante irrégulière touchant 1 à 2 % de la population générale",
+          "correct": true,
+          "feedback": "Correct. La langue géographique est une dystrophie linguale autosomale dominante irrégulière, présente chez 1 à 2 % de la population générale (cours Lésions élémentaires Belmehdi, page 51)."
+        },
+        {
+          "id": "B",
+          "text": "La linea alba est une ligne blanchâtres bilatérale et symétrique de la face interne des joues, liée aux parafonctions",
+          "correct": true,
+          "feedback": "Correct. La linea alba est une ligne blanchâtre horizontale, bilatérale et symétrique siégeant à la face interne des joues et aux bords latéraux de la langue, liée aux parafonctions et à l'obésité (cours Lésions élémentaires Belmehdi, page 47)."
+        },
+        {
+          "id": "C",
+          "text": "La langue noire villeuse nécessite un traitement antifongique systématique car elle est toujours due à une candidose",
+          "correct": false,
+          "feedback": "Incorrect. La langue noire villeuse est due à une colonisation par des bactéries chromogènes ou des pigments exogènes. La prise en charge est la suppression des facteurs de risque (tabac, alcool, antibiotiques) et le nettoyage par raclage-brossage, et non un traitement antifongique systématique (cours Lésions élémentaires Belmehdi, pages 59 et 60)."
+        },
+        {
+          "id": "D",
+          "text": "Les granules de Fordyce sont des glandes sébacées hétérotopiques visibles sous forme de nodules jaunâtres dans la muqueuse buccale",
+          "correct": true,
+          "feedback": "Correct. Les granules de Fordyce sont des glandes sébacées hétérotopiques parfois visibles dans la muqueuse buccale, donnant des nodules jaunâtres (cours Lésions élémentaires Belmehdi, page 9)."
+        }
+      ]
+    }
+  ]
+}
