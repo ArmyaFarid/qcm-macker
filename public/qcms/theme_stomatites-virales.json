@@ -1,0 +1,528 @@
+{
+  "meta": {
+    "title": "Stomatites virales",
+    "theme": "stomatites-virales"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quel virus est le plus fréquemment responsable des atteintes oro-faciales par Herpes Simplex Virus ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "HSV-1", "correct": true, "feedback": "Correct. HSV-1 (HHV-1) est responsable de 90 % des atteintes oro-faciales."},
+        {"id": "B", "text": "HSV-2", "correct": false, "feedback": "Incorrect. HSV-2 représente seulement 10 % des atteintes oro-faciales ; il est principalement responsable de l'herpès génital."},
+        {"id": "C", "text": "VZV", "correct": false, "feedback": "Incorrect. Le VZV (HHV-3) cause la varicelle et le zona."},
+        {"id": "D", "text": "CMV", "correct": false, "feedback": "Incorrect. Le CMV (HHV-5) cause des ulcérations à 'l'emporte-pièce' chez l'immunodéprimé."}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quelle est la durée d'incubation typique de la primo-infection herpétique ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "1 à 2 jours", "correct": false, "feedback": "Incorrect. C'est trop court."},
+        {"id": "B", "text": "3 à 5 jours", "correct": true, "feedback": "Correct. La période d'incubation de la primo-infection à HSV est de 3 à 5 jours."},
+        {"id": "C", "text": "2 à 3 semaines", "correct": false, "feedback": "Incorrect. C'est l'incubation de la varicelle (~15 jours)."},
+        {"id": "D", "text": "1 à 2 mois", "correct": false, "feedback": "Incorrect. C'est l'incubation de la mononucléose infectieuse."}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Concernant la primo-infection herpétique, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Elle est asymptomatique chez la majorité des patients", "correct": true, "feedback": "Correct. Le premier contact avec le virus est asymptomatique chez la grande majorité des patients."},
+        {"id": "B", "text": "Elle se manifeste cliniquement dans 15 % des cas, surtout chez les enfants de moins de 5 ans", "correct": true, "feedback": "Correct. Dans 15 % des cas, elle donne une manifestation bruyante (enfants de moins de 5 ans)."},
+        {"id": "C", "text": "Les vésicules atteignent surtout la gencive, le palais et la langue", "correct": true, "feedback": "Correct. Les érosions affectent gencive (+++), palais, muqueuse jugale, faces dorsale et ventrale de la langue."},
+        {"id": "D", "text": "La guérison nécessite toujours un traitement antiviral systémique", "correct": false, "feedback": "Incorrect. La guérison est spontanée en 2 à 3 semaines, le traitement antiviral n'est pas systématique."}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Quelle est la cause la plus fréquente de la récurrence herpétique labiale (« bouton de fièvre ») ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Une nouvelle infection par HSV-1", "correct": false, "feedback": "Incorrect. Il s'agit d'une réactivation, pas d'une nouvelle infection."},
+        {"id": "B", "text": "Une réactivation du virus latent dans le ganglion de Gasser", "correct": true, "feedback": "Correct. La récurrence est due à la réactivation du HSV-1 resté latent dans le ganglion de Gasser."},
+        {"id": "C", "text": "Une transmission par voie aérienne", "correct": false, "feedback": "Incorrect. HSV se transmet par la salive, pas par voie aérienne."},
+        {"id": "D", "text": "Une réinfection par contact sexuel", "correct": false, "feedback": "Incorrect. La récurrence est une réactivation virale, non une réinfection."}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Parmi les facteurs déclenchants suivants d'une récurrence herpétique, lesquels sont reconnus ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Fièvre et infections aiguës", "correct": true, "feedback": "Correct. La fièvre est un facteur déclenchant classique."},
+        {"id": "B", "text": "Exposition aux ultraviolets", "correct": true, "feedback": "Correct. L'exposition UV est un facteur déclenchant majeur."},
+        {"id": "C", "text": "Stress et fatigue", "correct": true, "feedback": "Correct. Stress et fatigue sont des facteurs reconnus."},
+        {"id": "D", "text": "Anesthésie locale et soins dentaires", "correct": true, "feedback": "Correct. Les lésions tissulaires bucco-faciales (acte chirurgical, anesthésie) peuvent déclencher une récurrence."}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Quelle est la localisation typique d'une récurrence herpétique intra-orale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Face dorsale de la langue", "correct": false, "feedback": "Incorrect. Localisation atypique."},
+        {"id": "B", "text": "Plancher buccal", "correct": false, "feedback": "Incorrect. Localisation atypique pour la récurrence herpétique."},
+        {"id": "C", "text": "Muqueuse palatine en regard de la seconde molaire maxillaire", "correct": true, "feedback": "Correct. Les érosions à contours polycycliques sont fréquentes en palatin de la seconde molaire maxillaire."},
+        {"id": "D", "text": "Muqueuse jugale", "correct": false, "feedback": "Incorrect. Ce n'est pas la localisation typique des récurrences intra-orales."}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Quel est le traitement de référence par voie orale d'une primo-infection herpétique symptomatique ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Aciclovir 200 mg, 5 fois/jour, pendant 5 à 10 jours", "correct": true, "feedback": "Correct. L'aciclovir per os 200 mg 5 fois par jour pendant 5 à 10 jours est le traitement recommandé."},
+        {"id": "B", "text": "Aciclovir crème en application locale", "correct": false, "feedback": "Incorrect. Le traitement local n'a pas démontré son efficacité (HAS 2001 et 2007)."},
+        {"id": "C", "text": "Amoxicilline 1 g, 2 fois/jour", "correct": false, "feedback": "Incorrect. Les antibiotiques n'agissent pas sur les virus."},
+        {"id": "D", "text": "Corticoïdes par voie générale", "correct": false, "feedback": "Incorrect. Les corticoïdes ne sont pas indiqués et peuvent aggraver l'infection virale."}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Quelles complications du HSV peuvent survenir, bien que rares ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Eczéma herpeticum", "correct": true, "feedback": "Correct. Complication rare mais grave chez les patients atopiques."},
+        {"id": "B", "text": "Encéphalite herpétique", "correct": true, "feedback": "Correct. Complication neurologique potentiellement grave."},
+        {"id": "C", "text": "Érythème polymorphe", "correct": true, "feedback": "Correct. L'érythème polymorphe peut être déclenché par une infection HSV."},
+        {"id": "D", "text": "Mélanome oral", "correct": false, "feedback": "Incorrect. Le mélanome n'est pas une complication des infections herpétiques."}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "À partir de combien de récurrences herpétiques par an un traitement préventif est-il envisagé ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Plus de 2 par an", "correct": false, "feedback": "Incorrect. Le seuil est plus élevé."},
+        {"id": "B", "text": "Plus de 4 par an", "correct": false, "feedback": "Incorrect. Le seuil habituel est de 6."},
+        {"id": "C", "text": "Plus de 6 par an", "correct": true, "feedback": "Correct. Un traitement préventif (aciclovir 400 mg 2f/j ou valaciclovir 500 mg 1f/j pendant 6 à 12 mois) est envisagé en cas de récidives fréquentes (plus de 6/an)."},
+        {"id": "D", "text": "Plus de 12 par an", "correct": false, "feedback": "Incorrect. Le seuil est de 6 par an."}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Quelle est la prévalence de la sérologie HSV-1 positive à l'âge de 35 ans ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Environ 30 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Environ 50 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Environ 90 %", "correct": true, "feedback": "Correct. 90 % des patients ont une sérologie positive pour HSV-1 à l'âge de 35 ans."},
+        {"id": "D", "text": "Environ 100 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Le Varicelle Zona Virus correspond à quel virus de la famille Herpesviridae ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "HHV-1", "correct": false, "feedback": "Incorrect. HHV-1 = HSV-1."},
+        {"id": "B", "text": "HHV-3", "correct": true, "feedback": "Correct. Le VZV est le HHV-3."},
+        {"id": "C", "text": "HHV-4", "correct": false, "feedback": "Incorrect. HHV-4 = EBV."},
+        {"id": "D", "text": "HHV-8", "correct": false, "feedback": "Incorrect. HHV-8 est associé au sarcome de Kaposi."}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Concernant la varicelle, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Sa transmission est aéroportée et par contact avec la salive", "correct": true, "feedback": "Correct. Le VZV se transmet par voie aérienne, salive et liquide vésiculaire."},
+        {"id": "B", "text": "Son éruption suit une direction céphalo-caudale", "correct": true, "feedback": "Correct. L'éruption vésiculo-pustuleuse se distribue à direction céphalo-caudale."},
+        {"id": "C", "text": "Les vésicules orales sont généralement très douloureuses (≠ HSV)", "correct": false, "feedback": "Incorrect. À la différence du HSV, les vésicules orales sont peu ou non douloureuses."},
+        {"id": "D", "text": "Les manifestations orales sont présentes dans un tiers des cas", "correct": true, "feedback": "Correct. Les manifestations orales surviennent dans environ un tiers des patients."}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Quelle est la caractéristique principale du zona oro-facial ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Éruption bilatérale et symétrique", "correct": false, "feedback": "Incorrect. Le zona est strictement unilatéral."},
+        {"id": "B", "text": "Éruption cutanéo-muqueuse unilatérale très douloureuse suivant un trajet nerveux", "correct": true, "feedback": "Correct. Le zona est caractérisé par une éruption unilatérale très douloureuse suivant le trajet du nerf atteint."},
+        {"id": "C", "text": "Éruption asymptomatique disparaissant spontanément en 24 h", "correct": false, "feedback": "Incorrect. Le zona est très douloureux et persiste plusieurs jours."},
+        {"id": "D", "text": "Atteinte exclusivement linguale", "correct": false, "feedback": "Incorrect. Le zona suit un trajet nerveux (V1, V2, V3 du trijumeau notamment)."}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Quel est l'âge moyen de survenue du zona ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "20 ans", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "35 ans", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "51 ans", "correct": true, "feedback": "Correct. L'âge moyen de survenue du zona est de 51 ans."},
+        {"id": "D", "text": "75 ans", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Le zona peut être un indicateur potentiel d'une atteinte par quel virus ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "HPV", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "EBV", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "VIH", "correct": true, "feedback": "Correct. Le zona, surtout chez un sujet jeune, peut être un indicateur potentiel d'une infection par le VIH."},
+        {"id": "D", "text": "CMV", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Quelle est la complication la plus invalidante du zona ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Pneumopathie", "correct": false, "feedback": "Incorrect. Possible mais rare."},
+        {"id": "B", "text": "Hépatite", "correct": false, "feedback": "Incorrect. Très rare."},
+        {"id": "C", "text": "Névralgies post-zostériennes", "correct": true, "feedback": "Correct. Les névralgies post-zostériennes sont une complication très invalidante et de traitement très difficile."},
+        {"id": "D", "text": "Encéphalite", "correct": false, "feedback": "Incorrect. Complication rare."}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Quel virus est responsable de la mononucléose infectieuse ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "HHV-1 (HSV-1)", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "HHV-3 (VZV)", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "HHV-4 (EBV)", "correct": true, "feedback": "Correct. EBV (HHV-4) est responsable de la mononucléose infectieuse."},
+        {"id": "D", "text": "HHV-8", "correct": false, "feedback": "Incorrect. HHV-8 est associé au sarcome de Kaposi."}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Quelle est la manifestation orale la plus évocatrice de la mononucléose infectieuse ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Vésicules linguales", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Pétéchies à la jonction palais dur/palais mou", "correct": true, "feedback": "Correct. Au niveau de la muqueuse buccale, on observe des pétéchies à la jonction palais mou/palais dur."},
+        {"id": "C", "text": "Ulcérations à 'l'emporte-pièce' du palais", "correct": false, "feedback": "Incorrect. Ces lésions sont caractéristiques du CMV."},
+        {"id": "D", "text": "Sarcome de Kaposi", "correct": false, "feedback": "Incorrect. Associé au HHV-8."}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Quel test sérologique permet de diagnostiquer la mononucléose infectieuse ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "MNI-test (anticorps hétérophiles anti-EBV)", "correct": true, "feedback": "Correct. Le MNI-test recherche les anticorps hétérophiles anti-EBV ; si négatif, une sérologie IgM/IgG anti-EBV est demandée."},
+        {"id": "B", "text": "VDRL", "correct": false, "feedback": "Incorrect. Le VDRL est utilisé pour la syphilis."},
+        {"id": "C", "text": "TPHA", "correct": false, "feedback": "Incorrect. Le TPHA est utilisé pour la syphilis."},
+        {"id": "D", "text": "Test ELISA VIH", "correct": false, "feedback": "Incorrect. C'est pour le VIH."}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Concernant la leucoplasie orale chevelue (LOC), quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Elle est causée par EBV", "correct": true, "feedback": "Correct. La LOC est due à une réactivation de l'EBV."},
+        {"id": "B", "text": "Elle est un marqueur du passage au stade SIDA chez les patients VIH+", "correct": true, "feedback": "Correct. La LOC est un marqueur de progression vers le stade SIDA."},
+        {"id": "C", "text": "Elle se localise typiquement sur les bords latéraux de la langue", "correct": true, "feedback": "Correct. Les plaques blanches non détachables touchent les bords latéraux de la langue."},
+        {"id": "D", "text": "Elle est facilement détachable au grattage", "correct": false, "feedback": "Incorrect. Les plaques sont bien adhérentes et non détachables."}
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Le CMV correspond à quel virus de la famille Herpesviridae ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "HHV-4", "correct": false, "feedback": "Incorrect. HHV-4 = EBV."},
+        {"id": "B", "text": "HHV-5", "correct": true, "feedback": "Correct. Le CMV est le HHV-5."},
+        {"id": "C", "text": "HHV-6", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "HHV-8", "correct": false, "feedback": "Incorrect. HHV-8 est associé au sarcome de Kaposi."}
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Quelle est la manifestation orale typique d'une réactivation à CMV chez l'immunodéprimé ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Vésicules confluentes du palais", "correct": false, "feedback": "Incorrect. Typique de l'herpès."},
+        {"id": "B", "text": "Ulcérations buccales profondes à limites irrégulières, à 'l'emporte-pièce'", "correct": true, "feedback": "Correct. Le CMV donne des ulcérations buccales profondes à 'l'emporte-pièce', surtout en région amygdalienne et palais mou."},
+        {"id": "C", "text": "Plaques blanches non détachables linguales", "correct": false, "feedback": "Incorrect. C'est la leucoplasie orale chevelue (EBV)."},
+        {"id": "D", "text": "Pétéchies palatines", "correct": false, "feedback": "Incorrect. Typiques de la MNI."}
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Quel virus est responsable du sarcome de Kaposi ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "HHV-6", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "HHV-7", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "HHV-8", "correct": true, "feedback": "Correct. Le HHV-8 est responsable du sarcome de Kaposi."},
+        {"id": "D", "text": "EBV", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Quelles sont les localisations classiques du sarcome de Kaposi en bouche ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Palais dur", "correct": true, "feedback": "Correct. Le palais dur est une localisation classique."},
+        {"id": "B", "text": "Gencive", "correct": true, "feedback": "Correct. La gencive est une localisation classique."},
+        {"id": "C", "text": "Langue", "correct": true, "feedback": "Correct. La langue est une localisation classique."},
+        {"id": "D", "text": "Plancher buccal uniquement", "correct": false, "feedback": "Incorrect. Le plancher n'est pas la localisation principale."}
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Concernant le syndrome pied-main-bouche, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Il est causé par le virus Coxsackie A16 le plus souvent", "correct": true, "feedback": "Correct. Le Coxsackie A16 est en cause, parmi d'autres sous-types (A5, A6, A9, A10) et l'Entérovirus."},
+        {"id": "B", "text": "Il est très contagieux", "correct": true, "feedback": "Correct. Sa transmission est aérienne ou oro-fécale, et très contagieuse."},
+        {"id": "C", "text": "L'atteinte est limitée à la cavité buccale", "correct": false, "feedback": "Incorrect. L'atteinte touche aussi les mains et les pieds (extrémités)."},
+        {"id": "D", "text": "Sa durée est de 7 à 10 jours", "correct": true, "feedback": "Correct. Le syndrome dure 7 à 10 jours."}
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Qu'est-ce que l'herpangine ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une infection bactérienne à streptocoque", "correct": false, "feedback": "Incorrect. C'est une infection virale."},
+        {"id": "B", "text": "Une infection virale à Coxsackie A causant des vésicules postérieures buccales", "correct": true, "feedback": "Correct. L'herpangine est causée par les Coxsackie A (A1, A6, A8, A10, A22) et donne des vésicules sur le palais mou, les tonsilles palatines et le pharynx postérieur."},
+        {"id": "C", "text": "Une infection bactérienne à staphylocoque", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une réactivation du HSV-1", "correct": false, "feedback": "Incorrect. C'est dû au virus Coxsackie."}
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Concernant le papillome oral (HPV), quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Il est causé surtout par HPV 6 et 11", "correct": true, "feedback": "Correct. Les HPV 6 et 11 sont les types les plus impliqués dans le papillome oral."},
+        {"id": "B", "text": "Il a un aspect 'en chou-fleur' typique", "correct": true, "feedback": "Correct. Le papillome a une surface hérissée ou en 'chou-fleur'."},
+        {"id": "C", "text": "Il survient principalement chez les enfants", "correct": false, "feedback": "Incorrect. Il atteint les adultes entre 30 et 50 ans."},
+        {"id": "D", "text": "Il est généralement unique et pédiculé", "correct": true, "feedback": "Correct. Le papillome est une végétation exophytique unique, pédiculée, indolore."}
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Quels sont les facteurs de risque connus de l'infection orale par HPV ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Multiplicité des partenaires sexuels", "correct": true, "feedback": "Correct. La multiplicité des partenaires sexuels est un facteur de risque."},
+        {"id": "B", "text": "Rapports oro-génitaux", "correct": true, "feedback": "Correct. Les rapports oro-génitaux favorisent l'infection orale par HPV."},
+        {"id": "C", "text": "Consommation de tabac", "correct": true, "feedback": "Correct. Le tabagisme est un facteur de risque reconnu."},
+        {"id": "D", "text": "Immunodépression (VIH)", "correct": true, "feedback": "Correct. L'immunodépression, notamment par le VIH, augmente le risque."}
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Quels HPV sont les plus oncogènes au niveau oropharyngé ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "HPV 2 et 4", "correct": false, "feedback": "Incorrect. Ces types causent les verrues vulgaires."},
+        {"id": "B", "text": "HPV 6 et 11", "correct": false, "feedback": "Incorrect. Ces types causent papillomes et condylomes bénins."},
+        {"id": "C", "text": "HPV 16 et 18", "correct": true, "feedback": "Correct. Les HPV 16 et 18 sont les plus oncogènes et associés aux carcinomes oropharyngés."},
+        {"id": "D", "text": "HPV 13 et 32", "correct": false, "feedback": "Incorrect. Ces types causent la maladie de Heck."}
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Qu'est-ce que la maladie de Heck ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Une hyperplasie épithéliale focale causée par HPV 13 et 32, fréquente chez les Esquimaux et Amérindiens", "correct": true, "feedback": "Correct. La maladie de Heck est causée par HPV 13 et 32, atteint les enfants et adolescents amérindiens et esquimaux, et régresse spontanément."},
+        {"id": "B", "text": "Une infection bactérienne chronique", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Un mélanome oral", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une lésion potentiellement maligne à haut risque", "correct": false, "feedback": "Incorrect. C'est une lésion bénigne avec régression spontanée."}
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Qu'est-ce que le signe de Köplik ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Des pétéchies du palais dans la mononucléose infectieuse", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Petites macules érythémateuses centrées par des lésions punctiformes blanc-grisâtres, pathognomoniques de la rougeole", "correct": true, "feedback": "Correct. Le signe de Köplik est pathognomonique de la rougeole : macules érythémateuses avec lésions punctiformes en 'grains de sel' sur la muqueuse jugale."},
+        {"id": "C", "text": "Vésicules linguales de l'herpangine", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Ulcérations 'à l'emporte-pièce' du CMV", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Quelle est la localisation typique du signe de Köplik ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Face dorsale de la langue", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Plancher buccal", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Muqueuse jugale en regard des premières molaires et prémolaires supérieures", "correct": true, "feedback": "Correct. Le signe de Köplik est bilatéral, symétrique, sur la muqueuse jugale en regard des premières molaires et prémolaires supérieures."},
+        {"id": "D", "text": "Palais dur uniquement", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Quelles sont les principales caractéristiques des taches de Forchheimer ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Elles sont associées à la rubéole", "correct": true, "feedback": "Correct. Les taches de Forchheimer sont la manifestation buccale la plus évocatrice de la rubéole."},
+        {"id": "B", "text": "Ce sont des papules érythémateuses localisées sur la muqueuse vélaire", "correct": true, "feedback": "Correct. Il s'agit de nombreuses papules érythémateuses du voile du palais."},
+        {"id": "C", "text": "Elles sont pathognomoniques", "correct": false, "feedback": "Incorrect. Elles sont évocatrices mais pas pathognomoniques."},
+        {"id": "D", "text": "Elles sont causées par le HSV-1", "correct": false, "feedback": "Incorrect. Elles sont dues au virus de la rubéole (Togavirus/Rubivirus)."}
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Quel virus est responsable des oreillons ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Coxsackie virus", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Virus ourlien de la famille Paramyxoviridae", "correct": true, "feedback": "Correct. Les oreillons sont causés par un Paramyxoviridae (virus ourlien)."},
+        {"id": "C", "text": "Togavirus", "correct": false, "feedback": "Incorrect. C'est le virus de la rubéole."},
+        {"id": "D", "text": "Herpesviridae", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Quel est l'aspect clinique des oreillons ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Parotidomégalie unilatérale et asymétrique avec rougeur cutanée", "correct": false, "feedback": "Incorrect. C'est typique d'une parotidite bactérienne."},
+        {"id": "B", "text": "Parotidomégalie le plus souvent bilatérale, adénopathies", "correct": true, "feedback": "Correct. La parotidomégalie est généralement bilatérale (uni- ou bilatérale possible) avec adénopathies."},
+        {"id": "C", "text": "Sarcome de Kaposi palatin", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Vésicules palmo-plantaires", "correct": false, "feedback": "Incorrect. C'est le syndrome pied-main-bouche."}
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Quel est le test diagnostique de référence en cas de doute sur une infection à HSV dans des formes sévères ou atypiques ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Cytologie", "correct": false, "feedback": "Incorrect. Pas suffisamment spécifique."},
+        {"id": "B", "text": "PCR", "correct": true, "feedback": "Correct. L'identification virale par PCR est utilisée dans les formes sévères, atypiques ou résistantes au traitement."},
+        {"id": "C", "text": "Sérologie classique", "correct": false, "feedback": "Incorrect. La sérologie est moins spécifique en aigu."},
+        {"id": "D", "text": "Biopsie systématique", "correct": false, "feedback": "Incorrect. Pas systématique."}
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Le condylome acuminé buccal est une IST principalement causée par quels HPV ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "HPV 6", "correct": true, "feedback": "Correct. HPV 6 est impliqué."},
+        {"id": "B", "text": "HPV 11", "correct": true, "feedback": "Correct. HPV 11 est impliqué."},
+        {"id": "C", "text": "HPV 16", "correct": true, "feedback": "Correct. HPV 16 est également impliqué."},
+        {"id": "D", "text": "HPV 2", "correct": false, "feedback": "Incorrect. HPV 2 cause les verrues vulgaires."}
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Quel traitement antiviral est privilégié pour le zona chez le patient de plus de 50 ans ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Valaciclovir", "correct": true, "feedback": "Correct. Le valaciclovir est indiqué chez le patient > 50 ans."},
+        {"id": "B", "text": "Famciclovir", "correct": true, "feedback": "Correct. Le famciclovir est également indiqué."},
+        {"id": "C", "text": "Antibiothérapie systématique", "correct": false, "feedback": "Incorrect. Les antibiotiques ne traitent pas le virus."},
+        {"id": "D", "text": "Aciclovir réservé aux immunodéprimés", "correct": true, "feedback": "Correct. L'aciclovir IV est privilégié pour les patients immunodéprimés."}
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Quels sont les diagnostics différentiels de la primo-infection herpétique ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Aphtose miliaire", "correct": true, "feedback": "Correct. L'aphtose miliaire peut simuler une primo-infection herpétique."},
+        {"id": "B", "text": "Herpangine", "correct": true, "feedback": "Correct. L'herpangine fait partie des diagnostics différentiels."},
+        {"id": "C", "text": "Mononucléose infectieuse", "correct": true, "feedback": "Correct. La MNI peut donner des manifestations buccales similaires."},
+        {"id": "D", "text": "Varicelle", "correct": true, "feedback": "Correct. La varicelle est aussi un diagnostic différentiel."}
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Concernant les lésions causées par les Papillomaviridae au niveau oral, quels sont les types de lésions bénignes décrites ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Papillome malpighien", "correct": true, "feedback": "Correct. Le papillome malpighien est une lésion bénigne décrite."},
+        {"id": "B", "text": "Verrue vulgaire", "correct": true, "feedback": "Correct. La verrue vulgaire est une lésion bénigne, causée par HPV 2 et 4."},
+        {"id": "C", "text": "Condylome acuminé", "correct": true, "feedback": "Correct. Le condylome acuminé est une lésion bénigne mais c'est une IST."},
+        {"id": "D", "text": "Maladie de Heck (hyperplasie épithéliale focale)", "correct": true, "feedback": "Correct. La maladie de Heck est une lésion bénigne multifocale."}
+      ]
+    }
+  ]
+}

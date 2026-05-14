@@ -1,0 +1,554 @@
+{
+  "meta": {
+    "title": "Manifestations des hémopathies",
+    "theme": "hemopathies"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qu'est-ce qu'une hémopathie ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Une maladie du sang, de la moelle osseuse, des cellules sanguines ou des organes hématopoïétiques", "correct": true, "feedback": "Correct. Une hémopathie est une maladie du sang ou de la moelle osseuse affectant globules blancs, rouges, plaquettes, coagulation ou hémoglobine, ou les organes hématopoïétiques (moelle, ganglions, rate)."},
+        {"id": "B", "text": "Une maladie auto-immune cutanée", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une infection virale chronique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une maladie héréditaire neurologique", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "À partir de quel seuil de polynucléaires neutrophiles parle-t-on de neutropénie ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Moins de 4 000/mm³", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Moins de 2 500/mm³", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Moins de 1 500/mm³", "correct": true, "feedback": "Correct. La neutropénie est définie par un taux de polynucléaires neutrophiles < 1 500/mm³."},
+        {"id": "D", "text": "Moins de 500/mm³", "correct": false, "feedback": "Incorrect. C'est le seuil de l'agranulocytose."}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Quel est le seuil de polynucléaires neutrophiles définissant l'agranulocytose ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "< 1 500/mm³", "correct": false, "feedback": "Incorrect. C'est le seuil de la neutropénie."},
+        {"id": "B", "text": "< 1 000/mm³", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "< 500/mm³", "correct": true, "feedback": "Correct. L'agranulocytose est définie par un taux de PNN < 500/mm³ et constitue une urgence médicale."},
+        {"id": "D", "text": "< 100/mm³", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Concernant les ulcérations neutropéniques, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Elles sont arrondies, nécrotiques, à fond sanieux ou sphacélique", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Elles sont douloureuses", "correct": true, "feedback": "Correct. Elles sont caractéristiquement douloureuses, souvent associées à dysphagie et sialorrhée."},
+        {"id": "C", "text": "Elles peuvent nécroser l'os sous-jacent", "correct": true, "feedback": "Correct. Elles sont extensives en profondeur et peuvent nécroser l'os sous-jacent."},
+        {"id": "D", "text": "Elles ne répondent pas à l'antibiothérapie", "correct": false, "feedback": "Incorrect. Elles sont sensibles à l'antibiothérapie, avec guérison en quelques jours."}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Quel est l'examen de référence pour diagnostiquer une neutropénie ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Numération formule sanguine (NFS)", "correct": true, "feedback": "Correct. Le diagnostic se fait sur la NFS."},
+        {"id": "B", "text": "Biopsie cutanée", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "PCR virale", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Sérologie auto-immune", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Quelles causes peuvent être à l'origine d'une neutropénie acquise aigüe d'origine toxique ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Chimiothérapie anticancéreuse", "correct": true, "feedback": "Correct. La chimiothérapie est une cause majeure de neutropénie centrale."},
+        {"id": "B", "text": "Radiothérapie", "correct": true, "feedback": "Correct. La radiothérapie peut causer une neutropénie."},
+        {"id": "C", "text": "Sulfamides et barbituriques", "correct": true, "feedback": "Correct. Les sulfamides et barbituriques peuvent causer une neutropénie."},
+        {"id": "D", "text": "Vitamine B12", "correct": false, "feedback": "Incorrect. La vitamine B12 est utilisée pour traiter certaines anémies."}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Comment se définit l'agranulocytose de Kostmann ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Une maladie congénitale dominante d'évolution favorable", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Une maladie récessive provoquant des infections multiples chez le nourrisson, de pronostic fatal", "correct": true, "feedback": "Correct. L'agranulocytose de Kostmann est une maladie récessive, infections multiples chez le nourrisson, pronostic fatal."},
+        {"id": "C", "text": "Une maladie acquise d'origine virale", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une maladie auto-immune", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Quelles sont les caractéristiques d'une neutropénie cyclique idiopathique ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Transmission autosomique dominante", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Survenue toutes les trois semaines", "correct": true, "feedback": "Correct. Surviennent toutes les 3 semaines et durent 4 à 5 jours."},
+        {"id": "C", "text": "Durée des épisodes de 4 à 5 jours", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Étiologie connue depuis longtemps", "correct": false, "feedback": "Incorrect. L'étiologie est inconnue."}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Parmi les diagnostics différentiels d'une ulcération neutropénique, lesquels sont reconnus ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Aphtes géants", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Aphtose de Behçet", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Maladie de Crohn", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Ulcérations traumatiques (morsure, prothèse, dent cariée)", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Définissez le purpura.",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Tache hémorragique non effaçable à la vitropression", "correct": true, "feedback": "Correct. Le purpura est une tache hémorragique non effaçable à la vitropression."},
+        {"id": "B", "text": "Tache hémorragique effaçable à la vitropression", "correct": false, "feedback": "Incorrect. Une lésion effaçable à la vitropression est vasculaire (érythème, angiome), pas un purpura."},
+        {"id": "C", "text": "Collection sanguine enkystée", "correct": false, "feedback": "Incorrect. C'est la définition de l'hématome."},
+        {"id": "D", "text": "Épanchement sanguin articulaire", "correct": false, "feedback": "Incorrect. C'est l'hémarthrose."}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Que sont les pétéchies ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Purpura de la taille d'une tête d'épingle à une lentille", "correct": true, "feedback": "Correct. Les pétéchies sont de petits purpura millimétriques."},
+        {"id": "B", "text": "Tache hémorragique > 2 cm", "correct": false, "feedback": "Incorrect. C'est une ecchymose."},
+        {"id": "C", "text": "Hémorragie articulaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Tumeur vasculaire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Quels éléments composent le bilan d'hémostase de base devant un syndrome hémorragique ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Numération plaquettaire", "correct": true, "feedback": "Correct. Normale : 150 000-400 000/mm³."},
+        {"id": "B", "text": "Taux de prothrombine (TP)", "correct": true, "feedback": "Correct. Normal : TP > 70 %."},
+        {"id": "C", "text": "TCA ou TCK", "correct": true, "feedback": "Correct. Temps de céphaline activé ou kaolin."},
+        {"id": "D", "text": "INR (en cas de traitement par antivitamine K)", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Concernant la maladie de Rendu-Osler, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Transmission autosomique dominante", "correct": true, "feedback": "Correct. C'est une maladie héréditaire dominante autosomale."},
+        {"id": "B", "text": "Les hémorragies muqueuses sont la première traduction clinique", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Présence de télangiectasies cutanéo-muqueuses", "correct": true, "feedback": "Correct. Réseau de capillaires distendus, taille 1 à 2 mm."},
+        {"id": "D", "text": "Numération plaquettaire effondrée", "correct": false, "feedback": "Incorrect. Les tests d'hémostase sont normaux."}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "À partir de quel seuil plaquettaire le risque hémorragique majeur apparaît-il lors d'une extraction dentaire ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "< 150 000/mm³", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "< 80 000/mm³", "correct": false, "feedback": "Incorrect. TS allongé mais pas de risque hémorragique majeur."},
+        {"id": "C", "text": "< 50 000/mm³", "correct": true, "feedback": "Correct. En dessous de 50 000 plaquettes, le risque hémorragique majeur en cas d'extraction dentaire est avéré."},
+        {"id": "D", "text": "< 10 000/mm³", "correct": false, "feedback": "Incorrect. À ce seuil, les hémorragies sont incontrôlables localement (< 20 000)."}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Quelle est la transmission génétique de l'hémophilie A et B ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Autosomique dominante", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Autosomique récessive", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Récessive liée au chromosome X", "correct": true, "feedback": "Correct. Les hémophilies sont des maladies héréditaires récessives liées au chromosome sexuel X, ne touchant que les garçons."},
+        {"id": "D", "text": "Mitochondriale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Quel facteur de coagulation est déficient dans l'hémophilie A ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Facteur VII", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Facteur VIII", "correct": true, "feedback": "Correct. L'hémophilie A est due à un déficit en facteur VIII (antihémophilique A)."},
+        {"id": "C", "text": "Facteur IX", "correct": false, "feedback": "Incorrect. C'est l'hémophilie B."},
+        {"id": "D", "text": "Facteur X", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Quel facteur de coagulation est déficient dans l'hémophilie B ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Facteur VIII", "correct": false, "feedback": "Incorrect. C'est l'hémophilie A."},
+        {"id": "B", "text": "Facteur IX", "correct": true, "feedback": "Correct. L'hémophilie B est due à un déficit en facteur IX (antihémophilique B)."},
+        {"id": "C", "text": "Facteur X", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Facteur XI", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Quelles sont les caractéristiques de la maladie de Willebrand ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Maladie constitutionnelle à caractère dominant", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Allongement du TS et du temps de coagulation par déficit en facteur VIII", "correct": true, "feedback": "Correct. Allongement du TS et du temps de coagulation par déficit en facteur antihémophilique A (VIII)."},
+        {"id": "C", "text": "Manifestations buccales : purpura, gingivorragies, hémorragies amygdaliennes", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Maladie ne touchant que les hommes", "correct": false, "feedback": "Incorrect. Elle est dominante et touche les deux sexes."}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Quels sont les seuils définissant les formes sévères d'hémophilie ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Taux > 30 % du facteur de coagulation", "correct": false, "feedback": "Incorrect. C'est une forme mineure (>30%)."},
+        {"id": "B", "text": "Taux entre 5 et 30 %", "correct": false, "feedback": "Incorrect. C'est la forme mineure."},
+        {"id": "C", "text": "Taux < 1 % du facteur antihémophilique", "correct": true, "feedback": "Correct. Forme sévère : < 1 %. Modérée : 1-5 %. Mineure : 6-30 %."},
+        {"id": "D", "text": "Taux entre 30 et 50 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Quels signes biologiques caractérisent l'hémophilie ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "TS normal, TCK normal", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "TS allongé, TCK normal", "correct": false, "feedback": "Incorrect. C'est plutôt une thrombopathie."},
+        {"id": "C", "text": "TS normal, TCK allongé", "correct": true, "feedback": "Correct. Dans l'hémophilie, le TS est normal mais le TCK est allongé."},
+        {"id": "D", "text": "TS et TCK allongés", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 21,
+      "question": "À partir de quel seuil parle-t-on d'anémie chez l'homme ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Hb < 13 g/dL", "correct": true, "feedback": "Correct. Anémie chez l'homme = taux d'hémoglobine < 13 g/dL."},
+        {"id": "B", "text": "Hb < 12 g/dL", "correct": false, "feedback": "Incorrect. C'est le seuil chez la femme."},
+        {"id": "C", "text": "Hb < 14 g/dL", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Hb < 10 g/dL", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Quel est le seul symptôme oral commun à toutes les anémies ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Glossite dépapillée", "correct": false, "feedback": "Incorrect. Spécifique à l'anémie ferriprive et de Biermer."},
+        {"id": "B", "text": "Pâleur des muqueuses", "correct": true, "feedback": "Correct. La pâleur des muqueuses est le seul signe commun à toutes les anémies."},
+        {"id": "C", "text": "Pétéchies palatines", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Perlèche commissurale", "correct": false, "feedback": "Incorrect. Plutôt anémie ferriprive."}
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Quelles sont les manifestations buccales caractéristiques de l'anémie sidéropénique (ferriprive) ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Glossite dépapillée", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Atrophie des muqueuses", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Perlèche commissurale", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Tuméfaction gingivale diffuse", "correct": false, "feedback": "Incorrect. C'est plutôt évocateur des leucémies."}
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Qu'est-ce que la glossite de Hunter ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Glossite caractéristique de l'anémie de Biermer (carence en B12)", "correct": true, "feedback": "Correct. La glossite de Hunter (langue lisse, dépapillée, vernissée) est caractéristique de l'anémie de Biermer."},
+        {"id": "B", "text": "Manifestation d'une mycose orale", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Lichen plan lingual", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Tumeur maligne linguale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Quel syndrome associe dysphagie spasmodique et atrophie muqueuse œsophagienne dans l'anémie ferriprive ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Syndrome de Sjögren", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Syndrome de Plummer-Vinson (Kelly-Paterson)", "correct": true, "feedback": "Correct. Le syndrome de Kelly-Paterson (ou Plummer-Vinson) associe dysphagie spasmodique et atrophie muqueuse œsophagienne dans l'anémie ferriprive."},
+        {"id": "C", "text": "Syndrome de Behçet", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Syndrome de Stevens-Johnson", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Concernant la drépanocytose, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Anomalie constitutionnelle de la structure de la globine", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Manifestations orales : pâleur, trabéculations osseuses en échelle, nécroses pulpaires", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Possibilité d'ostéomyélite et syndrome du nerf mentonnier", "correct": true, "feedback": "Correct, conséquences des événements vaso-occlusifs."},
+        {"id": "D", "text": "La forme hétérozygote est toujours symptomatique", "correct": false, "feedback": "Incorrect. Chez l'hétérozygote, la maladie est pratiquement asymptomatique."}
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Quelle hémopathie associe anémie microcytaire hypochrome, splénomégalie et faciès particulier chez l'enfant ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Drépanocytose homozygote", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Maladie de Cooley (β-thalassémie homozygote)", "correct": true, "feedback": "Correct. La maladie de Cooley (β-thalassémie homozygote) associe anémie microcytaire hypochrome, splénomégalie, faciès caractéristique et dyscolorations dentaires."},
+        {"id": "C", "text": "Anémie de Biermer", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Maladie de Fanconi", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Quelle est la définition d'un syndrome prolifératif ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Diminution de toutes les lignées sanguines", "correct": false, "feedback": "Incorrect. C'est la pancytopénie."},
+        {"id": "B", "text": "Production anormale de certains types de cellules sanguines par la moelle osseuse", "correct": true, "feedback": "Correct. Les syndromes prolifératifs correspondent à une production anormale de cellules sanguines par la moelle osseuse."},
+        {"id": "C", "text": "Trouble de la coagulation", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Diminution de la production d'hémoglobine", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Quelles manifestations buccales sont évocatrices d'une leucémie aigue ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Hyperplasie gingivale par infiltration leucémique", "correct": true, "feedback": "Correct. Tuméfaction importante du bord libre des gencives, diffuse, qui peut masquer les dents."},
+        {"id": "B", "text": "Adénomégalies cervicales", "correct": true, "feedback": "Correct. Signe précoce des leucémies."},
+        {"id": "C", "text": "Odontalgies sans cause apparente", "correct": true, "feedback": "Correct. Les odontalgies leucémiques sont liées à l'infiltration de la pulpe dentaire par les cellules leucémiques."},
+        {"id": "D", "text": "Mélanome palatin", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 30,
+      "question": "À quel type de leucémie aigüe correspond la lignée des lymphocytes B ou T ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Leucémie aigüe myéloblastique (LAM)", "correct": false, "feedback": "Incorrect. La LAM touche les lignées myéloïdes."},
+        {"id": "B", "text": "Leucémie aigüe lymphoblastique (LAL)", "correct": true, "feedback": "Correct. La LAL atteint la lignée lymphoblastique (lymphocytes B ou T), surtout chez les jeunes enfants."},
+        {"id": "C", "text": "Leucémie myéloïde chronique (LMC)", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Leucémie lymphoïde chronique (LLC)", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Quelles cellules sont caractéristiques de la maladie de Hodgkin à l'examen histologique ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Cellules de Reed-Sternberg", "correct": true, "feedback": "Correct. La maladie de Hodgkin est caractérisée par les cellules de Reed-Sternberg à l'examen histologique."},
+        {"id": "B", "text": "Cellules de Langerhans", "correct": false, "feedback": "Incorrect. Plutôt en cas d'histiocytose."},
+        {"id": "C", "text": "Cellules en miroir (Burkitt)", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Plasmocytes", "correct": false, "feedback": "Incorrect. Caractéristiques du myélome multiple."}
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Quel virus est associé à la maladie de Hodgkin ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "VIH", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "EBV (Epstein-Barr)", "correct": true, "feedback": "Correct. Il existe un lien entre EBV et la maladie de Hodgkin."},
+        {"id": "C", "text": "HPV", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "CMV", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Quelle pathologie associe formations tumorales plasmocytaires multiples, géodes crâniennes 'en emporte-pièce' et macroglossie ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Maladie de Hodgkin", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Myélome multiple (maladie de Kahler)", "correct": true, "feedback": "Correct. Le myélome multiple ou maladie de Kahler associe géodes crâniennes 'en emporte-pièce', macroglossie (infiltration amyloïde), protéinurie de Bence-Jones et IgG monoclonale."},
+        {"id": "C", "text": "Maladie de Waldenström", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Lymphome de Burkitt", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Quel virus est associé au lymphome de Burkitt ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "VIH", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Epstein-Barr Virus (EBV)", "correct": true, "feedback": "Correct. Le lymphome de Burkitt est associé à une infection par EBV ; il peut être une complication du SIDA."},
+        {"id": "C", "text": "HHV-8", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "HSV-1", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Quels sont les signes oraux possibles d'une thrombopénie ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Purpura buccal", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Gingivorragies spontanées", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Bulles hémorragiques muqueuses", "correct": true, "feedback": "Correct. Notamment dans le purpura thrombopénique idiopathique."},
+        {"id": "D", "text": "Hyperplasie gingivale fibreuse idiopathique", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Quelles sont les causes possibles d'une thrombopénie périphérique ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Destruction immunologique des plaquettes (PTI)", "correct": true, "feedback": "Correct. Le purpura thrombopénique idiopathique est une cause majeure."},
+        {"id": "B", "text": "Séquestration splénique", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Coagulation intra-vasculaire disséminée (CIVD)", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Infections virales (oreillons, VIH, hépatites)", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Quelles caractéristiques cliniques évoquent une parodontite chez un patient leucémique ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Tuméfaction gingivale diffuse pouvant masquer les dents", "correct": true, "feedback": "Correct, par infiltration leucémique."},
+        {"id": "B", "text": "Ulcérations nécrotiques et hémorragiques", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Gingivorragies importantes même sans cause locale", "correct": true, "feedback": "Correct, liées à la thrombopénie associée."},
+        {"id": "D", "text": "Récession gingivale isolée", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Quelles lésions buccales peuvent survenir lors d'une chimiothérapie antimitotique ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Mucites (ulcérations superficielles diffuses)", "correct": true, "feedback": "Correct, érosions diffuses très douloureuses."},
+        {"id": "B", "text": "Candidoses", "correct": true, "feedback": "Correct. Fréquentes en raison de l'immunosuppression."},
+        {"id": "C", "text": "Ulcérations pharyngées et œsophagiennes", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Lichen plan exclusivement", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Qu'est-ce que la réaction du greffon contre l'hôte (GVH) chronique au niveau buccal ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Une candidose chronique post-allogreffe", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Des lésions de lichen plan cutané et muqueux, formes érosives diffuses, après greffe de moelle", "correct": true, "feedback": "Correct. La GVH chronique se manifeste par un lichen plan cutané et muqueux, parfois sous forme érosive diffuse."},
+        {"id": "C", "text": "Une mucite ulcérée transitoire", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une infiltration leucémique gingivale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Quels signes oraux 'take home messages' sont caractéristiques de pathologies hématologiques ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Télangiectasies labiales → maladie de Rendu-Osler", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Ulcérations aphtoïdes → neutropénie/agranulocytose", "correct": true, "feedback": "Correct. L'agranulocytose est une urgence médicale (mortalité 10 %)."},
+        {"id": "C", "text": "Glossite avec langue lisse dépapillée → anémie ferriprive", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Tuméfactions → lymphomes malins non hodgkiniens", "correct": true, "feedback": "Correct. Les LMNH se manifestent surtout par des tuméfactions."}
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Quelle est la définition d'une thrombopathie ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Anomalie quantitative des plaquettes", "correct": false, "feedback": "Incorrect. C'est la thrombopénie."},
+        {"id": "B", "text": "Anomalie qualitative des plaquettes (fonctionnelle)", "correct": true, "feedback": "Correct. Une thrombopathie est une anomalie qualitative (fonctionnelle) des plaquettes."},
+        {"id": "C", "text": "Excès de plaquettes", "correct": false, "feedback": "Incorrect. C'est la thrombocytose."},
+        {"id": "D", "text": "Maladie auto-immune des globules rouges", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Quels médicaments peuvent provoquer une thrombopathie acquise ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Ticlopidine", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "AINS et indométacine", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Pénicilline", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Vitamine K", "correct": false, "feedback": "Incorrect. La vitamine K améliore la coagulation."}
+      ]
+    }
+  ]
+}

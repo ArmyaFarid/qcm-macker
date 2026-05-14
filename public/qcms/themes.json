@@ -1,0 +1,44 @@
+[
+  {
+    "id": "stomatites-virales",
+    "file": "theme_stomatites-virales.json",
+    "title": "Stomatites virales",
+    "color": "indigo",
+    "icon": "virus"
+  },
+  {
+    "id": "hemopathies",
+    "file": "theme_hemopathies.json",
+    "title": "Manifestations des hémopathies",
+    "color": "red",
+    "icon": "blood"
+  },
+  {
+    "id": "lesions-pigmentees",
+    "file": "theme_lesions-pigmentees.json",
+    "title": "Les lésions pigmentées",
+    "color": "amber",
+    "icon": "palette"
+  },
+  {
+    "id": "lesions-potentiellement-malignes",
+    "file": "theme_lesions-potentiellement-malignes.json",
+    "title": "Les lésions potentiellement malignes",
+    "color": "rose",
+    "icon": "alert"
+  },
+  {
+    "id": "vih",
+    "file": "theme_vih.json",
+    "title": "Les manifestations du VIH",
+    "color": "emerald",
+    "icon": "shield"
+  },
+  {
+    "id": "prise-medicamenteuse",
+    "file": "theme_prise-medicamenteuse.json",
+    "title": "Prise médicamenteuse et muqueuse orale",
+    "color": "violet",
+    "icon": "pill"
+  }
+]

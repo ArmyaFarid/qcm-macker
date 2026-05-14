@@ -1,0 +1,554 @@
+{
+  "meta": {
+    "title": "Les lésions pigmentées",
+    "theme": "lesions-pigmentees"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qu'est-ce qu'une lésion orale pigmentée ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Un groupe hétérogène de lésions caractérisées par un changement de couleur de la muqueuse, allant du brun au noir en passant par le bleu", "correct": true, "feedback": "Correct. C'est la définition consensuelle d'une lésion orale pigmentée."},
+        {"id": "B", "text": "Une lésion blanchâtre adhérente", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une lésion hémorragique transitoire", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une lésion exclusivement vasculaire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quels pigments endogènes peuvent être à l'origine d'une coloration de la muqueuse buccale ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Mélanine", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Hémoglobine", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Hémosidérine", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Carotène", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Où sont localisés les mélanocytes dans la muqueuse buccale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Dans la couche squameuse", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Dans la couche basale de l'épithélium", "correct": true, "feedback": "Correct. Les mélanocytes sont situés dans la couche basale de l'épithélium."},
+        {"id": "C", "text": "Dans le chorion profond", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Dans les glandes salivaires accessoires", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Quelle est la différence entre hypermélaninose et hypermélanocytose ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "L'hypermélaninose est une augmentation de production de mélanine sans augmentation du nombre de mélanocytes ; l'hypermélanocytose est une augmentation du nombre de mélanocytes", "correct": true, "feedback": "Correct. L'hypermélaninose est qualitative, l'hypermélanocytose est quantitative."},
+        {"id": "B", "text": "Les deux termes sont synonymes", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "L'hypermélaninose ne touche que les muqueuses", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "L'hypermélanocytose est toujours maligne", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Concernant la macule mélanotique, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "C'est une lésion bénigne", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Le siège préférentiel est le vermillon de la lèvre inférieure", "correct": true, "feedback": "Correct. Vermillon de la lèvre inférieure +++."},
+        {"id": "C", "text": "Elle mesure généralement plus de 2 cm", "correct": false, "feedback": "Incorrect. Elle est généralement < 1 cm, bien limitée."},
+        {"id": "D", "text": "Elle est due à une augmentation de production de mélanine sans augmentation du nombre de mélanocytes", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Quelle est la localisation préférentielle du naevus oral ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Plancher buccal", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Palais dur", "correct": true, "feedback": "Correct. Le naevus oral siège préférentiellement au palais dur, mais aussi sur la gencive vestibulaire, la lèvre et la muqueuse jugale."},
+        {"id": "C", "text": "Face dorsale de la langue", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Frein lingual", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Concernant le tatouage d'amalgame, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "C'est une lésion non mélanique", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "C'est la cause la plus fréquente des pigmentations intraorales", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "La lésion est plate, bleue à grise, sans inflammation autour, diascopie négative", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Le siège est principalement le palais dur", "correct": false, "feedback": "Incorrect. Le siège est gencive et muqueuse alvéolaire."}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Quelle est la fréquence du mélanome oral malin parmi les cancers de la cavité orale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Moins de 1 %", "correct": true, "feedback": "Correct. Le mélanome oral représente moins de 1 % des cancers de la cavité orale."},
+        {"id": "B", "text": "Entre 5 et 10 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Environ 25 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Plus de 50 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Quelles sont les caractéristiques cliniques du mélanome oral malin ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Asymptomatique initialement", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Localisation préférentielle au palais", "correct": true, "feedback": "Correct. Le site de prédilection est le palais puis la gencive."},
+        {"id": "C", "text": "Tache brune à noire à bordure irrégulière ou masse de croissance rapide ulcérée", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Toujours pigmenté", "correct": false, "feedback": "Incorrect. Il existe des mélanomes non pigmentés (amélanotiques)."}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Concernant le mélanoacanthome oral, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "C'est une lésion bénigne probablement réactionnelle", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Il touche surtout la femme de race noire", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Il a un potentiel malin élevé", "correct": false, "feedback": "Incorrect. Pas de potentiel malin."},
+        {"id": "D", "text": "Tendance à croître rapidement", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Que signifie une diascopie positive d'une lésion pigmentée ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La lésion devient brune à la pression", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "La lésion blanchit (s'efface) à la pression, signant son origine vasculaire", "correct": true, "feedback": "Correct. La diascopie positive (blanchiment) oriente vers une lésion vasculaire (hémangiome, varices)."},
+        {"id": "C", "text": "La lésion reste inchangée à la pression, signant son origine mélanocytaire", "correct": false, "feedback": "Incorrect. C'est une diascopie négative."},
+        {"id": "D", "text": "La lésion change de forme à la pression", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Comment différencier un hémangiome d'une malformation vasculaire ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "L'hémangiome est une prolifération de cellules endothéliales qui régresse avec la croissance ; la malformation vasculaire persiste toute la vie", "correct": true, "feedback": "Correct. L'hémangiome est une prolifération bénigne avec régression ; la malformation vasculaire est une anomalie structurelle persistante."},
+        {"id": "B", "text": "Aucune différence : ce sont des synonymes", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "L'hémangiome est toujours malin", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "La malformation vasculaire régresse spontanément", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Quelles sont les différences cliniques entre pétéchies, purpura et ecchymose en termes de taille ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Pétéchies = millimétriques ; purpura = 2 mm à 2 cm ; ecchymose > 2 cm", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Toutes les trois sont équivalentes", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Pétéchies > 5 cm", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Ecchymose < 2 mm", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Quel signe différencie les lésions hémorragiques (pétéchies, purpura) des tumeurs vasculaires ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Les lésions hémorragiques blanchissent à la diascopie", "correct": false, "feedback": "Incorrect. Au contraire, elles ne blanchissent pas."},
+        {"id": "B", "text": "Les lésions hémorragiques ne blanchissent pas à la diascopie", "correct": true, "feedback": "Correct. Les lésions hémorragiques (pétéchies, purpura) ne blanchissent pas à la pression, contrairement aux tumeurs vasculaires."},
+        {"id": "C", "text": "Aucune différence", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Les tumeurs vasculaires sont toujours douloureuses", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Concernant le syndrome de Peutz-Jeghers, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Mutation du gène LKB1 sur le chromosome 19", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Associe macules pigmentées cutanéo-muqueuses et polypose hamartomateuse intestinale", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Risque accru de cancer (côlon, intestin, pancréas)", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Les macules buccales ont un risque élevé de transformation en mélanome", "correct": false, "feedback": "Incorrect. Pas de risque de mélanome."}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Concernant le syndrome de Laugier-Hunziker-Baran, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Affection rare et acquise", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Touche surtout les femmes caucasiennes d'âge moyen", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Macules brunâtres à noirâtres + mélanonychies longitudinales", "correct": true, "feedback": "Correct. Macules orales, génitales et mélanonychies longitudinales."},
+        {"id": "D", "text": "Étiologie virale connue (EBV)", "correct": false, "feedback": "Incorrect. Étiologie inconnue."}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Concernant les pigmentations physiologiques (ethniques), quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Fréquentes chez les Africains, Asiatiques et Méditerranéens", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Activité mélanocytaire augmentée sans augmentation du nombre de mélanocytes", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Site préférentiel : gencive attachée bilatérale, en bande, qui épargne la gencive marginale", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Apparition tardive après 50 ans", "correct": false, "feedback": "Incorrect. Apparition dans les deux premières décennies."}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Quelles caractéristiques permettent d'évoquer une mélanose tabagique ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Augmentation de la production de mélanine", "correct": true, "feedback": "Correct. Réaction de défense à la fumée du tabac."},
+        {"id": "B", "text": "Intensité dépendant de la durée et de la quantité de tabac", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Site préférentiel : gencive labiale antérieure et muqueuse jugale", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Persistance définitive même après arrêt du tabac", "correct": false, "feedback": "Incorrect. La mélanose disparaît après environ 3 ans d'arrêt du tabac."}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Qu'est-ce que la maladie d'Addison ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Hypoadrénalisme primaire : destruction bilatérale progressive du cortex adrénalien", "correct": true, "feedback": "Correct. La maladie d'Addison est un hypoadrénalisme primaire par destruction auto-immune, infectieuse ou maligne du cortex surrénalien."},
+        {"id": "B", "text": "Hypersécrétion de cortisol", "correct": false, "feedback": "Incorrect. C'est le syndrome de Cushing."},
+        {"id": "C", "text": "Adénome hypophysaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Hypothyroïdie", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Quel est le mécanisme physiopathologique de la pigmentation orale dans la maladie d'Addison ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Augmentation de l'ACTH qui stimule l'hormone stimulant les mélanocytes (MSH) → accumulation de granules de mélanine", "correct": true, "feedback": "Correct. L'élévation de l'ACTH par rétro-contrôle stimule la MSH et donc la production de mélanine."},
+        {"id": "B", "text": "Stimulation des plaquettes", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Hémorragie chronique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Effet direct du cortisol", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Quelles sont les manifestations orales typiques de la maladie d'Addison ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Taches brunes diffuses gingivales, palatines et linguales", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Apparition associée à des manifestations générales (faiblesse, nausées, perte de poids)", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Peau pouvant apparaître bronzée", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Régression spontanée sans traitement", "correct": false, "feedback": "Incorrect. La maladie est fatale sans traitement."}
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Quels métaux lourds peuvent provoquer une pigmentation muqueuse ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Bismuth", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Plomb", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Mercure", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Argent", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Quelle est la localisation typique des pigmentations par métaux lourds ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Palais dur uniquement", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Gencive marginale (pigmentation bleu-noire)", "correct": true, "feedback": "Correct. La pigmentation par métaux lourds est bleu-noire au niveau de la gencive marginale."},
+        {"id": "C", "text": "Lèvre supérieure", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Plancher buccal", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Concernant les pigmentations inflammatoires (lichen plan), quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Fréquentes dans la race noire", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Couleur marron-noire à proximité d'un lichen plan érosif ou réticulé", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Hyperproduction de mélanine + accumulation au niveau superficiel du tissu conjonctif", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Toujours néoplasiques", "correct": false, "feedback": "Incorrect. Ce sont des pigmentations bénignes réactionnelles."}
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Quelles sont les caractéristiques de la langue noire chevelue ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Pigmentation non mélanique", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Hypertrophie des papilles filiformes + bactéries chromogènes", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Siège préférentiel : milieu et postérieur du dos de la langue", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Coloration limitée à la pointe linguale", "correct": false, "feedback": "Incorrect. Elle touche le dos de la langue, milieu et partie postérieure."}
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Quels médicaments peuvent induire une pigmentation orale ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Chloroquine et autres quinines (antipaludéens)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Minocycline", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Contraceptifs oraux", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Aspirine", "correct": false, "feedback": "Incorrect. L'aspirine cause plutôt des brûlures muqueuses si applique localement."}
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Quelle est la localisation typique de la pigmentation due à la chloroquine ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Plancher buccal", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Palais dur (bleu-gris ou bleu noire)", "correct": true, "feedback": "Correct. La pigmentation médicamenteuse à la chloroquine touche surtout le palais dur."},
+        {"id": "C", "text": "Lèvre inférieure", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Frein lingual", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Quelle particularité présente la pigmentation par minocycline ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Coloration limitée aux papilles linguales", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Coloration de l'os alvéolaire qui se voit par transparence (maxillaire antérieur) + pigmentation linguale", "correct": true, "feedback": "Correct. La minocycline pigmente l'os alvéolaire visible par transparence et la langue."},
+        {"id": "C", "text": "Coloration uniquement des dents", "correct": false, "feedback": "Incorrect. Touche os, dents et muqueuse."},
+        {"id": "D", "text": "Disparaît en 24 h", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Concernant le sarcome de Kaposi, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Pathologie vasculaire maligne multifocale", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Cause : HHV-8", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Patients VIH +++", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Diagnostic clinique uniquement, sans biopsie", "correct": false, "feedback": "Incorrect. La biopsie est nécessaire pour le diagnostic."}
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Quels sont les sites préférentiels du sarcome de Kaposi oral ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Palais dur", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Gencive", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Langue", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Plancher buccal exclusivement", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Quel est l'aspect clinique d'une télangiectasie héréditaire (Rendu-Osler) ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Maladie génétique avec microanévrysmes", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Papules multiples, rondes, violettes, < 0,5 cm", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Siège : vermillon, lèvres, langue, gencive vestibulaire", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Antécédents d'épistaxis fréquents", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Concernant les varices de la face ventrale de la langue, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Veines dilatées chez les patients de plus de 60 ans", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Élévations multiples, bleu-violet, molles", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Diascopie positive (blanchissent à la pression)", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Toujours malignes", "correct": false, "feedback": "Incorrect. Ce sont des lésions bénignes."}
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Quelles sont les causes possibles d'une hémochromatose ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Anémie chronique", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Porphyrie", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Cirrhose", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Excès de consommation de fer", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Concernant les pigmentations café-au-lait, à quelle pathologie sont-elles associées ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Mélanome", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Neurofibromatose", "correct": true, "feedback": "Correct. Les pigmentations café-au-lait sont associées à la neurofibromatose, pathologie héréditaire autosomique dominante."},
+        {"id": "C", "text": "Maladie de Crohn", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Sarcoïdose", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Concernant l'examen clinique d'une lésion pigmentée, quels éléments doivent être notés ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Localisation, nombre, taille, forme", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Couleur (uniforme ou non) et bordures (régulières ou non)", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Caractère plat ou surélevé, ulcération associée", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Réponse à la diascopie", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Quelle est la conduite à tenir devant une lésion pigmentée unique, isolée et inexpliquée ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Surveillance simple", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Biopsie pour éliminer une lésion maligne (mélanome)", "correct": true, "feedback": "Correct. Toute lésion récente, évolutive ou isolée doit être biopsiée pour éliminer un mélanome."},
+        {"id": "C", "text": "Antibiothérapie", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Antifongique local", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Devant des macules pigmentées multiples, à quels diagnostics faut-il penser ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Syndrome de Laugier-Hunziker", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Syndrome de Peutz-Jeghers", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Mélanome", "correct": true, "feedback": "Correct, en cas d'évolution."},
+        {"id": "D", "text": "Naevus unique", "correct": false, "feedback": "Incorrect. Un naevus est unique."}
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Quelle distinction clinique majeure existe entre tatouage d'amalgame et mélanome débutant ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Aucune, ils sont identiques", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Le tatouage d'amalgame est plat, stable, souvent près d'une restauration dentaire ; le mélanome évolue, bordure irrégulière", "correct": true, "feedback": "Correct. La biopsie reste indiquée en cas de doute, et la radio peut montrer le métal."},
+        {"id": "C", "text": "Le tatouage d'amalgame est toujours douloureux", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le mélanome blanchit à la diascopie", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Devant une pigmentation diffuse récente associée à signes systémiques (asthénie, perte de poids, hypotension), quel diagnostic est à évoquer en priorité ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Pigmentation physiologique", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Maladie d'Addison", "correct": true, "feedback": "Correct. Le contexte de faiblesse, nausées, perte de poids associé à une pigmentation diffuse oriente vers une maladie d'Addison."},
+        {"id": "C", "text": "Tatouage d'amalgame", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Mélanose tabagique", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Quels examens complémentaires peuvent être indiqués face à une lésion pigmentée ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Radiographie rétro-alvéolaire (pour rechercher un fragment d'amalgame)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Biopsie en cas de suspicion maligne", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Sérologie VIH si suspicion de sarcome de Kaposi", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Bilan hormonal (ACTH) si suspicion de maladie d'Addison", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Quels médicaments anti-cancéreux peuvent induire des hyperpigmentations ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "5-FU (5-fluoro-uracile)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Bléomycine", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Cyclophosphamide", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Vitamine C", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Devant une pigmentation focale dont la diascopie est positive (lésion qui blanchit), quelle est l'orientation diagnostique ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Mélanome", "correct": false, "feedback": "Incorrect. Le mélanome ne blanchit pas."},
+        {"id": "B", "text": "Lésion d'origine vasculaire (hémangiome, varice)", "correct": true, "feedback": "Correct. La diascopie positive oriente vers une lésion d'origine vasculaire."},
+        {"id": "C", "text": "Tatouage d'amalgame", "correct": false, "feedback": "Incorrect. Diascopie négative."},
+        {"id": "D", "text": "Naevus", "correct": false, "feedback": "Incorrect. Diascopie négative."}
+      ]
+    }
+  ]
+}

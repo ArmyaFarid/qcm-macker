@@ -14,11 +14,12 @@ export type Question = {
     question: string;
     image: string | null;
     multiple: boolean;
+    difficulty?: number;
     answers: Answer[];
 };
 
 export type QCMData = {
-    meta: { title: string };
+    meta: { title: string; theme?: string };
     questions: Question[];
 };
 

@@ -1,0 +1,554 @@
+{
+  "meta": {
+    "title": "Prise médicamenteuse et muqueuse orale",
+    "theme": "prise-medicamenteuse"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quelles sont les manifestations orales médicamenteuses les plus fréquentes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Hyposalivation (xérostomie)", "correct": true, "feedback": "Correct. La xérostomie est l'une des manifestations les plus fréquentes."},
+        {"id": "B", "text": "Érythème polymorphe", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Hyperplasie gingivale", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Réactions lichénoïdes", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quel anti-épileptique est classiquement à l'origine d'une hyperplasie gingivale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Phénytoïne (Dilantin)", "correct": true, "feedback": "Correct. La phénytoïne est l'anti-épileptique classique responsable d'hyperplasie gingivale, visible 2-3 mois après le début du traitement."},
+        {"id": "B", "text": "Lamotrigine", "correct": false, "feedback": "Incorrect, bien que possible plus rarement."},
+        {"id": "C", "text": "Gabapentine", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Lévétiracétam", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Quel immunosuppresseur est associé à une hyperplasie gingivale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Méthotrexate", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Cyclosporine", "correct": true, "feedback": "Correct. La cyclosporine affecte la fonction métabolique du fibroblaste et donne une hyperplasie débutant aux papilles et progressant vers les couronnes."},
+        {"id": "C", "text": "Mycophénolate", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Tacrolimus", "correct": false, "feedback": "Incorrect, bien que possible."}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Quels antihypertenseurs (inhibiteurs calciques) peuvent provoquer une hyperplasie gingivale ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Amlodipine", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Nifédipine", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Vérapamil", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Diltiazem", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "L'hyperplasie gingivale causée par l'amlodipine est :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Dose-dépendante uniquement", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Indépendante de la dose mais dépendante de la durée du traitement", "correct": true, "feedback": "Correct. La sévérité semble indépendante de la dose mais dépendante de la durée."},
+        {"id": "C", "text": "Toujours réversible sous traitement", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Visible dans les 24 heures", "correct": false, "feedback": "Incorrect. Elle apparaît 1 à 9 mois après le début du traitement."}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Quel mécanisme cellulaire est à l'origine de l'hyperplasie gingivale médicamenteuse ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Atrophie des kératinocytes", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Altération de la fonction métabolique du fibroblaste et de la synthèse de collagène/protéines", "correct": true, "feedback": "Correct. Ces médicaments affectent les fibroblastes et la synthèse protéique/collagène."},
+        {"id": "C", "text": "Hyperplasie endothéliale", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Apoptose des cellules épithéliales", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Qu'est-ce que l'érythème polymorphe ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une affection muco-cutanée avec divers types de lésions, parfois liée à des médicaments ou agents microbiens", "correct": true, "feedback": "Correct. L'érythème polymorphe est une affection muco-cutanée, sévère = syndrome de Stevens-Johnson."},
+        {"id": "B", "text": "Une candidose chronique", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une carie aiguë", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Un mélanome", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Quels médicaments peuvent provoquer un érythème polymorphe ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Allopurinol", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Carbamazépine", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Barbituriques", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Sulfamides et co-trimoxazole", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Quelles sont les manifestations cliniques de l'érythème polymorphe ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Lésions des lèvres, de la muqueuse buccale et de la conjonctive", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Bulles et érosions, lèvres enflées et croûteuses", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Érythème étendu possible", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Persistance définitive même après arrêt du médicament", "correct": false, "feedback": "Incorrect. Les lésions disparaissent dans les 14 jours suivant l'arrêt."}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Quels médicaments peuvent favoriser une candidose buccale ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Antibiotiques à large spectre", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Corticoïdes (locaux ou systémiques)", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Immunosuppresseurs", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Aciclovir", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Quel est le mécanisme de la candidose induite par les antibiotiques ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Stimulation directe des Candida", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Altération de la flore buccale commensale et croissance des Candida", "correct": true, "feedback": "Correct. Les antibiotiques altèrent la flore commensale, favorisant la croissance des Candida."},
+        {"id": "C", "text": "Réaction allergique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Vasodilatation locale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Quels médicaments peuvent provoquer des ulcérations buccales / lésions aphteuses ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Captopril", "correct": true, "feedback": "Correct. Le captopril est classiquement responsable de lésions aphteuses."},
+        {"id": "B", "text": "Nicorandil", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "AINS", "correct": true, "feedback": "Correct, certains AINS peuvent en causer."},
+        {"id": "D", "text": "Vitamine C", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Quels protocoles de chimiothérapie sont classiquement responsables de mucites orales ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Méthotrexate", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "5-Fluorouracil (5-FU)", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Doxorubicine", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Bléomycine", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Quels effets oraux peuvent survenir après application locale d'aspirine ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Coloration noire", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Ulcérations / brûlures muqueuses plus ou moins étendues", "correct": true, "feedback": "Correct. L'application locale d'aspirine sur la muqueuse peut provoquer une brûlure caustique avec ulcération."},
+        {"id": "C", "text": "Caries multiples", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Hyperplasie gingivale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Quels médicaments peuvent provoquer des pigmentations muqueuses ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Anti-malariens (chloroquine, hydroxychloroquine)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Phénothiazines, phénytoïne", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Zidovudine, minocycline", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Paracétamol", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Quelles molécules peuvent favoriser une langue noire chevelue ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Corticoïdes", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Antibiotiques (pénicilline, céphalosporines, tétracyclines)", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Clarithromycine", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Vitamine D", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Concernant les réactions lichénoïdes médicamenteuses, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Lésions érythémateuses, érosives, avec stries blanches", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Durée d'évolution : semaines à années", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Causes : AINS, antipaludéens, IEC, antihypertenseurs", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Pas de régression après arrêt du traitement", "correct": false, "feedback": "Incorrect. Les lésions régressent après arrêt du médicament."}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Qu'est-ce que la xérostomie ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Sensation subjective de bouche sèche rapportée par le patient", "correct": true, "feedback": "Correct. La xérostomie est une sensation subjective ; l'hyposialie est la diminution objective du flux salivaire."},
+        {"id": "B", "text": "Hypersécrétion salivaire", "correct": false, "feedback": "Incorrect. C'est la sialorrhée."},
+        {"id": "C", "text": "Carie multiple", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Trouble du goût", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Quelle est la cause la plus fréquente de xérostomie ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Stress", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Prise de médicaments anticholinergiques ou sympathomimétiques", "correct": true, "feedback": "Correct. C'est la cause la plus fréquente."},
+        {"id": "C", "text": "Diabète insipide", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Carence en vitamine A", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Quelles classes médicamenteuses peuvent causer une xérostomie ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Antidépresseurs tricycliques", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Benzodiazépines", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "β-bloquants", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Antihistaminiques", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Quel est le mécanisme physiopathologique de la xérostomie par anticholinergiques ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Stimulation des récepteurs muscariniques M3", "correct": false, "feedback": "Incorrect. Au contraire, les anticholinergiques bloquent ces récepteurs."},
+        {"id": "B", "text": "Blocage de l'acétylcholine au niveau du récepteur M3, diminution du flux salivaire", "correct": true, "feedback": "Correct. Les anticholinergiques bloquent l'acétylcholine au récepteur M3, diminuent le flux et stimulation sympathique → salive visqueuse et épaisse."},
+        {"id": "C", "text": "Stimulation du nerf vague", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Augmentation du flux salivaire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Quels signes cliniques évoquent une xérostomie ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Lèvres fissurées et chéilite angulaire", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Langue lisse, rouge, dépapillée", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Miroir qui colle aux muqueuses", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Hyperplasie gingivale isolée", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Quelles sont les complications de la xérostomie chronique ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Augmentation des caries rampantes", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Candidoses (chéilite angulaire)", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Difficultés de mastication, déglutition et élocution", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Augmentation du flux salivaire", "correct": false, "feedback": "Incorrect. Contradiction."}
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Qu'est-ce que le ptyalisme ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Diminution de la sécrétion salivaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Hypersécrétion salivaire (sialorrhée)", "correct": true, "feedback": "Correct. Le ptyalisme est une hypersécrétion salivaire."},
+        {"id": "C", "text": "Mauvais goût en bouche", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Inflammation des glandes salivaires", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Quels médicaments peuvent provoquer un ptyalisme ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Pilocarpine", "correct": true, "feedback": "Correct, agoniste cholinergique."},
+        {"id": "B", "text": "Kétamine", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Théophylline", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Acide méfénamique", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Quelles altérations du goût peuvent être induites par des médicaments ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Hypogueusie (diminution du goût)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Dysgueusie (perversion du goût)", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Paragueusie (goût anormal sans stimulus)", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Agueusie (absence de goût)", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Quels médicaments sont reconnus pour induire des troubles du goût ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Inhibiteurs de l'enzyme de conversion (IEC)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Antithyroïdiens, biguanides", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Chlorhexidine, inhibiteurs de protéase", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Paracétamol", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Quel est le syndrome de Burning Mouth (glossodynie médicamenteuse) ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une mycose orale", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Sensation de brûlure muqueuse, localisée surtout à la langue", "correct": true, "feedback": "Correct. Le burning mouth syndrome est une sensation de brûlure muqueuse, surtout linguale, parfois liée à des médicaments comme les IEC."},
+        {"id": "C", "text": "Inflammation virale", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Carie multiple", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Quels IEC sont classiquement responsables d'un burning mouth syndrome ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Lisinopril", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Captopril", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Enalapril", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Aténolol", "correct": false, "feedback": "Incorrect. Aténolol est un β-bloquant."}
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Concernant la chronologie d'apparition des effets oraux médicamenteux, quelle est la règle d'or du diagnostic ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Aucun lien chronologique nécessaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Délai d'apparition après l'introduction du médicament + régression à son arrêt", "correct": true, "feedback": "Correct. La chronologie (apparition après prise et régression à l'arrêt) est la règle d'or du diagnostic."},
+        {"id": "C", "text": "Apparition uniquement après 10 ans de traitement", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Persistance définitive obligatoire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Concernant l'érythème polymorphe sévère (syndrome de Stevens-Johnson), quelles populations sont préférentiellement touchées ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Femmes ménopausées", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Jeunes hommes adultes", "correct": true, "feedback": "Correct. Le SSJ touche préférentiellement les jeunes hommes adultes."},
+        {"id": "C", "text": "Nouveau-nés", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Personnes âgées exclusivement", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Quelles classes de médicaments peuvent causer des hyperplasies gingivales (récapitulatif) ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Antiépileptiques (phénytoïne, valproate)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Immunosuppresseurs (cyclosporine)", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Inhibiteurs calciques (amlodipine, nifédipine, vérapamil)", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Contraceptifs oraux", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Concernant la candidose médicamenteuse, quels facteurs aggravants peuvent être présents ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Xérostomie iatrogène associée", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Immunodépression médicamenteuse", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Antibiothérapie large spectre prolongée", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Brossage dentaire régulier", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Quel médicament est à l'origine d'un syndrome palmo-plantaire avec stomatite ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Indinavir", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Doxorubicine", "correct": true, "feedback": "Correct. La doxorubicine peut causer stomatites et syndrome palmo-plantaire particulier."},
+        {"id": "C", "text": "Aciclovir", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Aspirine", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Quelles affirmations sont vraies concernant l'hyperplasie gingivale induite par la phénytoïne ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Apparaît 2-3 mois après le début du traitement", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Interaction directe de la phénytoïne avec les fibroblastes", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Régression possible à l'arrêt du médicament", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Toujours dose-dépendante", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Quels examens peuvent compléter le diagnostic d'une manifestation orale médicamenteuse ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Biopsie avec analyse histopathologique", "correct": true, "feedback": "Correct, dans les cas atypiques."},
+        {"id": "B", "text": "Sialométrie en cas de xérostomie", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Test d'imputabilité médicamenteuse", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Cytologie cervicale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Concernant la mucite induite par chimiothérapie, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Apparaît quelques jours après le début de la chimiothérapie", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Caractérisée par douleurs, dysphagie, difficulté à s'alimenter et à parler", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Disparaît à l'arrêt du traitement", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Pas de retentissement nutritionnel", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Quel diagnostic différentiel doit être éliminé avant d'attribuer une lésion lichénoïde à un médicament ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Lichen plan oral idiopathique", "correct": true, "feedback": "Correct. Il faut éliminer un lichen plan oral classique, parfois bilatéral et sans cause identifiable."},
+        {"id": "B", "text": "Mucite radique", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Carie dentaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Gingivite simple", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Quels effets oraux peuvent survenir avec les bisphosphonates ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Réaction lichénoïde", "correct": true, "feedback": "Correct, notamment avec l'alendronate."},
+        {"id": "B", "text": "Ostéonécrose des maxillaires", "correct": true, "feedback": "Correct, complication redoutable."},
+        {"id": "C", "text": "Ulcérations muqueuses", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Hyperplasie gingivale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Quels mécanismes expliquent l'altération de la composition salivaire par certains médicaments ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Stimulation directe des cellules acineuses", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Blocage des récepteurs β-adrénergiques par les médicaments sympathomimétiques → altération de la composition et du flux salivaire", "correct": true, "feedback": "Correct. Les médicaments sympathomimétiques bloquent les récepteurs β-adrénergiques, altérant la composition et le flux salivaire."},
+        {"id": "C", "text": "Augmentation systématique du flux", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Pas d'effet sur la composition", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Concernant la prise en charge des effets oraux médicamenteux, quelles options sont possibles ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Arrêt ou changement de la molécule en cause (en accord avec le médecin traitant)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Diminution de la dose", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Traitement symptomatique adapté (substituts salivaires, antalgiques)", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Aucune adaptation thérapeutique nécessaire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Quels conseils donner à un patient sous traitement à risque de manifestations orales ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Hygiène bucco-dentaire rigoureuse", "correct": true, "feedback": "Correct, notamment pour prévenir hyperplasie gingivale et candidoses."},
+        {"id": "B", "text": "Bilan stomatologique avant et pendant traitement à risque", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Hydratation suffisante en cas de xérostomie", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Application d'aspirine directement sur la muqueuse en cas de douleur dentaire", "correct": false, "feedback": "Incorrect. Cause des brûlures muqueuses."}
+      ]
+    }
+  ]
+}

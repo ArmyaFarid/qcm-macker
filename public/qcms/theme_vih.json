@@ -1,0 +1,554 @@
+{
+  "meta": {
+    "title": "Les manifestations du VIH",
+    "theme": "vih"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "À quelle famille virale appartient le VIH ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Herpesviridae", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Rétrovirus à ARN", "correct": true, "feedback": "Correct. Le VIH est un rétrovirus à acide ribonucléique ayant un tropisme pour les cellules CD4+."},
+        {"id": "C", "text": "Papillomaviridae", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Paramyxoviridae", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quelles cellules sont la cible principale du VIH ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Globules rouges", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Lymphocytes CD4+", "correct": true, "feedback": "Correct. Le VIH a un tropisme pour les CD4+."},
+        {"id": "C", "text": "Polynucléaires neutrophiles", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Plaquettes", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Quel taux de CD4+ définit le stade SIDA (CDC 2008) ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "< 500 cells/μL", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "< 200 cells/μL", "correct": true, "feedback": "Correct. Stade 3 (SIDA) : CD4+ < 200 cells/μL ou présence de condition définissant le SIDA."},
+        {"id": "C", "text": "< 1 000 cells/μL", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "< 1 500 cells/μL", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Quelle est la valeur normale du taux de lymphocytes T CD4+ ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "100 à 200/μL", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "600 à 1 200/μL", "correct": true, "feedback": "Correct. Le taux normal est entre 600 et 1 200/μL."},
+        {"id": "C", "text": "1 500 à 3 000/μL", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "5 000 à 10 000/μL", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Quels liquides corporels peuvent transmettre le VIH ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Sang et sécrétions vaginales", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Sperme et lait maternel", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Larmes, liquide amniotique, urines", "correct": true, "feedback": "Correct. Le VIH est présent dans ces liquides, bien que rarement source de transmission."},
+        {"id": "D", "text": "Sueur", "correct": false, "feedback": "Incorrect. La sueur ne contient pas de VIH transmissible."}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Quel pourcentage de patients VIH+ développent au moins une manifestation orale au cours de leur vie ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "10 à 20 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "30 à 50 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "70 à 90 %", "correct": true, "feedback": "Correct. 70 à 90 % des sujets infectés par le VIH développent au moins une manifestation orale au cours de leur vie."},
+        {"id": "D", "text": "100 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Selon la classification EC-Clearinghouse, quelles lésions sont fortement associées au VIH (Groupe 1) ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Candidose orale", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Leucoplasie orale chevelue", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Sarcome de Kaposi", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Hyperplasie gingivale fibreuse idiopathique", "correct": false, "feedback": "Incorrect. Pas une manifestation associée au VIH."}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Quelles manifestations parodontales sont spécifiquement associées au VIH ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Érythème gingival linéaire", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Gingivite ulcéro-nécrotique (GUN)", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Parodontite ulcéro-nécrotique (PUN)", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Récession gingivale unique", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Quelle est la durée d'incubation de la primo-infection à VIH ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "1 à 3 jours", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "1 à 8 semaines (en moyenne 2 semaines)", "correct": true, "feedback": "Correct. La période d'incubation est de 1 à 8 semaines, en moyenne 2 semaines."},
+        {"id": "C", "text": "3 à 6 mois", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "1 à 2 ans", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Quelles sont les manifestations orales de la primo-infection à VIH ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Pharyngite douloureuse", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Énanthème du voile et des piliers", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Purpura palatin et érosions buccales", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Sarcome de Kaposi", "correct": false, "feedback": "Incorrect. C'est une manifestation du stade SIDA."}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Quel est le pathogène fongique principal des candidoses chez le VIH+ ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Candida glabrata", "correct": false, "feedback": "Incorrect. Plutôt aux stades avancés."},
+        {"id": "B", "text": "Candida albicans", "correct": true, "feedback": "Correct. C. albicans est responsable de la majorité des candidoses chez le VIH+."},
+        {"id": "C", "text": "Aspergillus", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Cryptococcus", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Quel pourcentage de patients VIH+ développent au moins un épisode de candidose orale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "10 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "30 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Près de 75 %", "correct": true, "feedback": "Correct. Près de 75 % des patients VIH+ développent au moins un épisode d'infection candidosique."},
+        {"id": "D", "text": "100 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Quelles formes cliniques de candidose orale peuvent se rencontrer dans le VIH ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Pseudomembraneuse (muguet)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Érythémateuse", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Chéilite angulaire (perlèche)", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Hyperkératosique chronique", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Quel signe associé à une candidose orale persistante doit faire évoquer une évolution vers le SIDA ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Carie dentaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Adénopathie persistante", "correct": true, "feedback": "Correct. Candidose + adénopathie persistante est prédictif de l'évolution vers le SIDA."},
+        {"id": "C", "text": "Tartre dentaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Aphte unique", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Quelle est la fréquence de la leucoplasie orale chevelue (LOC) chez les patients VIH+ ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "5 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Environ 25 %", "correct": true, "feedback": "Correct. La LOC est présente chez environ 25 % des sujets séropositifs."},
+        {"id": "C", "text": "50 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "75 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Quel virus est responsable de la leucoplasie orale chevelue ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "HSV-1", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Epstein-Barr Virus (EBV)", "correct": true, "feedback": "Correct. La LOC est due à une réactivation de l'EBV."},
+        {"id": "C", "text": "HPV", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "CMV", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Quelle est la localisation typique de la leucoplasie orale chevelue ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Plancher buccal", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Bords latéraux de la langue", "correct": true, "feedback": "Correct. Lésions blanchâtres mal limitées, disposées verticalement sur les bords latéraux de la langue."},
+        {"id": "C", "text": "Palais dur", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Gencive marginale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Concernant le sarcome de Kaposi (SK) lié au VIH, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Causé par HHV-8", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "L'atteinte de la muqueuse buccale survient dans 50 % des cas", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Le palais est le site oral le plus fréquent", "correct": true, "feedback": "Correct. Site préférentiel : palatin, vélaire ou gingival supérieur."},
+        {"id": "D", "text": "Le SK survient quand le taux de CD4 est > 500/mm³", "correct": false, "feedback": "Incorrect. Le SK survient à CD4+ < 200/mm³."}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Quelles sont les formes cliniques évolutives du sarcome de Kaposi oral ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Forme de début : macules rouge sombre ou violacées", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Forme intermédiaire : papules puis nodules", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Forme tardive : tumeur ulcérée", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Forme bénigne sans potentiel évolutif", "correct": false, "feedback": "Incorrect. Le SK est une pathologie maligne évolutive."}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Quelle est la première cause de cancer chez les patients VIH+ ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Mélanome", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Lymphomes (60 à 100 fois plus que la population générale)", "correct": true, "feedback": "Correct. Les lymphomes sont la première cause de cancer chez les patients VIH+."},
+        {"id": "C", "text": "Carcinome basocellulaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Cancer thyroïdien", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Quel virus est en cause dans les lymphomes liés au VIH ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "EBV", "correct": true, "feedback": "Correct. Les lymphomes liés au VIH sont causés par l'EBV."},
+        {"id": "B", "text": "HSV-1", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "HPV", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "VZV", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Quel pourcentage des lymphomes non hodgkiniens est localisé dans la cavité buccale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "5 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "25 %", "correct": true, "feedback": "Correct. 25 % des LNH sont localisés au niveau de la cavité buccale."},
+        {"id": "C", "text": "50 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "75 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Concernant l'érythème gingival linéaire (EGL), quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Bande linéaire érythémateuse régulière sur la gencive marginale", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Saignement diffus au brossage, ne régressant pas avec un bon contrôle de plaque", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Causé par invasion gingivale par Candida species", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Survient à CD4+ > 500/mm³", "correct": false, "feedback": "Incorrect. CD4+ < 200/mm³."}
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Quels micro-organismes sont impliqués dans la parodontite ulcéro-nécrotique du VIH ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Porphyromonas gingivalis", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Tannerella forsythia", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Aggregatibacter actinomycetemcomitans", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Candida albicans uniquement", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Quelle est la principale différence entre gingivite et parodontite ulcéro-nécrotique du VIH ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Aucune, ce sont des synonymes", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "La parodontite implique une destruction de l'ensemble du support parodontal, sans poche", "correct": true, "feedback": "Correct. La PUN détruit tout le support parodontal, rapide, sans poches parodontales (différent d'une parodontite classique)."},
+        {"id": "C", "text": "La parodontite n'est jamais douloureuse", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "La gingivite ne saigne pas", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Quelle est la stomatite nécrotique aigüe d'origine parodontale et qu'évoque-t-elle ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Une infection fulminante avec extension au-delà des structures parodontales (muqueuse, os) similaire au noma", "correct": true, "feedback": "Correct. C'est une infection fulminante ressemblant au noma avec dénudations osseuses, séquestration et fistules."},
+        {"id": "B", "text": "Une gingivite chronique", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une candidose hyperkératosique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Un sarcome de Kaposi", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Concernant les ulcérations buccales chez le VIH+ sévèrement immunodéprimé (CD4 < 100/mm³), quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Larges, récurrentes, cicatrisant lentement", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Très douloureuses, cratériformes", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Possibilité de dysphagie sévère", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Régression spontanée en 24 heures", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Concernant les manifestations herpétiques chez le VIH+, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Plus l'immunodépression progresse, plus les épisodes de réactivation s'accélèrent", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Le HAART diminue la fréquence et la sévérité des infections herpétiques", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Bouton de fièvre récurrent, gingivostomatites herpétiques diffuses possibles", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Toujours réfractaires au traitement antiviral", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Concernant le zona chez le patient VIH+, quelles caractéristiques sont vraies ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Plus fréquent, plus étendu, plus sévère que dans la population générale", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Le zona peut être un indicateur précoce du VIH", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Risque accru de séquelles algiques (névralgies post-zostériennes)", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Toujours bénin chez le VIH", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Quels signes oraux peuvent évoquer une thrombopénie chez le patient VIH+ ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Pétéchies muqueuses", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Ecchymoses muqueuses", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Gingivorragies spontanées", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Hyperplasie gingivale fibreuse", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Concernant les manifestations salivaires associées au VIH, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Sécheresse buccale (xérostomie), parfois aggravée par les médicaments", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Hypertrophie uni- ou bilatérale des glandes salivaires (parotides ++)", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Hyperplasie lymphoïde kystique des parotides (rare)", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Augmentation systématique du flux salivaire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Quelles toxidermies médicamenteuses peuvent survenir chez le patient VIH+ ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Éruption maculo-papuleuse, urticaire, vascularite", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Syndrome de Stevens-Johnson, syndrome de Lyell", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Ulcérations de la muqueuse buccale, pigmentations", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Carie dentaire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Quels médicaments antirétroviraux peuvent causer des hyperpigmentations cutanéo-muqueuses ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Aciclovir", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Zidovudine", "correct": true, "feedback": "Correct. La zidovudine peut causer des hyperpigmentations cutanéomuqueuses."},
+        {"id": "C", "text": "Vancomycine", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Amoxicilline", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Quels effets oraux peuvent survenir avec l'indinavir (inhibiteur de protéase) ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Chéilites", "correct": true, "feedback": "Correct. L'indinavir peut causer des chéilites."},
+        {"id": "B", "text": "Hyperplasie gingivale", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Mélanome", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Carie", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Quels signes orientent vers une adénopathie liée au VIH ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Adénopathie cervicale ou sub-mandibulaire", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Persistante, sans cause infectieuse identifiable", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Large (> 1 cm), multiple", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Indolore et fugace en 24 heures", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Concernant les verrues orales (HPV) chez le patient VIH+, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Peuvent être le premier signe de la maladie", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Plus l'immunodépression progresse, plus les lésions sont multiples et confluentes", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Régression possible à l'initiation du HAART", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Fréquence de plus de 50 % chez les VIH+", "correct": false, "feedback": "Incorrect. Fréquence 1-4 % dans la cavité buccale."}
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Concernant le lymphome de Burkitt lié au VIH, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Prolifération de cellules B associée à EBV", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Complication du SIDA", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Tumeurs ostéolytiques du maxillaire ou mandibule, évolution rapide", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Pas d'atteinte maxillo-faciale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Quel est le but principal des thérapies antirétrovirales (ART/HAART) ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Réduire la morbidité liée au VIH et prolonger la vie", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Restaurer et préserver la fonction immunitaire", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Supprimer au maximum la charge virale", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Prévenir la transmission du VIH", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Quel pourcentage des manifestations associées au VIH sont des candidoses ou un syndrome lymphocytaire (en fonction du stade) ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Pas de manifestations orales au stade asymptomatique précoce (sauf rare candidose)", "correct": true, "feedback": "Correct. Au stade asymptomatique de début, pas de manifestations orales sauf rare candidose."},
+        {"id": "B", "text": "Toutes les manifestations apparaissent au stade SIDA seulement", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Les candidoses sont rares dans tous les stades", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Aucune candidose chez le VIH+", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Quelles caractéristiques cliniques des lymphomes non hodgkiniens (LMNH) oraux liés au VIH sont vraies ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Tuméfaction de la gencive, palais ou muqueuse alvéolaire", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Adénopathie cervicofaciale, atteinte de l'anneau de Waldeyer", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Atteinte osseuse mandibulaire avec image lytique", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Régression spontanée fréquente", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Quelles modifications affectent les caries chez le VIH+ ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Prévalence plus élevée que la population générale", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Facteurs : hyposialie, médicaments, déficit IgA salivaires, diminution des lymphocytes", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Atteinte des faces et collets dentaires", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Absence de risque carieux supplémentaire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Quels carcinomes orales sont plus fréquents chez le VIH+ ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Carcinomes épidermoïdes de la cavité buccale et de l'oropharynx, associés à l'HPV", "correct": true, "feedback": "Correct. Le carcinome épidermoïde de la cavité buccale (langue ++) et de l'oropharynx est plus fréquent, associé à HPV."},
+        {"id": "B", "text": "Carcinome thyroïdien", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Cancer du pancréas", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Cancer du sein", "correct": false, "feedback": "Incorrect."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "meta": {
+    "title": "Les lésions potentiellement malignes",
+    "theme": "lesions-potentiellement-malignes"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quelle est la définition consensuelle (OMS 2017) d'une lésion potentiellement maligne (LOPM) ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Modifications morphologiques d'un tissu présentant un risque accru d'évoluer vers un cancer", "correct": true, "feedback": "Correct. C'est la définition retenue par l'OMS en 2017."},
+        {"id": "B", "text": "Lésion bénigne sans risque de transformation", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Cancer micro-invasif", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Métastase à distance", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quelles lésions sont reconnues comme LOPM dans la classification OMS 2017 ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Leucoplasie", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Érythroplasie", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Lichen plan oral", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Fibrose sous-muqueuse", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Comment se définit une dysplasie sévère ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Atteinte cantonnée au tiers basal de l'épithélium", "correct": false, "feedback": "Incorrect. C'est la dysplasie légère."},
+        {"id": "B", "text": "Atteinte de 50-70 % de l'épithélium", "correct": false, "feedback": "Incorrect. C'est la dysplasie moyenne."},
+        {"id": "C", "text": "Atteinte de plus de 2/3 de l'épithélium, atypies marquées, mitoses anormales", "correct": true, "feedback": "Correct. La dysplasie sévère touche > 2/3 de la hauteur épithéliale (équivalent à un carcinome in situ)."},
+        {"id": "D", "text": "Présence d'invasion stromale", "correct": false, "feedback": "Incorrect. C'est alors un carcinome invasif."}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Quel est le taux annuel moyen de transformation maligne des LOPM ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Environ 1,36 %", "correct": true, "feedback": "Correct. Le taux annuel moyen de transformation maligne des LOPM est de 1,36 %, plus important entre 2 et 5 ans après la détection."},
+        {"id": "B", "text": "Environ 10 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Environ 25 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Environ 50 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Quels sont les facteurs de risque majeurs des cancers de la cavité orale et des LOPM ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Tabac (fumé ou non)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Abus d'alcool", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Chique du bétel et noix d'arec", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Allaitement maternel prolongé", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Concernant la leucoplasie, quelle est sa définition ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Lésion blanche à risque discutable de cancérisation après exclusion de toutes les autres lésions n'ayant pas un risque accru", "correct": true, "feedback": "Correct. C'est une définition d'exclusion."},
+        {"id": "B", "text": "Lésion bénigne sans potentiel malin", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Cancer micro-invasif", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Lésion exclusivement érythémateuse", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Quelle forme de leucoplasie a le risque de transformation maligne le plus faible ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Leucoplasie homogène", "correct": true, "feedback": "Correct. La leucoplasie homogène est la forme la plus fréquente et présente rarement des dysplasies ou seulement des dysplasies légères."},
+        {"id": "B", "text": "Leucoplasie verruqueuse proliférative", "correct": false, "feedback": "Incorrect. Risque très élevé (>70 %)."},
+        {"id": "C", "text": "Érythroleucoplasie", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Leucoplasie nodulaire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Quel est le risque de transformation maligne de la leucoplasie verruqueuse proliférative (PVL) ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Inférieur à 5 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Environ 25 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Supérieur à 70 %", "correct": true, "feedback": "Correct. La PVL présente un risque très élevé de transformation maligne (> 70 %)."},
+        {"id": "D", "text": "Aucun risque", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Concernant l'érythroplasie, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Plage rouge brillant, veloutée, uniforme, sans kératinisation", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Taux de transformation maligne le plus élevé (~90 %)", "correct": true, "feedback": "Correct. L'érythroplasie est la LOPM au potentiel de transformation maligne le plus élevé."},
+        {"id": "C", "text": "C'est une lésion rare", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Diagnostic immédiat sans biopsie", "correct": false, "feedback": "Incorrect. C'est un diagnostic d'élimination ; biopsie indispensable."}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Quels sont les sites à risque accru de cancérisation pour une leucoplasie ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Plancher buccal", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Face ventrale de la langue", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Zones rétromolaires", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Palais mou", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Quels micro-organismes peuvent augmenter le risque de dysplasie et de transformation maligne d'une leucoplasie ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Staphylococcus aureus", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Candida albicans", "correct": true, "feedback": "Correct. C. albicans augmente le risque de dysplasie et de transformation maligne."},
+        {"id": "C", "text": "Lactobacilles", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Bifidobacteries", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Quel est le taux de régression d'une leucoplasie après arrêt du tabac ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Environ 10 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Environ 30 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Environ 70 %", "correct": true, "feedback": "Correct. 70 % des leucoplasies régressent après arrêt du tabac."},
+        {"id": "D", "text": "100 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Concernant les lésions palatines des fumeurs inversés, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Spécifique des populations fumant avec l'extrémité incandescente dans la bouche", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Fréquent en Inde, Caraïbes, Colombie, Panama, Venezuela, Sardaigne", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Lésions palatines rouges, blanches ou mixtes, aspect granulaire", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Régression spontanée à l'arrêt du tabagisme inversé", "correct": false, "feedback": "Incorrect. Les lésions peuvent persister et présentent un risque de transformation maligne."}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Concernant la fibrose sous-muqueuse, quels sont les facteurs étiologiques principaux ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Mastication de noix de bétel et tabac à chiquer", "correct": true, "feedback": "Correct. Facteur étiologique principal."},
+        {"id": "B", "text": "Habitudes alimentaires épicées", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Déficiences en vitamines B", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Exposition au soleil", "correct": false, "feedback": "Incorrect. C'est plutôt en cause dans la chéilite actinique."}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Quels signes cliniques évoquent une fibrose sous-muqueuse avancée ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Blanchiment et perte d'élasticité de la muqueuse", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Limitation de l'ouverture buccale et difficulté à la mastication", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Atrophie papillaire linguale", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Régression complète sans traitement", "correct": false, "feedback": "Incorrect. Pas de traitement reconnu, lésion progressive avec risque de transformation."}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Concernant la chéilite actinique, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Cause principale : exposition prolongée aux ultraviolets", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Atteinte préférentielle de la lèvre inférieure", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Touche surtout les hommes de peau claire", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Régression spontanée garantie à l'arrêt de l'exposition", "correct": false, "feedback": "Incorrect. C'est une LOPM ; biopsie souvent nécessaire."}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Quelles sont les caractéristiques cliniques classiques du lichen plan oral ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Maladie inflammatoire chronique d'origine immunitaire (médiation cellulaire)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Forme réticulée (réseau blanchâtre asymptomatique) la plus reconnue", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Forme érosive la plus fréquente, douloureuse", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Cause infectieuse virale connue", "correct": false, "feedback": "Incorrect. L'étiologie est inconnue."}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Quelle est la principale différence clinique entre lichen plan et lésion lichénoïde orale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Aucune différence", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "La lésion lichénoïde est associée à un agent causal sous-jacent identifiable (médicament, restauration dentaire, GVH)", "correct": true, "feedback": "Correct. La lésion lichénoïde a une cause identifiable et est souvent unilatérale ; le lichen plan a une étiologie inconnue et est généralement bilatéral."},
+        {"id": "C", "text": "Le lichen plan est toujours malin", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "La lésion lichénoïde est purement cutanée", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Quelles causes sont reconnues pour les lésions lichénoïdes orales ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Restauration dentaire (amalgame, or) → réaction lichénoïde de contact", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Médicaments", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Maladie chronique du greffon contre l'hôte (cGVH)", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Carence en vitamine C", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Concernant le lupus érythémateux discoïde oral, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Affection auto-immune", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Lésions orales : érythème, érosions, ulcérations entourées de stries blanches", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Diagnostic : immunofluorescence en histologie", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Transformation maligne fréquente", "correct": false, "feedback": "Incorrect. La transformation maligne est rare."}
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Concernant la dyskératose congénitale, quelles affirmations sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Maladie héréditaire très rare liée au chromosome X", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Ne touche que les hommes", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Plaques blanches de la face dorsale de la langue", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Cause virale identifiée", "correct": false, "feedback": "Incorrect. C'est une affection héréditaire."}
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Quels outils peuvent aider à l'examen clinique des LOPM ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Bleu de toluidine", "correct": true, "feedback": "Correct, avec affinité pour l'ADN, mais possibles faux positifs."},
+        {"id": "B", "text": "Brossage transépithélial avec cytologie", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Acide acétique + chimioluminescence et autofluorescence", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Test cutané", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Quels biomarqueurs moléculaires sont recherchés dans l'évaluation pronostique des LOPM ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Ki-67 (prolifération)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Cycline D1", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "p16INK4 et TP53", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "PSA (antigène prostatique spécifique)", "correct": false, "feedback": "Incorrect. C'est un marqueur prostatique."}
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Quelle est la conduite à tenir devant une LOPM avec dysplasie légère et taille inférieure à 3 cm ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Surveillance simple sans biopsie", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Exérèse à la lame avec contrôle histologique", "correct": true, "feedback": "Correct. L'exérèse à la lame avec contrôle de la pièce est indiquée pour les lésions < 3 cm."},
+        {"id": "C", "text": "Chimiothérapie", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Radiothérapie", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Quand le laser CO2 est-il indiqué pour le traitement d'une LOPM ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Lésions > 3 cm sans dysplasie ou avec dysplasie légère/modérée", "correct": true, "feedback": "Correct. Le laser CO2 est indiqué pour les lésions > 3 cm sans dysplasie ou avec dysplasie légère ou modérée."},
+        {"id": "B", "text": "Toujours indiqué quelle que soit la dysplasie", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Indiqué en cas de dysplasie sévère", "correct": false, "feedback": "Incorrect. Contre-indiqué dans ce cas."},
+        {"id": "D", "text": "Jamais indiqué", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 26,
+      "question": "À quelle fréquence faut-il surveiller cliniquement une LOPM à risque facultatif ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Tous les 1 mois", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Tous les 3 mois", "correct": false, "feedback": "Incorrect. Cette fréquence est pour les lésions à risque fréquent."},
+        {"id": "C", "text": "Tous les 6 mois", "correct": true, "feedback": "Correct. Lésions à risque facultatif : surveillance clinique tous les 6 mois."},
+        {"id": "D", "text": "Tous les 2 ans", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 27,
+      "question": "À quelle fréquence biopsier une LOPM à risque de dégénérescence fréquente ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Tous les 6 mois systématiquement", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Tous les 12 mois", "correct": true, "feedback": "Correct. Biopsie systématique tous les 12 mois pour les lésions à risque fréquent."},
+        {"id": "C", "text": "Tous les 5 ans", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Jamais", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Quels sites de LOPM doivent particulièrement préoccuper en raison du risque accru de transformation ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Plancher buccal", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Face ventrale et bord libre de la langue", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Trigone rétro-molaire", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Dos de la langue (papilles linguales)", "correct": false, "feedback": "Incorrect. Site moins à risque."}
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Quels facteurs cliniques aggravent le pronostic d'une leucoplasie ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Inhomogénéité (érythroleucoplasie, nodulaire, verruqueuse)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Taille > 200 mm²", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Localisation à risque (plancher, face ventrale langue, palais mou, zones rétromolaires)", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Antécédent personnel de cancer ORL", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Quelle est la prévalence des LOPM dans la population mondiale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Environ 0,1 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Environ 4,5 %", "correct": true, "feedback": "Correct. La prévalence mondiale des LOPM est d'environ 4,5 %, avec ~10 % en Asie et ~3 % en Europe."},
+        {"id": "C", "text": "Environ 25 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Plus de 50 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Quel sexe est principalement touché par les LOPM ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Femmes (80 %)", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Hommes (60 %)", "correct": true, "feedback": "Correct. Les hommes représentent ~60 % des cas de LOPM."},
+        {"id": "C", "text": "Répartition 50/50", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Femmes ménopausées exclusivement", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Quel test rapide peut être utilisé pour orienter le site de biopsie d'une LOPM ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Test au bleu de toluidine (affinité ADN)", "correct": true, "feedback": "Correct. Le bleu de toluidine se fixe préférentiellement sur les zones à forte activité mitotique, malgré des faux positifs."},
+        {"id": "B", "text": "Test de Tzanck", "correct": false, "feedback": "Incorrect. Utilisé pour les viroses."},
+        {"id": "C", "text": "Test d'IgE", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Test ELISA", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Quelles formes histologiques de dysplasies regroupent la classification 'haut grade' ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Dysplasie sévère", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Dysplasie modérée", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Dysplasie légère", "correct": false, "feedback": "Incorrect. C'est le bas grade."},
+        {"id": "D", "text": "Hyperplasie simple", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Quel est le rôle de la biopsie d'une LOPM ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Préciser le diagnostic", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Rechercher une dysplasie épithéliale", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Rechercher un cancer micro-infiltrant", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Traiter directement la lésion sans exérèse complète", "correct": false, "feedback": "Incorrect. Une biopsie n'est pas un traitement."}
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Quelles affirmations concernant le HPV et les LOPM sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Rôle confirmé pour les cancers de l'oropharynx", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Rôle discuté pour la cavité orale", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "HPV peut être un cofacteur de la leucoplasie", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Les HPV sont sans effet sur le risque de cancer", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Quelles affirmations concernant la gingivite érosive desquamative lichénienne sont correctes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Peut être une manifestation orale du lichen plan", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Diagnostic différentiel avec pemphigoïde des muqueuses ou pemphigus", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Risque évolutif vers une LOPM", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Toujours d'origine traumatique", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Quels diagnostics différentiels doivent être éliminés avant de retenir une érythroplasie ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Lichen plan érythémateux", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Lupus", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Pemphigoïde cicatricielle", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Infection mycosique chronique ou bactérienne", "correct": true, "feedback": "Correct."}
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Quelle est l'origine cellulaire la plus fréquente des carcinomes oraux développés à partir de LOPM ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Carcinome épidermoïde (squameux)", "correct": true, "feedback": "Correct. Les carcinomes épidermoïdes représentent la grande majorité des cancers oraux issus de LOPM."},
+        {"id": "B", "text": "Adénocarcinome", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Sarcome", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Mélanome", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Quelles habitudes doivent être éliminées dans la prise en charge des LOPM ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Tabac (sous toutes ses formes)", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Alcool", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Mastication du bétel/noix d'arec", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Brossage dentaire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Concernant l'évolution des lésions du lichen plan oral, quelle est l'estimation du risque de transformation maligne ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Pas de risque de transformation maligne", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Risque très élevé (>50 %)", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Risque faible mais réel, nécessitant une surveillance régulière", "correct": true, "feedback": "Correct. Le lichen plan oral a un risque faible mais réel de transformation maligne, justifiant la surveillance régulière (OMS 2017)."},
+        {"id": "D", "text": "Risque uniquement chez les enfants", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Quelles caractéristiques distinguent la chéilite actinique d'une chéilite simple ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Présence d'atrophie et ulcérations chroniques", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Liée à l'exposition UV chronique", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Localisation préférentielle à la lèvre inférieure", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Affection bénigne sans risque de transformation", "correct": false, "feedback": "Incorrect. C'est une LOPM."}
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Quels examens permettent un dépistage opportuniste des LOPM en consultation dentaire de routine ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Inspection systématique de la muqueuse buccale", "correct": true, "feedback": "Correct."},
+        {"id": "B", "text": "Palpation des lésions et des aires ganglionnaires", "correct": true, "feedback": "Correct."},
+        {"id": "C", "text": "Interrogatoire sur les habitudes de vie (tabac, alcool)", "correct": true, "feedback": "Correct."},
+        {"id": "D", "text": "Radiographie panoramique systématique", "correct": false, "feedback": "Incorrect. Non systématique pour le dépistage des LOPM."}
+      ]
+    }
+  ]
+}
