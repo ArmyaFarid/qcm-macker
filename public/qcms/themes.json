@@ -40,5 +40,33 @@
     "title": "Prise médicamenteuse et muqueuse orale",
     "color": "violet",
     "icon": "pill"
+  },
+  {
+    "id": "aphtes",
+    "file": "theme_aphtes.json",
+    "title": "Aphtes et aphtoses",
+    "color": "orange",
+    "icon": "ulcer"
+  },
+  {
+    "id": "mycoses-orales",
+    "file": "theme_mycoses-orales.json",
+    "title": "Les mycoses orales",
+    "color": "teal",
+    "icon": "fungus"
+  },
+  {
+    "id": "lesions-elementaires",
+    "file": "theme_lesions-elementaires.json",
+    "title": "Lésions élémentaires de la muqueuse orale",
+    "color": "sky",
+    "icon": "magnifier"
+  },
+  {
+    "id": "ulcerations",
+    "file": "theme_ulcerations.json",
+    "title": "Ulcérations de la muqueuse orale",
+    "color": "fuchsia",
+    "icon": "wound"
   }
 ]

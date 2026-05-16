@@ -1,0 +1,528 @@
+{
+  "meta": {
+    "title": "Aphtes et aphtoses",
+    "theme": "aphtes"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Comment définit-on l'aphte ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Une bulle muqueuse précédant une ulcération", "correct": false, "feedback": "Incorrect. L'aphte apparaît d'emblée, sans bulle ni vésicule préalable."},
+        {"id": "B", "text": "Une forme particulière d'ulcération muqueuse douloureuse, inflammatoire et récidivante", "correct": true, "feedback": "Correct. L'aphte est un aspect sémiologique particulier d'ulcération muqueuse douloureuse, inflammatoire et récidivante."},
+        {"id": "C", "text": "Une plaque blanche kératosique de la muqueuse", "correct": false, "feedback": "Incorrect. Cela correspond plutôt à une leucoplasie."},
+        {"id": "D", "text": "Une tumeur bénigne de la muqueuse buccale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qu'est-ce qui caractérise une ulcération par rapport à une érosion ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Elle reste limitée à l'épithélium superficiel", "correct": false, "feedback": "Incorrect. C'est la définition de l'érosion."},
+        {"id": "B", "text": "Elle est une perte de substance dépassant la membrane basale, lésant l'épithélium et le chorion", "correct": true, "feedback": "Correct. L'ulcération dépasse la membrane basale et atteint le chorion."},
+        {"id": "C", "text": "Elle ne touche jamais le chorion", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Elle est toujours indolore", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Quel mécanisme histopathologique est à l'origine de l'aphte ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une infection virale directe de l'épithélium", "correct": false, "feedback": "Incorrect. L'aphte n'est pas d'origine virale."},
+        {"id": "B", "text": "Une vasculite leucocytoclasique provoquant une nécrose tissulaire", "correct": true, "feedback": "Correct. L'aphte est provoqué par une vasculite leucocytoclasique, à l'origine d'une nécrose tissulaire et d'une ulcération primaire."},
+        {"id": "C", "text": "Une prolifération cellulaire autonome", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Un dépôt de complexes immuns à la membrane basale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Combien de variantes cliniques d'aphtose distingue-t-on ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Deux", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Trois : mineure, majeure et miliaire", "correct": true, "feedback": "Correct. On distingue l'aphtose mineure, l'aphtose majeure et l'aphtose miliaire (herpétiforme)."},
+        {"id": "C", "text": "Quatre", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Cinq", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "À quelle période de la vie débutent habituellement les aphtes ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Entre 10 et 20 ans", "correct": true, "feedback": "Correct. Le début se situe en général entre 10 et 20 ans ; la fréquence et la sévérité diminuent avec l'âge."},
+        {"id": "B", "text": "Après 60 ans", "correct": false, "feedback": "Incorrect. La fréquence diminue avec l'âge."},
+        {"id": "C", "text": "À la naissance", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Entre 40 et 50 ans", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Lorsque les deux parents présentent une aphtose, quelle est la proportion d'enfants atteints ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Environ 10 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Environ 50 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Environ 90 %", "correct": true, "feedback": "Correct. Des parents avec aphtose ont environ 90 % de leurs enfants atteints, témoignant d'une prédisposition génétique."},
+        {"id": "D", "text": "Aucun", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Quel est l'aspect typique du fond d'un aphte ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Fond hémorragique noirâtre", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Fond déprimé nécrotique, grisâtre ou jaunâtre, dit en « beurre frais »", "correct": true, "feedback": "Correct. Le fond est déprimé, nécrotique, de couleur grisâtre ou jaunâtre (aspect « beurre frais »)."},
+        {"id": "C", "text": "Fond verruqueux et papillomateux", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Fond induré et bourgeonnant", "correct": false, "feedback": "Incorrect. L'induration doit faire évoquer un carcinome."}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Quel signe entoure typiquement l'ulcération aphteuse ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Un halo inflammatoire rouge vif", "correct": true, "feedback": "Correct. Les bords nets de l'aphte sont cerclés d'un halo inflammatoire rouge vif."},
+        {"id": "B", "text": "Une zone d'induration cartilagineuse", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Un liseré pigmenté brunâtre", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Des stries blanches réticulées", "correct": false, "feedback": "Incorrect. Ces stries évoquent un lichen plan."}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Concernant les adénopathies au cours d'un aphte banal :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Il existe toujours une adénopathie satellite volumineuse", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Il n'y a pas d'adénopathie satellite", "correct": true, "feedback": "Correct. L'aphte banal ne s'accompagne pas d'adénopathie satellite."},
+        {"id": "C", "text": "Les adénopathies sont dures et fixées", "correct": false, "feedback": "Incorrect. Une adénopathie dure et fixée évoque une malignité."},
+        {"id": "D", "text": "Les adénopathies sont systématiquement bilatérales", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Comment évolue spontanément un aphte banal ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Vers une guérison spontanée et sans cicatrice", "correct": true, "feedback": "Correct. L'aphte banal guérit spontanément, sans laisser de cicatrice."},
+        {"id": "B", "text": "Vers une transformation maligne", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Vers une cicatrice fibreuse rétractile", "correct": false, "feedback": "Incorrect. C'est le cas de l'aphtose majeure."},
+        {"id": "D", "text": "Vers une persistance définitive", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Quelle est la forme d'aphtose la plus fréquente ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "L'aphtose mineure (environ 80 % des patients)", "correct": true, "feedback": "Correct. L'aphtose mineure concerne environ 80 % des patients."},
+        {"id": "B", "text": "L'aphtose majeure", "correct": false, "feedback": "Incorrect. Elle ne concerne que 10 à 15 % des patients."},
+        {"id": "C", "text": "L'aphtose miliaire", "correct": false, "feedback": "Incorrect. Elle ne concerne que 5 à 10 % des patients."},
+        {"id": "D", "text": "L'aphtose de Behçet", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Quelles sont les caractéristiques de l'aphtose mineure ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Ulcérations de 1 à 5 cm laissant des cicatrices", "correct": false, "feedback": "Incorrect. Ce sont les caractéristiques de l'aphtose majeure."},
+        {"id": "B", "text": "Ulcérations de 2 à 10 mm, en nombre inférieur à 10, guérissant en 7 à 10 jours sans séquelle", "correct": true, "feedback": "Correct. L'aphtose mineure se présente comme des ulcérations de 2 à 10 mm, moins de 10 éléments, guérissant en 7 à 10 jours sans séquelle."},
+        {"id": "C", "text": "Ulcérations de 1 à 2 mm, jusqu'à 100 éléments confluents", "correct": false, "feedback": "Incorrect. Cela correspond à l'aphtose miliaire."},
+        {"id": "D", "text": "Ulcérations indurées et indolores", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "L'aphtose majeure est également appelée :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Aphtose de Mikulicz", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Aphtose de Sutton", "correct": true, "feedback": "Correct. L'aphtose majeure est aussi nommée aphtose majeure de Sutton."},
+        {"id": "C", "text": "Aphtose de Cooke", "correct": false, "feedback": "Incorrect. Les aphtes de Cooke correspondent à la forme herpétiforme."},
+        {"id": "D", "text": "Aphtose de Behçet", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Quelle est la taille caractéristique des aphtes dans l'aphtose majeure ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "1 à 2 mm", "correct": false, "feedback": "Incorrect. C'est la taille de l'aphtose miliaire."},
+        {"id": "B", "text": "2 à 10 mm", "correct": false, "feedback": "Incorrect. C'est la taille de l'aphtose mineure."},
+        {"id": "C", "text": "1 à 5 cm", "correct": true, "feedback": "Correct. L'aphtose majeure réalise des aphtes géants de 1 à 5 cm de diamètre."},
+        {"id": "D", "text": "10 à 20 cm", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Quelle particularité évolutive distingue l'aphtose majeure des autres formes ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Elle guérit toujours en moins de 24 heures", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Elle développe une induration des bords et laisse des cicatrices fibreuses rétractiles", "correct": true, "feedback": "Correct. L'aphtose majeure persiste 2 semaines à 3 mois, développe une induration des bords et laisse des cicatrices fibreuses et rétractiles."},
+        {"id": "C", "text": "Elle ne touche jamais le palais mou", "correct": false, "feedback": "Incorrect. Elle a au contraire une prédilection pour le palais mou."},
+        {"id": "D", "text": "Elle ne récidive jamais", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Quel est le siège de prédilection de l'extension de l'aphtose majeure ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La gencive attachée", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Le palais mou, avec extension possible à l'oropharynx", "correct": true, "feedback": "Correct. L'aphtose majeure a une prédilection pour le palais mou et peut s'étendre à l'oropharynx."},
+        {"id": "C", "text": "Le vermillon des lèvres uniquement", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le plancher buccal exclusivement", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "L'aphtose miliaire est également appelée :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Aphtose herpétiforme", "correct": true, "feedback": "Correct. L'aphtose miliaire est aussi qualifiée d'herpétiforme."},
+        {"id": "B", "text": "Aphtose de Sutton", "correct": false, "feedback": "Incorrect. C'est l'aphtose majeure."},
+        {"id": "C", "text": "Aphtose géante", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Aphtose bipolaire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Quelles sont les caractéristiques cliniques de l'aphtose miliaire ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Aphtes de 1 à 2 mm, nombreux (5 à 20, jusqu'à 100), tendant à confluer", "correct": true, "feedback": "Correct. L'aphtose miliaire réalise de petits aphtes de 1 à 2 mm, en grand nombre, ayant tendance à confluer."},
+        {"id": "B", "text": "Un aphte unique géant de 5 cm", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Des aphtes toujours précédés de vésicules", "correct": false, "feedback": "Incorrect. Aucune forme d'aphtose n'est précédée de vésicule."},
+        {"id": "D", "text": "Des aphtes indolores", "correct": false, "feedback": "Incorrect. La douleur y est associée."}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Quel est le principal diagnostic différentiel de l'aphtose miliaire ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Le carcinome épidermoïde", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "La primo-infection herpétique", "correct": true, "feedback": "Correct. En raison du nombre élevé de petites lésions, l'aphtose miliaire doit être distinguée de la primo-infection herpétique."},
+        {"id": "C", "text": "Le lichen plan réticulé", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "La leucoplasie", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Parmi les facteurs de risque des aphtes et aphtoses primaires, lesquels sont reconnus ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Les antécédents familiaux", "correct": true, "feedback": "Correct. Les antécédents familiaux sont un facteur de risque reconnu."},
+        {"id": "B", "text": "Le stress", "correct": true, "feedback": "Correct. Le stress est un facteur favorisant identifié."},
+        {"id": "C", "text": "Le traumatisme local", "correct": true, "feedback": "Correct. Un traumatisme mécanique mineur peut déclencher un aphte."},
+        {"id": "D", "text": "Le tabagisme actif", "correct": false, "feedback": "Incorrect. Le tabac a au contraire un effet protecteur ; l'aphtose est plus fréquente chez les non-fumeurs."}
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Concernant la relation entre tabac et aphtose :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Le tabac aggrave systématiquement les aphtes", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "L'incidence de l'aphtose est plus élevée chez les non-fumeurs et le tabac a un effet protecteur", "correct": true, "feedback": "Correct. Il existe une corrélation négative bien démontrée : l'aphtose est plus fréquente chez les non-fumeurs (kératinisation de la muqueuse et effet anti-inflammatoire de la nicotine)."},
+        {"id": "C", "text": "Le tabac n'a aucune influence sur l'aphtose", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "L'arrêt du tabac réduit toujours les poussées", "correct": false, "feedback": "Incorrect. L'arrêt du tabac peut au contraire déclencher des poussées."}
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Concernant les aliments déclenchant des poussées d'aphtes (fromages à pâte dure, fruits secs, fruits crus non pelés) :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Le mécanisme est immunologique de type allergique", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Le mécanisme est non immunologique", "correct": true, "feedback": "Correct. L'aggravation des poussées par certains aliments suit un mécanisme non immunologique."},
+        {"id": "C", "text": "Ce sont les seuls facteurs déclenchants connus", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Ils provoquent une aphtose secondaire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Concernant les facteurs hormonaux dans l'aphtose :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Les aphtes apparaissent souvent au moment des règles et peuvent disparaître pendant la grossesse", "correct": true, "feedback": "Correct. On observe l'apparition d'aphtes au moment des règles et la disparition des poussées chez certaines patientes enceintes ou sous contraception orale."},
+        {"id": "B", "text": "La grossesse aggrave toujours l'aphtose", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Les hormones n'ont aucun rôle", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "La contraception orale provoque toujours des aphtes", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Quelle hypothèse pathogénique génétique et immunitaire est avancée pour l'aphtose ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Une réponse immune de type Th1 et une accumulation focale de lymphocytes T CD8+", "correct": true, "feedback": "Correct. Les gènes suspectés favorisent une réponse Th1 ; l'hypothèse est une dysrégulation immunitaire locale avec accumulation de lymphocytes T CD8+ dans la muqueuse."},
+        {"id": "B", "text": "Une carence isolée en lymphocytes B", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une réponse immune purement Th2 allergique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une absence totale de composante immunitaire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Quelles affections gastro-intestinales sont associées à une aphtose secondaire ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La maladie cœliaque", "correct": true, "feedback": "Correct. La maladie cœliaque s'accompagne d'aphtes dans 4 à 43 % des cas."},
+        {"id": "B", "text": "La maladie de Crohn", "correct": true, "feedback": "Correct. La maladie de Crohn donne des aphtes dans 4,2 à 17 % des cas."},
+        {"id": "C", "text": "La rectocolite ulcérohémorragique", "correct": true, "feedback": "Correct. La RCH s'accompagne d'aphtes dans 1,4 à 10 % des cas."},
+        {"id": "D", "text": "Le reflux gastro-œsophagien isolé", "correct": false, "feedback": "Incorrect. Le RGO ne fait pas partie des affections digestives citées."}
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Dans la maladie de Behçet, quel est souvent le premier signe ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "L'aphtose buccale récidivante", "correct": true, "feedback": "Correct. L'aphtose buccale récurrente est souvent le premier signe de la maladie de Behçet."},
+        {"id": "B", "text": "La cécité", "correct": false, "feedback": "Incorrect. L'atteinte oculaire est une complication, pas un signe inaugural."},
+        {"id": "C", "text": "L'atteinte neurologique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Les douleurs abdominales", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Dans la maladie de Behçet, dans quelle proportion observe-t-on des ulcérations génitales ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Environ 5 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Environ 30 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Environ 85 %", "correct": true, "feedback": "Correct. Les ulcérations génitales sont présentes dans environ 85 % des cas de maladie de Behçet."},
+        {"id": "D", "text": "100 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Quel test cutané est utile au diagnostic de la maladie de Behçet ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Le test à la tuberculine", "correct": false, "feedback": "Incorrect. Ce test explore la tuberculose."},
+        {"id": "B", "text": "Le test de pathergie (pathergy test)", "correct": true, "feedback": "Correct. Le test de pathergie cutanée fait partie des éléments orientant vers la maladie de Behçet."},
+        {"id": "C", "text": "Le test au patch allergénique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le test de Tzanck", "correct": false, "feedback": "Incorrect. Le test de Tzanck explore les infections herpétiques."}
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Quelles carences peuvent être à l'origine d'une aphtose secondaire ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Carence en fer", "correct": true, "feedback": "Correct. La carence en fer peut entraîner une aphtose secondaire."},
+        {"id": "B", "text": "Carence en zinc", "correct": true, "feedback": "Correct. La carence en zinc est citée parmi les causes."},
+        {"id": "C", "text": "Carence en folates et en vitamine B12", "correct": true, "feedback": "Correct. Les carences en folates et en vitamines du groupe B (B1, B2, B6, B12) peuvent provoquer une aphtose secondaire."},
+        {"id": "D", "text": "Carence en vitamine D", "correct": false, "feedback": "Incorrect. La vitamine D ne figure pas parmi les carences citées."}
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Quelle est la fréquence des ulcérations orales récidivantes chez les patients infectés par le VIH ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "1 à 5 %", "correct": true, "feedback": "Correct. Les ulcérations orales récidivantes surviennent dans 1 à 5 % des cas ; les traitements du VIH réduisent cette fréquence."},
+        {"id": "B", "text": "50 à 60 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "80 à 90 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "0 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Quelle est la périodicité caractéristique des poussées dans la neutropénie cyclique idiopathique ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Toutes les 24 heures", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Toutes les trois semaines", "correct": true, "feedback": "Correct. Dans la neutropénie cyclique idiopathique, fièvre et aphtes surviennent toutes les trois semaines, associés à une neutropénie."},
+        {"id": "C", "text": "Tous les six mois", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une fois par an", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Quels médicaments peuvent induire des aphtes ou une aphtose récidivante ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Les anti-inflammatoires non stéroïdiens", "correct": true, "feedback": "Correct. Les AINS peuvent induire des aphtes."},
+        {"id": "B", "text": "Le nicorandil", "correct": true, "feedback": "Correct. Le nicorandil est un inducteur reconnu d'ulcérations buccales aphtoïdes."},
+        {"id": "C", "text": "Le sirolimus et les inhibiteurs de m-TOR", "correct": true, "feedback": "Correct. Le sirolimus et les inhibiteurs de m-TOR peuvent provoquer une aphtose."},
+        {"id": "D", "text": "Le paracétamol", "correct": false, "feedback": "Incorrect. Le paracétamol n'est pas cité parmi les médicaments inducteurs."}
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Combien de phases cliniques distingue-t-on dans l'évolution d'un aphte ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Deux phases", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Quatre phases : prodromique, pré-ulcérative, d'ulcération et de cicatrisation", "correct": true, "feedback": "Correct. L'aphte évolue en quatre phases : prodromique, pré-ulcérative, d'ulcération et de cicatrisation."},
+        {"id": "C", "text": "Six phases", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une seule phase", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Quand une biopsie est-elle indiquée devant une ulcération aphtoïde ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Systématiquement devant tout aphte", "correct": false, "feedback": "Incorrect. L'examen anatomopathologique est non contributif pour l'aphte banal."},
+        {"id": "B", "text": "En l'absence de guérison au-delà de deux semaines, pour exclure un autre diagnostic", "correct": true, "feedback": "Correct. La biopsie n'est indiquée que pour exclure d'autres diagnostics (carcinome, lichen plan, maladie bulleuse) en l'absence de guérison au-delà de deux semaines."},
+        {"id": "C", "text": "Jamais, quelle que soit l'évolution", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Uniquement chez l'enfant", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Le traitement de l'aphtose est :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Symptomatique, sans traitement curatif", "correct": true, "feedback": "Correct. Le traitement est symptomatique : il n'existe pas de traitement curatif de l'aphtose."},
+        {"id": "B", "text": "Toujours chirurgical", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une antibiothérapie systématique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une radiothérapie", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Parmi les traitements locaux de première intention de l'aphtose, on retrouve :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Les antalgiques locaux (lidocaïne en gel), le sucralfate et les corticoïdes topiques", "correct": true, "feedback": "Correct. Les antalgiques locaux, le sucralfate et les corticoïdes topiques sont les traitements locaux de première intention."},
+        {"id": "B", "text": "La chimiothérapie", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Les antifongiques systémiques", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Les antiviraux", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Concernant la colchicine dans le traitement de l'aphtose :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Elle agit immédiatement dès la première prise", "correct": false, "feedback": "Incorrect. Il existe un temps de latence d'environ 2 mois avant qu'elle soit efficace."},
+        {"id": "B", "text": "Elle est utilisée en prévention des récidives, à environ 1 mg/j, avec un temps de latence d'efficacité", "correct": true, "feedback": "Correct. La colchicine (1 mg/j) est utilisée en prévention des récidives, avec un temps de latence d'environ 2 mois et un phénomène d'échappement possible."},
+        {"id": "C", "text": "Elle n'a aucun effet indésirable", "correct": false, "feedback": "Incorrect. Elle peut donner diarrhée, nausées et nécessite une surveillance NFS et hépatique."},
+        {"id": "D", "text": "Elle est contre-indiquée dans la maladie de Behçet", "correct": false, "feedback": "Incorrect. Elle est au contraire efficace dans l'aphtose de la maladie de Behçet."}
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Concernant le thalidomide dans le traitement de l'aphtose sévère :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Il est dénué d'effets secondaires", "correct": false, "feedback": "Incorrect. Il expose à des effets graves : somnolence, neurotoxicité, tératogénicité."},
+        {"id": "B", "text": "Il a une action antalgique rapide, ne présente pas de phénomène d'échappement, mais est tératogène", "correct": true, "feedback": "Correct. Le thalidomide a une action antalgique rapide, pas de phénomène d'échappement, mais nécessite un suivi rigoureux du fait d'effets graves dont la tératogénicité."},
+        {"id": "C", "text": "Il est disponible sans prescription", "correct": false, "feedback": "Incorrect. Sa disponibilité est hospitalière."},
+        {"id": "D", "text": "Il guérit définitivement l'aphtose", "correct": false, "feedback": "Incorrect. L'arrêt du traitement est suivi de récidive."}
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Quelle est la place du sucralfate dans le traitement de l'aphtose ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Un antiviral à action rapide", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Un agent formant un écran protecteur, utilisé en bains de bouche, diminuant douleur et durée de cicatrisation", "correct": true, "feedback": "Correct. Le sucralfate, utilisé dans l'ulcère gastrique comme écran protecteur, est employé en bains de bouche et diminue les douleurs et la durée de cicatrisation."},
+        {"id": "C", "text": "Un corticoïde systémique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Un antibiotique", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Quel est le traitement préventif de première intention de l'aphtose ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Le thalidomide d'emblée", "correct": false, "feedback": "Incorrect. Le thalidomide est réservé à la deuxième intention (formes sévères récidivantes résistantes)."},
+        {"id": "B", "text": "La colchicine, associée ou remplacée par des bains de bouche au sucralfate et la vitamine B12", "correct": true, "feedback": "Correct. En première intention préventive : colchicine, associée ou remplacée par des bains de bouche au sucralfate, avec adjonction de vitamine B12."},
+        {"id": "C", "text": "La radiothérapie préventive", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une antibiothérapie au long cours", "correct": false, "feedback": "Incorrect."}
+      ]
+    }
+  ]
+}

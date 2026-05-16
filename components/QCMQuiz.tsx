@@ -213,9 +213,9 @@ export const QCMQuiz: React.FC<QCMQuizProps> = ({ data, onChangeQuiz }) => {
             <div className="max-w-2xl mx-auto flex flex-col gap-6">
                 {/* Header */}
                 <div>
-                    <div className="flex items-center justify-between mb-3">
-                        <h1 className="text-xl font-bold text-indigo-900">{meta.title}</h1>
-                        <div className="flex items-center gap-2">
+                    <div className="flex items-start justify-between gap-3 flex-wrap mb-3">
+                        <h1 className="text-lg sm:text-xl font-bold text-indigo-900 min-w-0 flex-1 break-words">{meta.title}</h1>
+                        <div className="flex items-center gap-2 shrink-0">
                             {devMode ? (
                                 <span className="text-xs font-mono bg-amber-100 text-amber-700 px-2 py-0.5 rounded-full">
                                     DEV
@@ -224,9 +224,9 @@ export const QCMQuiz: React.FC<QCMQuizProps> = ({ data, onChangeQuiz }) => {
                             {onChangeQuiz ? (
                                 <button
                                     onClick={onChangeQuiz}
-                                    className="text-xs text-gray-400 hover:text-indigo-600 transition-colors flex items-center gap-1"
+                                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border-2 border-indigo-200 bg-white text-indigo-600 text-xs font-semibold hover:bg-indigo-50 hover:border-indigo-300 active:scale-95 transition-all"
                                 >
-                                    <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
+                                    <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
                                         <path strokeLinecap="round" strokeLinejoin="round" d="M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5m-13.5-9L12 3m0 0 4.5 4.5M12 3v13.5" />
                                     </svg>
                                     Changer de quiz
@@ -361,7 +361,7 @@ export const QCMQuiz: React.FC<QCMQuizProps> = ({ data, onChangeQuiz }) => {
                 </div>
 
                 {/* Navigation */}
-                <div className="flex items-center justify-between">
+                <div className="flex items-center justify-between gap-2 flex-wrap">
                     <button
                         onClick={() => setCurrentIndex(i => i - 1)}
                         disabled={currentIndex === 0}
@@ -370,7 +370,7 @@ export const QCMQuiz: React.FC<QCMQuizProps> = ({ data, onChangeQuiz }) => {
                         ← Précédent
                     </button>
 
-                    <div className="flex items-center gap-2">
+                    <div className="flex items-center gap-2 flex-wrap justify-end">
                         {/* Dev jump widget */}
                         {devMode ? (
                             <div className="flex items-center gap-1">

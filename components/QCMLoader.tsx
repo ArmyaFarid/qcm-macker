@@ -144,13 +144,17 @@ interface SelectorScreenProps {
     onStart: (selection: Selection) => void;
 }
 
-const COLOR_STYLES: Record<string, { border: string; bg: string; checked: string; text: string }> = {
-    indigo:  { border: "border-indigo-200",  bg: "bg-indigo-50",  checked: "border-indigo-500 bg-indigo-100",   text: "text-indigo-700" },
-    red:     { border: "border-red-200",     bg: "bg-red-50",     checked: "border-red-500 bg-red-100",         text: "text-red-700" },
-    amber:   { border: "border-amber-200",   bg: "bg-amber-50",   checked: "border-amber-500 bg-amber-100",     text: "text-amber-700" },
-    rose:    { border: "border-rose-200",    bg: "bg-rose-50",    checked: "border-rose-500 bg-rose-100",       text: "text-rose-700" },
-    emerald: { border: "border-emerald-200", bg: "bg-emerald-50", checked: "border-emerald-500 bg-emerald-100", text: "text-emerald-700" },
-    violet:  { border: "border-violet-200",  bg: "bg-violet-50",  checked: "border-violet-500 bg-violet-100",   text: "text-violet-700" },
+const COLOR_STYLES: Record<string, { border: string; bg: string; checked: string; text: string; solid: string }> = {
+    indigo:  { border: "border-indigo-200",  bg: "bg-indigo-50",  checked: "border-indigo-500 bg-indigo-100",   text: "text-indigo-700",  solid: "bg-indigo-600 border-indigo-600" },
+    red:     { border: "border-red-200",     bg: "bg-red-50",     checked: "border-red-500 bg-red-100",         text: "text-red-700",     solid: "bg-red-600 border-red-600" },
+    amber:   { border: "border-amber-200",   bg: "bg-amber-50",   checked: "border-amber-500 bg-amber-100",     text: "text-amber-700",   solid: "bg-amber-600 border-amber-600" },
+    rose:    { border: "border-rose-200",    bg: "bg-rose-50",    checked: "border-rose-500 bg-rose-100",       text: "text-rose-700",    solid: "bg-rose-600 border-rose-600" },
+    emerald: { border: "border-emerald-200", bg: "bg-emerald-50", checked: "border-emerald-500 bg-emerald-100", text: "text-emerald-700", solid: "bg-emerald-600 border-emerald-600" },
+    violet:  { border: "border-violet-200",  bg: "bg-violet-50",  checked: "border-violet-500 bg-violet-100",   text: "text-violet-700",  solid: "bg-violet-600 border-violet-600" },
+    orange:  { border: "border-orange-200",  bg: "bg-orange-50",  checked: "border-orange-500 bg-orange-100",   text: "text-orange-700",  solid: "bg-orange-600 border-orange-600" },
+    teal:    { border: "border-teal-200",    bg: "bg-teal-50",    checked: "border-teal-500 bg-teal-100",       text: "text-teal-700",    solid: "bg-teal-600 border-teal-600" },
+    sky:     { border: "border-sky-200",     bg: "bg-sky-50",     checked: "border-sky-500 bg-sky-100",         text: "text-sky-700",     solid: "bg-sky-600 border-sky-600" },
+    fuchsia: { border: "border-fuchsia-200", bg: "bg-fuchsia-50", checked: "border-fuchsia-500 bg-fuchsia-100", text: "text-fuchsia-700", solid: "bg-fuchsia-600 border-fuchsia-600" },
 };
 
 const DIFFICULTY_LABELS = [
@@ -222,27 +226,37 @@ function SelectorScreen({ themes, loading, error, onStart }: SelectorScreenProps
                                     <button
                                         key={theme.id}
                                         onClick={() => toggleTheme(theme.id)}
-                                        className={`w-full text-left p-3 rounded-xl border-2 bg-white transition-all flex items-center gap-3 ${
-                                            isSelected ? style.checked : `${style.border} hover:bg-gray-50`
+                                        aria-pressed={isSelected}
+                                        className={`w-full text-left p-3 rounded-xl border-2 transition-all flex items-center gap-3 ${
+                                            isSelected
+                                                ? `${style.checked} shadow-sm`
+                                                : "border-gray-200 bg-white hover:bg-gray-50"
                                         }`}
                                     >
-                                        <div className={`w-5 h-5 rounded-md border-2 flex items-center justify-center shrink-0 transition-all ${
-                                            isSelected ? `${style.text.replace("text-", "border-")} ${style.text.replace("text-", "bg-")}` : "border-gray-300"
+                                        <div className={`w-6 h-6 rounded-md border-2 flex items-center justify-center shrink-0 transition-all ${
+                                            isSelected ? style.solid : "border-gray-300 bg-white"
                                         }`}>
                                             {isSelected ? (
-                                                <svg className="w-3.5 h-3.5 text-white" fill="none" viewBox="0 0 24 24" strokeWidth={3} stroke="currentColor">
+                                                <svg className="w-4 h-4 text-white" fill="none" viewBox="0 0 24 24" strokeWidth={3.5} stroke="currentColor">
                                                     <path strokeLinecap="round" strokeLinejoin="round" d="m4.5 12.75 6 6 9-13.5" />
                                                 </svg>
                                             ) : null}
                                         </div>
-                                        <span className="text-sm font-medium text-gray-800 flex-1">{theme.title}</span>
+                                        <span className={`text-sm flex-1 ${isSelected ? `font-semibold ${style.text}` : "font-medium text-gray-800"}`}>
+                                            {theme.title}
+                                        </span>
+                                        {isSelected ? (
+                                            <span className={`text-xs font-semibold shrink-0 ${style.text}`}>
+                                                Sélectionné
+                                            </span>
+                                        ) : null}
                                     </button>
                                 );
                             })}
                         </div>
                     ) : (
                         <div className="flex flex-col gap-2">
-                            {[...Array(6)].map((_, i) => (
+                            {[...Array(10)].map((_, i) => (
                                 <div key={i} className="w-full h-12 bg-white rounded-xl border-2 border-gray-100 animate-pulse" />
                             ))}
                         </div>

@@ -1,0 +1,736 @@
+{
+  "meta": {
+    "title": "Ulcérations de la muqueuse orale",
+    "theme": "ulcerations"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quelle est la prévalence des ulcérations buccales dans la population générale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "20 à 25 %", "correct": true, "feedback": "Correct. La prévalence des ulcérations buccales, toutes causes confondues, est de 20 à 25 % de la population générale."},
+        {"id": "B", "text": "Moins de 1 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "50 à 60 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "90 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quelle est la « règle des 3 semaines » concernant les ulcérations buccales ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Toute ulcération persistant plus de 3 semaines sans cause évidente impose une biopsie pour éliminer un carcinome", "correct": true, "feedback": "Correct. Toute ulcération persistant plus de 3 semaines sans cause évidente est suspecte de malignité jusqu'à preuve du contraire et impose une biopsie."},
+        {"id": "B", "text": "Toute ulcération guérit en 3 semaines", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une ulcération de moins de 3 semaines doit être biopsiée", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "On attend 3 mois avant toute exploration", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Quelle est la différence fondamentale entre une érosion et une ulcération ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "L'érosion est superficielle (épithéliale, membrane basale intacte) ; l'ulcération dépasse la membrane basale et atteint le chorion", "correct": true, "feedback": "Correct. L'érosion est une perte de substance superficielle limitée à l'épithélium ; l'ulcération est une perte de substance profonde dépassant la membrane basale et atteignant le chorion."},
+        {"id": "B", "text": "L'érosion est toujours plus profonde que l'ulcération", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "L'ulcération ne saigne jamais", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Il n'existe aucune différence", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Le terme « ulcère » désigne :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une ulcération chronique à tendance non cicatrisante, persistant au-delà de 3 semaines", "correct": true, "feedback": "Correct. L'ulcère est une ulcération chronique à tendance non cicatrisante, persistant au-delà de 3 semaines, qui doit toujours être biopsiée."},
+        {"id": "B", "text": "Une érosion superficielle aiguë", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une bulle remplie de liquide", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une lésion strictement bénigne", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Le terme « chancre » désigne sémiologiquement :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une ulcération indurée, à bords réguliers, évocatrice de syphilis", "correct": true, "feedback": "Correct. Le chancre est une ulcération indurée à bords réguliers, caractéristique de la syphilis primaire."},
+        {"id": "B", "text": "Une plaque grisâtre de nécrose", "correct": false, "feedback": "Incorrect. C'est la nécrose."},
+        {"id": "C", "text": "Un soulèvement liquidien de moins de 5 mm", "correct": false, "feedback": "Incorrect. C'est une vésicule."},
+        {"id": "D", "text": "Une perte de substance superficielle", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Quelle muqueuse buccale est kératinisée et fortement adhérente au plan osseux ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La muqueuse masticatrice (gencive et palais dur)", "correct": true, "feedback": "Correct. La muqueuse masticatrice (gencive et palais dur) est kératinisée et fortement adhérente au plan osseux."},
+        {"id": "B", "text": "La muqueuse tapissante (joues, plancher)", "correct": false, "feedback": "Incorrect. La muqueuse tapissante est non kératinisée et mobile."},
+        {"id": "C", "text": "La face ventrale de la langue", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le vermillon des lèvres", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Parmi les critères d'inquiétude faisant craindre une malignité devant une ulcération, on retrouve :",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "L'induration de la base", "correct": true, "feedback": "Correct. L'induration est un signe de malignité."},
+        {"id": "B", "text": "Le saignement spontané et les bords éversés", "correct": true, "feedback": "Correct. Le saignement spontané et les bords éversés (retournés) sont des critères d'inquiétude."},
+        {"id": "C", "text": "Une adénopathie dure et fixée", "correct": true, "feedback": "Correct. Une adénopathie dure et fixée évoque une métastase ganglionnaire."},
+        {"id": "D", "text": "Une douleur intense d'emblée", "correct": false, "feedback": "Incorrect. C'est justement l'absence de douleur (lésion indolore) qui est inquiétante."}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Quelle classification constitue la clé diagnostique fondamentale des ulcérations buccales ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Ulcérations uniques versus ulcérations multiples", "correct": true, "feedback": "Correct. La distinction entre ulcérations uniques et ulcérations multiples constitue la clé diagnostique fondamentale."},
+        {"id": "B", "text": "Ulcérations douloureuses versus indolores", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Ulcérations maxillaires versus mandibulaires", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Ulcérations de l'enfant versus de l'adulte", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Quel est le siège préférentiel de l'aphte simple isolé ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "La muqueuse non kératinisée (lèvres, joues, face ventrale de la langue, plancher)", "correct": true, "feedback": "Correct. L'aphte simple siège sur la muqueuse non kératinisée : lèvres, joues, face ventrale de la langue, plancher buccal."},
+        {"id": "B", "text": "La gencive et le palais dur", "correct": false, "feedback": "Incorrect. C'est le siège de l'herpès intra-oral récurrent."},
+        {"id": "C", "text": "L'os alvéolaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le vermillon des lèvres", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Quels signes négatifs sont caractéristiques de l'aphte simple ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Absence de fièvre, de vésicule prodromique et d'adénopathie", "correct": true, "feedback": "Correct. L'absence de fièvre, de vésicule prodromique et d'adénopathie est un critère important de l'aphte simple."},
+        {"id": "B", "text": "Présence constante d'une induration de la base", "correct": false, "feedback": "Incorrect. L'aphte n'est pas induré."},
+        {"id": "C", "text": "Fièvre élevée systématique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Vésicules précédant toujours l'ulcération", "correct": false, "feedback": "Incorrect. L'aphte n'est pas précédé de vésicule."}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Quel est le traitement local de première ligne de l'aphte simple ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Les corticoïdes topiques (triamcinolone acétonide en pâte, bétaméthasone en bains de bouche)", "correct": true, "feedback": "Correct. Les corticoïdes topiques sont le traitement local de première ligne de l'aphte."},
+        {"id": "B", "text": "Une antibiothérapie systémique", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une chimiothérapie", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une exérèse chirurgicale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Devant une ulcération traumatique, quelle est la conduite à tenir si elle ne guérit pas après suppression du facteur causal ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Réaliser une biopsie incisionnelle (toute ulcération non guérie en 2-3 semaines après suppression de la cause doit être biopsiée)", "correct": true, "feedback": "Correct. Règle absolue : toute ulcération qui ne guérit pas en 2-3 semaines après suppression du facteur causal doit être biopsiée."},
+        {"id": "B", "text": "Poursuivre la surveillance pendant 6 mois", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Prescrire un antiviral", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Ne rien faire, la guérison est toujours spontanée", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Quelle est la cause la plus fréquente d'ulcération traumatique mécanique ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Une prothèse dentaire mal adaptée ou une dent cariée/fracturée", "correct": true, "feedback": "Correct. Les causes mécaniques (prothèse mal adaptée, dent cariée ou fracturée, morsure) sont les plus fréquentes."},
+        {"id": "B", "text": "Une infection virale", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une maladie auto-immune", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une carence vitaminique", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Le carcinome épidermoïde représente quelle proportion des cancers de la cavité buccale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Environ 90 %", "correct": true, "feedback": "Correct. Le carcinome épidermoïde représente environ 90 % des cancers de la cavité buccale."},
+        {"id": "B", "text": "Environ 10 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Environ 30 %", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Environ 50 %", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Quelle est la localisation la plus fréquente du carcinome épidermoïde buccal ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La face latérale de la langue mobile (30-40 % des cas)", "correct": true, "feedback": "Correct. La langue mobile, sur sa face latérale, est la localisation la plus fréquente (30 à 40 % des cas)."},
+        {"id": "B", "text": "La gencive maxillaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Le palais dur", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le vermillon de la lèvre supérieure", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Concernant l'association tabac-alcool dans le carcinome épidermoïde buccal :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Elle a un effet synergique multipliant le risque par environ 100", "correct": true, "feedback": "Correct. L'association tabac + alcool a un effet synergique qui multiplie le risque par environ 100."},
+        {"id": "B", "text": "Elle n'a aucun effet sur le risque", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Elle est protectrice", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Elle divise le risque par deux", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Quel triptyque clinique impose une biopsie immédiate par crainte d'un carcinome épidermoïde ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Induration + indolence + persistance au-delà de 3 semaines", "correct": true, "feedback": "Correct. Induration + indolence + persistance > 3 semaines = carcinome jusqu'à preuve du contraire, imposant une biopsie immédiate."},
+        {"id": "B", "text": "Douleur + fièvre + vésicules", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Halo érythémateux + fond fibrineux + récidive", "correct": false, "feedback": "Incorrect. Cela évoque un aphte."},
+        {"id": "D", "text": "Bulle + Nikolsky + jeune âge", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Le signe de Vincent (anesthésie du menton) au cours d'un carcinome traduit :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "L'envahissement du nerf alvéolaire inférieur", "correct": true, "feedback": "Correct. L'anesthésie du menton (signe de Vincent) traduit l'envahissement du nerf alvéolaire inférieur."},
+        {"id": "B", "text": "Une simple inflammation gingivale", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une carence en vitamine B12", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une infection herpétique", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Quel examen est indispensable au diagnostic positif du carcinome épidermoïde ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "La biopsie incisionnelle avec examen anatomopathologique", "correct": true, "feedback": "Correct. La biopsie incisionnelle avec examen anatomopathologique est indispensable au diagnostic positif."},
+        {"id": "B", "text": "Un simple examen clinique", "correct": false, "feedback": "Incorrect. La clinique oriente, mais la biopsie confirme."},
+        {"id": "C", "text": "Une sérologie", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Un bain de bouche test", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "La tuberculose orale est presque toujours :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Secondaire à une tuberculose pulmonaire active", "correct": true, "feedback": "Correct. La tuberculose orale est presque toujours secondaire à une tuberculose pulmonaire active (auto-inoculation par les crachats bacillifères)."},
+        {"id": "B", "text": "Une infection primitive isolée de la bouche", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "D'origine virale", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Sans rapport avec Mycobacterium tuberculosis", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Quelle lésion histologique caractérise la tuberculose orale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Un granulome épithélioïde et gigantocellulaire avec nécrose caséeuse", "correct": true, "feedback": "Correct. La tuberculose se caractérise par un granulome tuberculoïde (cellules épithélioïdes, cellules géantes de Langhans) avec nécrose caséeuse centrale."},
+        {"id": "B", "text": "Une acantholyse sus-basale", "correct": false, "feedback": "Incorrect. C'est le pemphigus."},
+        {"id": "C", "text": "Un infiltrat éosinophile dense", "correct": false, "feedback": "Incorrect. C'est l'ulcère éosinophilique."},
+        {"id": "D", "text": "Des stries de Wickham", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Quel est le traitement de la tuberculose orale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une quadrithérapie antituberculeuse (isoniazide, rifampicine, pyrazinamide, éthambutol)", "correct": true, "feedback": "Correct. Le traitement repose sur une quadrithérapie antituberculeuse 2 mois, puis une bithérapie 4 mois ; les lésions buccales guérissent sous traitement systémique."},
+        {"id": "B", "text": "Une exérèse chirurgicale isolée", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Un traitement antifongique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une simple surveillance", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Quel est l'agent causal de la syphilis ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Treponema pallidum", "correct": true, "feedback": "Correct. La syphilis est due à Treponema pallidum, une bactérie spirochète."},
+        {"id": "B", "text": "Mycobacterium tuberculosis", "correct": false, "feedback": "Incorrect. C'est l'agent de la tuberculose."},
+        {"id": "C", "text": "Candida albicans", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le virus HSV-1", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Quelle est la caractéristique fondamentale du chancre syphilitique primaire ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une ulcération unique, indolore, à base indurée, avec adénopathie satellite bilatérale ferme", "correct": true, "feedback": "Correct. Le chancre primaire est une ulcération unique, indolore, à bords réguliers et base indurée (aspect cartilagineux), accompagnée d'une adénopathie satellite bilatérale ferme et indolore."},
+        {"id": "B", "text": "Une ulcération douloureuse à fond fibrineux", "correct": false, "feedback": "Incorrect. Cela évoque un aphte."},
+        {"id": "C", "text": "De multiples vésicules sur la gencive", "correct": false, "feedback": "Incorrect. Cela évoque l'herpès."},
+        {"id": "D", "text": "Une bulle à toit fragile", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Quels examens sérologiques confirment le diagnostic de syphilis ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "VDRL (non tréponémique) et TPHA/FTA-ABS (tréponémique)", "correct": true, "feedback": "Correct. Le diagnostic repose sur les sérologies VDRL et TPHA/FTA-ABS ; une sérologie VIH est systématique en cas de syphilis."},
+        {"id": "B", "text": "L'IDR à la tuberculine", "correct": false, "feedback": "Incorrect. C'est un test de la tuberculose."},
+        {"id": "C", "text": "Le dosage des anti-desmogléines", "correct": false, "feedback": "Incorrect. Cela explore le pemphigus."},
+        {"id": "D", "text": "Le dosage de la ferritine", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Quel est le traitement de référence de la syphilis primaire ou secondaire ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La benzathine-pénicilline G 2,4 MU IM en dose unique", "correct": true, "feedback": "Correct. La syphilis primaire ou secondaire se traite par benzathine-pénicilline G 2,4 MU IM en dose unique (doxycycline si allergie)."},
+        {"id": "B", "text": "Une quadrithérapie antituberculeuse", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "L'aciclovir per os", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le rituximab", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 27,
+      "question": "L'ulcère éosinophilique de la muqueuse buccale :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Est une lésion bénigne pseudo-maligne, dont la biopsie montre un dense infiltrat éosinophile", "correct": true, "feedback": "Correct. L'ulcère éosinophilique est une ulcération bénigne pseudo-maligne ; la biopsie montre un dense infiltrat éosinophile dans le chorion (attention à éliminer un lymphome CD30+)."},
+        {"id": "B", "text": "Est une tumeur maligne d'emblée métastatique", "correct": false, "feedback": "Incorrect. C'est une lésion bénigne."},
+        {"id": "C", "text": "Est une infection bactérienne", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Ne nécessite jamais de biopsie", "correct": false, "feedback": "Incorrect. La biopsie est indispensable au diagnostic de certitude."}
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Quels médicaments sont fréquemment incriminés dans les ulcérations médicamenteuses ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Le nicorandil", "correct": true, "feedback": "Correct. Le nicorandil (anti-angineux) provoque des ulcères majeurs douloureux de la langue ou du palais."},
+        {"id": "B", "text": "Le méthotrexate", "correct": true, "feedback": "Correct. Le méthotrexate entraîne mucites et ulcérations multiples."},
+        {"id": "C", "text": "Les AINS", "correct": true, "feedback": "Correct. Les AINS peuvent provoquer des ulcérations directes ou immunoallergiques."},
+        {"id": "D", "text": "Le paracétamol", "correct": false, "feedback": "Incorrect. Le paracétamol n'est pas cité parmi les médicaments incriminés."}
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Quel élément est essentiel au diagnostic d'une ulcération médicamenteuse ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La chronologie (délai entre l'introduction du médicament et la lésion ; guérison à l'arrêt)", "correct": true, "feedback": "Correct. La chronologie est essentielle : délai entre l'introduction du médicament et la lésion, et amélioration ou guérison à l'arrêt (test d'arrêt confirmateur)."},
+        {"id": "B", "text": "L'âge du patient", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Le sexe du patient", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "La couleur des dents", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Comment définit-on la MRONJ (ostéonécrose des maxillaires liée aux médicaments) selon l'AAOMS 2022 ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Un os nécrotique exposé dans la cavité buccale depuis ≥ 8 semaines, chez un patient sous antirésorptif ou anti-angiogénique, sans antécédent de radiothérapie", "correct": true, "feedback": "Correct. La MRONJ est définie par un os nécrotique exposé depuis au moins 8 semaines, chez un patient sous traitement antirésorptif ou anti-angiogénique, sans antécédent de radiothérapie de la région."},
+        {"id": "B", "text": "Une ulcération virale du palais", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une bulle auto-immune de la gencive", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une carie profonde", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Quels médicaments sont responsables de MRONJ ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Les bisphosphonates", "correct": true, "feedback": "Correct. Les bisphosphonates (surtout IV) sont responsables de MRONJ."},
+        {"id": "B", "text": "Le dénosumab (anti-RANKL)", "correct": true, "feedback": "Correct. Le dénosumab expose à un risque comparable aux bisphosphonates IV."},
+        {"id": "C", "text": "Les anti-angiogéniques (bévacizumab, sunitinib)", "correct": true, "feedback": "Correct. Les anti-angiogéniques sont incriminés, avec un risque majoré en association aux bisphosphonates."},
+        {"id": "D", "text": "Le paracétamol", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Quelle est la mesure essentielle de prévention de la MRONJ ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Le bilan et l'assainissement bucco-dentaire AVANT l'instauration du traitement", "correct": true, "feedback": "Correct. La prévention repose sur un bilan et un assainissement bucco-dentaire avant l'instauration du traitement antirésorptif ou anti-angiogénique."},
+        {"id": "B", "text": "L'arrêt de tout brossage dentaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "La pose systématique d'implants", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Aucune prévention n'est possible", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 33,
+      "question": "La sialométaplasie nécrosante :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Est une lésion bénigne auto-limitée du palais dur, par nécrose ischémique des glandes salivaires, guérissant en 4 à 8 semaines", "correct": true, "feedback": "Correct. La sialométaplasie nécrosante est une lésion inflammatoire bénigne auto-limitée du palais dur (nécrose ischémique des acini salivaires), guérissant spontanément en 4 à 8 semaines."},
+        {"id": "B", "text": "Est une tumeur maligne nécessitant une chirurgie large", "correct": false, "feedback": "Incorrect. Elle mime un carcinome mais reste bénigne."},
+        {"id": "C", "text": "Est une infection virale contagieuse", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Nécessite une chimiothérapie", "correct": false, "feedback": "Incorrect. Aucun traitement spécifique n'est nécessaire."}
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Les lymphomes malins non hodgkiniens intra-oraux sont majoritairement :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Des lymphomes de type B", "correct": true, "feedback": "Correct. Les LMNH intra-oraux sont majoritairement des lymphomes de type B, moyennement ou peu différenciés."},
+        {"id": "B", "text": "Des carcinomes épidermoïdes", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Des lésions purement bénignes", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Des infections fongiques", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 35,
+      "question": "À partir de combien d'épisodes par an parle-t-on d'aphtose récidivante buccale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Au moins 3 épisodes par an", "correct": true, "feedback": "Correct. L'aphtose récidivante buccale est définie par au moins 3 épisodes d'ulcérations aphteuses par an."},
+        {"id": "B", "text": "Au moins 1 épisode tous les 5 ans", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Un seul épisode dans la vie", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Au moins 50 épisodes par an", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Selon la classification de l'OMS, quelle est la forme d'aphtose récidivante la plus fréquente ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La forme mineure (aphtes de Mikulicz), environ 80 % des cas", "correct": true, "feedback": "Correct. La forme mineure (aphtes de Mikulicz) représente environ 80 % des cas : moins de 10 mm, guérison en moins de 2 semaines sans cicatrice."},
+        {"id": "B", "text": "La forme majeure (aphtes de Sutton)", "correct": false, "feedback": "Incorrect. La forme majeure ne représente qu'environ 10 % des cas."},
+        {"id": "C", "text": "La forme herpétiforme (aphtes de Cooke)", "correct": false, "feedback": "Incorrect. La forme herpétiforme ne représente qu'environ 10 % des cas."},
+        {"id": "D", "text": "La forme bulleuse", "correct": false, "feedback": "Incorrect. Cette forme n'existe pas dans la classification."}
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Quel critère différencie l'aphtose récidivante de l'herpès ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Aucune forme d'aphtose n'est précédée de vésicule, contrairement à l'herpès", "correct": true, "feedback": "Correct. Aucune des formes d'aphtose n'est précédée de vésicule : c'est un critère différentiel essentiel avec l'herpès."},
+        {"id": "B", "text": "L'aphtose touche toujours la muqueuse kératinisée", "correct": false, "feedback": "Incorrect. L'aphte mineur siège sur la muqueuse non kératinisée."},
+        {"id": "C", "text": "L'aphtose s'accompagne toujours de fièvre", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "L'herpès n'est jamais récidivant", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Quel virus est responsable de l'herpès orofacial dans plus de 95 % des cas buccaux ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "HSV-1", "correct": true, "feedback": "Correct. HSV-1 est responsable de plus de 95 % des cas d'herpès orofacial."},
+        {"id": "B", "text": "Le VIH", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Le papillomavirus (HPV)", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le virus d'Epstein-Barr", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Où le virus HSV-1 reste-t-il en latence après la primo-infection ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Dans le ganglion trigéminal (ganglion de Gasser)", "correct": true, "feedback": "Correct. Après la primo-infection, HSV-1 reste en latence permanente dans le ganglion trigéminal (ganglion de Gasser)."},
+        {"id": "B", "text": "Dans la moelle osseuse", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Dans les glandes salivaires", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Dans le foie", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 40,
+      "question": "La gingivostomatite herpétique aiguë (primo-infection) touche typiquement :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "L'enfant de 1 à 4 ans, avec fièvre élevée et vésicules sur toute la muqueuse buccale", "correct": true, "feedback": "Correct. La gingivostomatite herpétique aiguë touche surtout l'enfant de 1 à 4 ans, avec fièvre élevée (39-40 °C) et éruption vésiculeuse sur toute la muqueuse buccale."},
+        {"id": "B", "text": "Le sujet âgé exclusivement", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une lésion unique indolore de la langue", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une bulle isolée du palais", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Quelle règle clinique oppose l'herpès récurrent intra-oral à l'aphte ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "L'herpès récurrent siège sur la muqueuse kératinisée ; l'aphte siège sur la muqueuse non kératinisée", "correct": true, "feedback": "Correct. Règle clinique : herpès récurrent = muqueuse kératinisée (gencive, palais dur) ; aphte = muqueuse non kératinisée."},
+        {"id": "B", "text": "L'herpès récurrent siège sur la muqueuse non kératinisée et l'aphte sur la kératinisée", "correct": false, "feedback": "Incorrect. C'est l'inverse."},
+        {"id": "C", "text": "Les deux siègent uniquement sur l'os", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Aucun ne siège dans la cavité buccale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Quel est le traitement général de la primo-infection herpétique de forme sévère ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "L'aciclovir per os (ou valaciclovir), voire l'aciclovir IV chez l'immunodéprimé", "correct": true, "feedback": "Correct. La primo-infection sévère se traite par aciclovir per os (ou valaciclovir) ; la forme de l'immunodéprimé peut nécessiter l'aciclovir IV."},
+        {"id": "B", "text": "Une antibiothérapie par pénicilline", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une quadrithérapie antituberculeuse", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le rituximab", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Quelle caractéristique clinique distingue le zona buccal ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une éruption unilatérale, respectant strictement la ligne médiane, dans le territoire du nerf trijumeau", "correct": true, "feedback": "Correct. Le zona buccal réalise une éruption unilatérale respectant strictement la ligne médiane, dans le territoire du nerf trijumeau atteint (V2/V3)."},
+        {"id": "B", "text": "Une éruption strictement bilatérale et symétrique", "correct": false, "feedback": "Incorrect. Le zona est unilatéral."},
+        {"id": "C", "text": "Une lésion unique indurée indolore", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une absence totale de douleur", "correct": false, "feedback": "Incorrect. Le zona est très douloureux (névralgie zostérienne)."}
+      ]
+    },
+    {
+      "id": 44,
+      "question": "Dans l'érythème polymorphe, quelle est la cause infectieuse la plus fréquente ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "L'herpès simplex (HSV 1/2), responsable d'environ 75 % des cas", "correct": true, "feedback": "Correct. L'herpès simplex est la cause infectieuse n°1 de l'érythème polymorphe (environ 75 % des cas)."},
+        {"id": "B", "text": "Le VIH", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Candida albicans", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Treponema pallidum", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 45,
+      "question": "Quel signe buccal est pathognomonique de l'érythème polymorphe ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Les croûtes hémorragiques caractéristiques des lèvres", "correct": true, "feedback": "Correct. Les croûtes hémorragiques des lèvres sont un signe pathognomonique de l'érythème polymorphe."},
+        {"id": "B", "text": "Les stries de Wickham", "correct": false, "feedback": "Incorrect. Elles évoquent un lichen plan."},
+        {"id": "C", "text": "Le signe de Nikolsky", "correct": false, "feedback": "Incorrect. Il évoque un pemphigus."},
+        {"id": "D", "text": "Le fond fibrineux jaunâtre", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 46,
+      "question": "Dans le pemphigus vulgaire, contre quelle structure sont dirigés les auto-anticorps responsables de l'atteinte muqueuse ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "La desmogléine 3 (Dsg3), provoquant une acantholyse et une bulle intra-épithéliale", "correct": true, "feedback": "Correct. Les auto-anticorps IgG anti-desmogléine 3 entraînent une rupture des desmosomes (acantholyse) et une bulle intra-épithéliale sus-basale."},
+        {"id": "B", "text": "Le collagène de la membrane basale", "correct": false, "feedback": "Incorrect. C'est le cas de la pemphigoïde."},
+        {"id": "C", "text": "La kératine de la couche cornée", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Les fibres élastiques du chorion", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 47,
+      "question": "Le signe de Nikolsky, évocateur de pemphigus, correspond à :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Un décollement épithélial provoqué par une traction latérale sur muqueuse saine périphérique", "correct": true, "feedback": "Correct. Le signe de Nikolsky est le décollement épithélial provoqué par une traction latérale sur la muqueuse saine périphérique ; il impose une biopsie en urgence."},
+        {"id": "B", "text": "Une pigmentation brunâtre de la gencive", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une induration de la base de l'ulcération", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Un halo érythémateux autour de l'aphte", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 48,
+      "question": "Quel examen est pathognomonique du pemphigus vulgaire ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "L'immunofluorescence directe montrant des dépôts d'IgG et de C3 en réseau maillé intercellulaire", "correct": true, "feedback": "Correct. L'IFD montrant des dépôts d'IgG et de C3 en réseau maillé intercellulaire est pathognomonique du pemphigus vulgaire."},
+        {"id": "B", "text": "La sérologie VDRL", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "L'IDR à la tuberculine", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le dosage de la ferritine", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 49,
+      "question": "Quelle différence clé oppose la pemphigoïde cicatricielle au pemphigus vulgaire ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Le clivage est sous-épithélial (bulles tendues) avec IFD linéaire à la membrane basale", "correct": true, "feedback": "Correct. Dans la pemphigoïde cicatricielle, le clivage est sous-épithélial (bulles plus tendues) et l'IFD montre des dépôts linéaires le long de la membrane basale, à la différence du dépôt intercellulaire du pemphigus."},
+        {"id": "B", "text": "Le clivage est intra-épithélial avec acantholyse", "correct": false, "feedback": "Incorrect. C'est le pemphigus."},
+        {"id": "C", "text": "Elle ne touche jamais la muqueuse buccale", "correct": false, "feedback": "Incorrect. La muqueuse buccale est la 1ère localisation dans 85 % des cas."},
+        {"id": "D", "text": "Elle n'a aucun risque oculaire", "correct": false, "feedback": "Incorrect. Elle expose à des séquelles oculaires graves (symblépharons, cécité)."}
+      ]
+    },
+    {
+      "id": 50,
+      "question": "La gingivite desquamative est un signe évocateur de :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "La pemphigoïde cicatricielle (mais aussi du lichen plan érosif)", "correct": true, "feedback": "Correct. La gingivite desquamative est un signe évocateur de pemphigoïde cicatricielle ; elle entre aussi dans le diagnostic différentiel du lichen plan érosif."},
+        {"id": "B", "text": "L'ulcération traumatique", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "La carie dentaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "L'aphte simple isolé", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 51,
+      "question": "Quelle triade caractérise la maladie de Behçet ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Aphtose buccale + aphtose génitale + uvéite", "correct": true, "feedback": "Correct. La maladie de Behçet est une vascularite systémique caractérisée par une aphtose buccale et génitale récidivante associée à une uvéite."},
+        {"id": "B", "text": "Fièvre + ictère + splénomégalie", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Toux + amaigrissement + sueurs nocturnes", "correct": false, "feedback": "Incorrect. Cela évoque la tuberculose."},
+        {"id": "D", "text": "Bulles + Nikolsky + acantholyse", "correct": false, "feedback": "Incorrect. Cela évoque le pemphigus."}
+      ]
+    },
+    {
+      "id": 52,
+      "question": "Selon les critères ISG, quel est le critère OBLIGATOIRE du diagnostic de maladie de Behçet ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "L'aphtose buccale récidivante (≥ 3 épisodes/an)", "correct": true, "feedback": "Correct. L'aphtose buccale récidivante (≥ 3 épisodes/an) est le critère obligatoire ; le diagnostic exige en outre 2 critères mineurs."},
+        {"id": "B", "text": "Le test de pathergie positif", "correct": false, "feedback": "Incorrect. C'est un critère mineur."},
+        {"id": "C", "text": "L'uvéite", "correct": false, "feedback": "Incorrect. C'est un critère mineur."},
+        {"id": "D", "text": "Les lésions cutanées", "correct": false, "feedback": "Incorrect. C'est un critère mineur."}
+      ]
+    },
+    {
+      "id": 53,
+      "question": "Quel signe clinique est fondamental pour le diagnostic de lichen plan érosif ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Les stries réticulées de Wickham en périphérie de la lésion érosive", "correct": true, "feedback": "Correct. Les stries blanches réticulées de Wickham, bilatérales et symétriques, en périphérie de l'érosion, sont le critère clinique fondamental du lichen plan érosif."},
+        {"id": "B", "text": "Le signe de Nikolsky", "correct": false, "feedback": "Incorrect. Il évoque un pemphigus."},
+        {"id": "C", "text": "Les croûtes hémorragiques des lèvres", "correct": false, "feedback": "Incorrect. Elles évoquent un érythème polymorphe."},
+        {"id": "D", "text": "L'induration de la base", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 54,
+      "question": "Quel est le risque évolutif majeur du lichen plan érosif justifiant une surveillance ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "La transformation maligne en carcinome épidermoïde (0,5 à 2 % des cas)", "correct": true, "feedback": "Correct. Le lichen plan érosif expose à un risque de transformation maligne en carcinome épidermoïde de 0,5 à 2 %, justifiant une surveillance biopsique régulière."},
+        {"id": "B", "text": "La transmission infectieuse à l'entourage", "correct": false, "feedback": "Incorrect. Le lichen plan n'est pas contagieux."},
+        {"id": "C", "text": "La cécité immédiate", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "L'absence de tout risque évolutif", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 55,
+      "question": "Concernant les manifestations buccales du lupus érythémateux :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Elles comportent des ulcérations muqueuses indolores, intégrées aux critères diagnostiques du LES", "correct": true, "feedback": "Correct. Le lupus érythémateux systémique donne des ulcérations buccales indolores, qui font partie des critères ACR/EULAR ; les ANA et les anti-ADN double brin orientent le diagnostic."},
+        {"id": "B", "text": "Elles sont toujours très douloureuses et indurées", "correct": false, "feedback": "Incorrect. Les ulcérations lupiques sont caractéristiquement indolores."},
+        {"id": "C", "text": "Elles n'ont aucune valeur diagnostique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Elles imposent une chimiothérapie", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 56,
+      "question": "Quel aspect muqueux est caractéristique des manifestations buccales de la maladie de Crohn ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "La muqueuse en « pavé » (cobblestone mucosa)", "correct": true, "feedback": "Correct. La muqueuse en « pavé » (cobblestone mucosa) est un aspect caractéristique de la maladie de Crohn ; l'histologie montre un granulome épithélioïde non caséeux."},
+        {"id": "B", "text": "Les stries de Wickham", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Le chancre induré", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "La nécrose caséeuse", "correct": false, "feedback": "Incorrect. La nécrose caséeuse évoque la tuberculose."}
+      ]
+    }
+  ]
+}

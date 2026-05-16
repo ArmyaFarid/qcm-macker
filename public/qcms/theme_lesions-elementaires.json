@@ -1,0 +1,528 @@
+{
+  "meta": {
+    "title": "Lésions élémentaires de la muqueuse orale",
+    "theme": "lesions-elementaires"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Comment définit-on une lésion élémentaire de la muqueuse buccale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "La manifestation morphologique visible et/ou palpable d'un processus pathologique", "correct": true, "feedback": "Correct. La lésion élémentaire est la manifestation morphologique visible et/ou palpable d'un processus pathologique affectant la muqueuse, observée à l'examen clinique."},
+        {"id": "B", "text": "Un diagnostic étiologique précis", "correct": false, "feedback": "Incorrect. Une lésion élémentaire n'est pas un diagnostic."},
+        {"id": "C", "text": "Un traitement appliqué à la muqueuse", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une variation anatomique sans signification", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Concernant le statut nosologique de la lésion élémentaire :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Elle constitue un diagnostic à elle seule", "correct": false, "feedback": "Incorrect. Une lésion élémentaire n'est pas un diagnostic."},
+        {"id": "B", "text": "Elle n'est pas un diagnostic mais une forme clinique descriptive traduisant un mécanisme pathologique", "correct": true, "feedback": "Correct. Le principe fondamental : une lésion élémentaire n'est pas un diagnostic, mais une forme clinique traduisant un mécanisme pathologique."},
+        {"id": "C", "text": "Elle préjuge toujours de la cause étiologique exacte", "correct": false, "feedback": "Incorrect. Elle ne préjuge pas de la cause étiologique."},
+        {"id": "D", "text": "Elle correspond toujours à une lésion maligne", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "La zone de transition du bord des lèvres, intégrée à la muqueuse buccale, est appelée :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La zone de Klein (demi-muqueuse, « lèvre sèche »)", "correct": true, "feedback": "Correct. La zone de transition du bord des lèvres est la zone de Klein, ou demi-muqueuse (« lèvre sèche »)."},
+        {"id": "B", "text": "La ligne occlusale", "correct": false, "feedback": "Incorrect. C'est la linea alba."},
+        {"id": "C", "text": "La jonction muco-gingivale", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le chorion", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Les granules de Fordyce correspondent à :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Des glandes sébacées hétérotopiques donnant des nodules jaunâtres", "correct": true, "feedback": "Correct. Les granules de Fordyce sont des glandes sébacées hétérotopiques visibles sous forme de nodules jaunâtres dans la muqueuse buccale."},
+        {"id": "B", "text": "Des dépôts de plaque dentaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Des lésions précancéreuses", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Des ulcérations virales", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Quel type d'épithélium revêt la muqueuse buccale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Un épithélium malpighien pluristratifié", "correct": true, "feedback": "Correct. La muqueuse buccale est revêtue d'un épithélium malpighien pluristratifié reposant sur un chorion (lamina propria)."},
+        {"id": "B", "text": "Un épithélium cubique simple", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Un endothélium", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Un épithélium cilié", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Parmi les facteurs de protection de la muqueuse buccale, on retrouve :",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La multiplicité de la flore avec équilibre entre les espèces", "correct": true, "feedback": "Correct. L'équilibre de la flore (70 % aérobies / 30 % anaérobies) est un facteur de protection."},
+        {"id": "B", "text": "La salive et les IgA salivaires", "correct": true, "feedback": "Correct. La salive, riche en IgA salivaires, protège la muqueuse."},
+        {"id": "C", "text": "Le système lymphoïde", "correct": true, "feedback": "Correct. Le système lymphoïde participe à la protection muqueuse."},
+        {"id": "D", "text": "Le tartre et la plaque dentaire", "correct": false, "feedback": "Incorrect. Le tartre et la plaque favorisent au contraire le développement de pathologies."}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Lors de l'examen endobuccal méthodique, le 3ème cercle d'exploration concerne :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "La face externe par rapport aux dents", "correct": false, "feedback": "Incorrect. C'est le 1er cercle."},
+        {"id": "B", "text": "La face interne par rapport aux dents", "correct": false, "feedback": "Incorrect. C'est le 2ème cercle."},
+        {"id": "C", "text": "La langue et le carrefour aéropharyngien", "correct": true, "feedback": "Correct. Le 3ème cercle d'exploration concerne la langue et le carrefour aéropharyngien."},
+        {"id": "D", "text": "Les aires ganglionnaires cervicales", "correct": false, "feedback": "Incorrect. Les aires ganglionnaires relèvent de l'examen exobuccal."}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Parmi les critères d'étude d'une lésion élémentaire, lequel évalue la consistance ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Douce, dure, ferme, caoutchouteuse ou fluctuante", "correct": true, "feedback": "Correct. La consistance d'une lésion peut être douce, dure, ferme, caoutchouteuse ou fluctuante."},
+        {"id": "B", "text": "Ronde ou allongée", "correct": false, "feedback": "Incorrect. Cela décrit la forme."},
+        {"id": "C", "text": "Pédiculée ou sessile", "correct": false, "feedback": "Incorrect. Cela décrit la base."},
+        {"id": "D", "text": "Rouge, blanc ou pigmenté", "correct": false, "feedback": "Incorrect. Cela décrit la couleur."}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Quelle est la différence entre une lésion élémentaire primaire et secondaire ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La lésion primaire est non modifiée, la lésion secondaire est modifiée par la salive et les mouvements de la langue, des lèvres et des dents", "correct": true, "feedback": "Correct. La lésion primaire est la lésion non modifiée ; la lésion secondaire résulte de sa modification par la salive et les mouvements buccaux."},
+        {"id": "B", "text": "La lésion primaire est toujours maligne", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "La lésion secondaire est toujours indolore", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Il n'existe aucune différence", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Comment définit-on une macule ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Une lésion plane, circonscrite, non palpable, de diamètre inférieur à 10 mm", "correct": true, "feedback": "Correct. La macule est une lésion plane, circonscrite, non palpable, de moins de 10 mm, correspondant à une modification de couleur sans relief."},
+        {"id": "B", "text": "Une lésion surélevée et palpable", "correct": false, "feedback": "Incorrect. C'est une papule."},
+        {"id": "C", "text": "Une perte de substance profonde", "correct": false, "feedback": "Incorrect. C'est une ulcération."},
+        {"id": "D", "text": "Un soulèvement contenant du liquide", "correct": false, "feedback": "Incorrect. C'est une vésicule ou une bulle."}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Une plage (ou placard) se distingue d'une macule par :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Sa taille supérieure à 1 cm, restant circonscrite et plus étendue", "correct": true, "feedback": "Correct. La plage ou placard mesure plus de 1 cm ; elle est circonscrite, plus étendue que la macule, ni surélevée ni déprimée."},
+        {"id": "B", "text": "Son relief surélevé", "correct": false, "feedback": "Incorrect. La plage n'est ni surélevée ni déprimée."},
+        {"id": "C", "text": "Son contenu liquidien", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Sa perte de substance", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "La papule est définie comme :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Une lésion circonscrite, surélevée, palpable, solide, de diamètre inférieur à 10 mm", "correct": true, "feedback": "Correct. La papule est une lésion circonscrite, surélevée, palpable, solide ou ferme, de moins de 10 mm, sans contenu liquidien."},
+        {"id": "B", "text": "Une lésion plane non palpable", "correct": false, "feedback": "Incorrect. C'est une macule."},
+        {"id": "C", "text": "Une lésion contenant du pus", "correct": false, "feedback": "Incorrect. C'est une pustule."},
+        {"id": "D", "text": "Une perte de substance superficielle", "correct": false, "feedback": "Incorrect. C'est une érosion."}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Quels exemples illustrent la lésion élémentaire « papule » ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La verrue", "correct": true, "feedback": "Correct. La verrue est un exemple de papule."},
+        {"id": "B", "text": "Le papillome", "correct": true, "feedback": "Correct. Le papillome est cité comme exemple de papule."},
+        {"id": "C", "text": "Les grains de Fordyce", "correct": true, "feedback": "Correct. Les grains de Fordyce sont donnés en exemple de papules."},
+        {"id": "D", "text": "L'aphte", "correct": false, "feedback": "Incorrect. L'aphte est une ulcération, et non une papule."}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "La plaque, en tant que lésion élémentaire, correspond à :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une papule plus large (≥ 1 cm), souvent par confluence de plusieurs papules", "correct": true, "feedback": "Correct. La plaque est une zone plane, solide et surélevée, équivalant à une papule plus large (≥ 1 cm) ou résultant de la confluence de papules."},
+        {"id": "B", "text": "Une lésion liquidienne", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une perte de substance", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une lésion non palpable", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Le nodule se distingue de la papule notamment par :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une taille supérieure à 10 mm et une infiltration plus profonde du chorion", "correct": true, "feedback": "Correct. Le nodule est une lésion solide plus profonde et plus volumineuse que la papule, de taille supérieure à 10 mm, d'origine souvent conjonctive."},
+        {"id": "B", "text": "L'absence de relief", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Un contenu liquidien", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une perte de substance épithéliale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Concernant le terme « tumeur » en sémiologie des lésions élémentaires :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "C'est un terme purement clinique qui ne préjuge pas du caractère bénin ou malin", "correct": true, "feedback": "Correct. La tumeur est une masse tissulaire résultant d'une prolifération cellulaire autonome ; c'est un terme purement clinique qui ne préjuge pas du caractère bénin ou malin."},
+        {"id": "B", "text": "Une tumeur est toujours maligne", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une tumeur est toujours bénigne", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "C'est une lésion liquidienne", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Les végétations sont définies comme :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Des excroissances papillomateuses réalisant une élevure circonscrite", "correct": true, "feedback": "Correct. Les végétations sont des excroissances papillomateuses ; les papillomes viraux en sont un exemple."},
+        {"id": "B", "text": "Des pertes de substance profondes", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Des soulèvements liquidiens", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Des macules pigmentées", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Quelle est la taille caractéristique de la vésicule ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Inférieure à 3 mm", "correct": true, "feedback": "Correct. La vésicule est un soulèvement intra-épithélial contenant un liquide clair, de taille inférieure à 3 mm."},
+        {"id": "B", "text": "Supérieure à 5 cm", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Entre 2 et 3 cm", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Toujours supérieure à 1 cm", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Quelles sont les principales étiologies des vésicules buccales ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Surtout virales : herpès (HSV1), varicelle-zona (VZV)", "correct": true, "feedback": "Correct. Les vésicules buccales sont surtout d'étiologie virale : herpès (HSV1) et virus varicelle-zona (VZV)."},
+        {"id": "B", "text": "Exclusivement traumatiques", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Toujours bactériennes", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Toujours tumorales", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Quelle est la principale différence entre une vésicule et une bulle ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La bulle est un décollement épithélial de plus de 5 mm, la vésicule mesure moins de 3 mm", "correct": true, "feedback": "Correct. La bulle est un décollement épithélial arrondi de plus de 5 mm, alors que la vésicule mesure moins de 3 mm."},
+        {"id": "B", "text": "La bulle ne contient jamais de liquide", "correct": false, "feedback": "Incorrect. La bulle contient un liquide séreux ou hémorragique."},
+        {"id": "C", "text": "La vésicule est toujours plus grande que la bulle", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "La bulle est une perte de substance", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 21,
+      "question": "La pustule est une lésion élémentaire :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Rarement observée en bouche, réalisant un soulèvement épithélial contenant du pus", "correct": true, "feedback": "Correct. La pustule est rarement observée en bouche (impétigo bucco-facial) ; elle réalise un soulèvement de l'épithélium contenant du pus, avec afflux de polynucléaires."},
+        {"id": "B", "text": "Une lésion plane de couleur", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une perte de substance profonde", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une lésion à contenu séreux clair", "correct": false, "feedback": "Incorrect. La pustule contient du pus."}
+      ]
+    },
+    {
+      "id": 22,
+      "question": "L'érosion est une lésion élémentaire secondaire caractérisée par :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Une perte de substance limitée à l'épithélium, cicatrisant sans séquelle", "correct": true, "feedback": "Correct. L'érosion est une perte de substance limitée à l'épithélium, très superficielle, cicatrisant sans séquelle."},
+        {"id": "B", "text": "Une perte de substance atteignant le chorion", "correct": false, "feedback": "Incorrect. C'est l'ulcération."},
+        {"id": "C", "text": "Un soulèvement liquidien", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une lésion surélevée solide", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 23,
+      "question": "L'ulcération se distingue de l'érosion par :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une profondeur plus importante, atteignant le chorion avec absence d'épithélium", "correct": true, "feedback": "Correct. L'ulcération est plus profonde que l'érosion : il y a absence d'épithélium et atteinte du chorion."},
+        {"id": "B", "text": "Une atteinte limitée à la couche cornée", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "L'absence de douleur constante", "correct": false, "feedback": "Incorrect. L'ulcération est douloureuse."},
+        {"id": "D", "text": "Un relief surélevé", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 24,
+      "question": "À partir de quelle durée une ulcération buccale est-elle considérée comme suspecte et doit être explorée ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Au-delà de 15 jours (ulcération chronique)", "correct": true, "feedback": "Correct. Une ulcération chronique (persistant plus de 15 jours) est suspecte et toute ulcération persistante doit être explorée."},
+        {"id": "B", "text": "Au-delà de 24 heures", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Au-delà de 6 mois", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une ulcération n'est jamais suspecte", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 25,
+      "question": "La fistule est une lésion élémentaire :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Secondaire : un trajet pathologique reliant un foyer profond à la surface, jamais une lésion primitive", "correct": true, "feedback": "Correct. La fistule est un trajet pathologique reliant un foyer profond (le plus souvent infectieux) à la surface muqueuse ; ce n'est jamais une lésion primitive."},
+        {"id": "B", "text": "Primitive et bénigne sans pathologie sous-jacente", "correct": false, "feedback": "Incorrect. Elle témoigne toujours d'une pathologie sous-jacente."},
+        {"id": "C", "text": "Une lésion plane de couleur", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Un soulèvement liquidien", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 26,
+      "question": "La perlèche correspond, sur le plan sémiologique, à :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une fissure (rhagade) des commissures labiales", "correct": true, "feedback": "Correct. La perlèche est une fissure des commissures labiales ; la fissure est une érosion/ulcération linéaire plus profonde que large."},
+        {"id": "B", "text": "Une bulle du palais", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une macule pigmentée", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Un nodule conjonctif", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 27,
+      "question": "L'atrophie, en tant que lésion élémentaire, se caractérise par :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Une muqueuse déprimée, amincie, lisse et vernissée, sans perte de substance", "correct": true, "feedback": "Correct. L'atrophie est une muqueuse déprimée par rapport à la muqueuse saine, sans perte de substance, amincie, lisse et vernissée (par exemple le lichen plan atrophique)."},
+        {"id": "B", "text": "Une perte de substance profonde", "correct": false, "feedback": "Incorrect. L'atrophie est sans perte de substance."},
+        {"id": "C", "text": "Une lésion surélevée et indurée", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Un soulèvement purulent", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 28,
+      "question": "La cocarde est une lésion :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Composite, à organisation concentrique (centre, anneau intermédiaire, périphérie)", "correct": true, "feedback": "Correct. La cocarde est une lésion composite faite de l'organisation concentrique de lésions élémentaires différentes : papule érythémateuse, décollement central et halo rouge périphérique."},
+        {"id": "B", "text": "Une simple macule pigmentée", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une lésion liquidienne unique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une variation physiologique de la langue", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Les variations physiologiques de la muqueuse buccale :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Sont fréquentes (environ 80 % de la population), ne nécessitent aucun traitement et n'évoluent pas défavorablement", "correct": true, "feedback": "Correct. Les variations physiologiques sont des variations anatomiques normales, retrouvées chez environ 80 % de la population, sans évolution défavorable et ne nécessitant aucun traitement."},
+        {"id": "B", "text": "Nécessitent toujours un traitement chirurgical", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Évoluent toujours vers la malignité", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Sont exceptionnelles dans la population générale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 30,
+      "question": "La linea alba (ligne occlusale) se présente comme :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une ligne blanchâtre horizontale, bilatérale et symétrique, sur la face interne des joues", "correct": true, "feedback": "Correct. La linea alba est une ligne blanchâtre horizontale, bilatérale et symétrique, sur la face interne des joues et les bords latéraux de la langue (parafonctions, obésité)."},
+        {"id": "B", "text": "Une ulcération profonde du palais", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une lésion pigmentée noirâtre de la langue", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une tumeur de la gencive", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Le leucoedème se caractérise par :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Un aspect opalescent, blanc grisâtre et délavé de la face interne des joues", "correct": true, "feedback": "Correct. Le leucoedème donne un aspect opalescent, blanc grisâtre, délavé de la face interne de la joue (fumeurs, origine ethnique africaine)."},
+        {"id": "B", "text": "Une ulcération douloureuse", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une bulle du plancher buccal", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une végétation papillomateuse", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 32,
+      "question": "La langue géographique (glossite exfoliatrice marginée) se caractérise par :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Des zones érythémateuses dépapillées à contours blanchâtres irréguliers, d'aspect migrateur", "correct": true, "feedback": "Correct. La langue géographique réalise des zones érythémateuses dépapillées à contours blanchâtres irréguliers, d'aspect variable et migrateur d'un jour à l'autre (perte des papilles filiformes)."},
+        {"id": "B", "text": "Une fissure profonde de la face dorsale de la langue", "correct": false, "feedback": "Incorrect. C'est la langue scrotale (plicaturée)."},
+        {"id": "C", "text": "Un enduit noirâtre de la base de la langue", "correct": false, "feedback": "Incorrect. C'est la langue noire villeuse."},
+        {"id": "D", "text": "Une ulcération maligne", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 33,
+      "question": "La langue scrotale (plicaturée, fissurée) :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Est une fissure profonde de la face dorsale de la langue, présente chez environ 5 % de la population", "correct": true, "feedback": "Correct. La langue scrotale est une fissure profonde de la face dorsale, à transmission autosomique dominante, retrouvée chez environ 5 % de la population générale."},
+        {"id": "B", "text": "Est une lésion maligne nécessitant une exérèse", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Est une infection virale aiguë", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Concerne 90 % de la population", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Le syndrome de Melkersson-Rosenthal associe :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Langue scrotale, paralysie faciale et macrochéilie", "correct": true, "feedback": "Correct. Le syndrome de Melkersson-Rosenthal associe une langue scrotale, une paralysie faciale et une macrochéilie."},
+        {"id": "B", "text": "Langue géographique, glossite et carie", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Leucoedème, perlèche et xérostomie", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Macroglossie, varices et HTA", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Le tic de mordillement entraîne :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Un arrachement des couches superficielles de l'épithélium, sur un fond d'anxiété", "correct": true, "feedback": "Correct. Le tic de mordillement provoque un arrachement des couches superficielles de l'épithélium (langue, face interne des joues, lèvres), souvent dans un contexte d'anxiété."},
+        {"id": "B", "text": "Une transformation maligne immédiate", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une infection fongique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une perte osseuse", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 36,
+      "question": "La langue saburrale :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Est un enduit blanc-grisâtre de la face dorsale, souvent attribué à tort à une candidose, de traitement symptomatique par brossage-raclage", "correct": true, "feedback": "Correct. La langue saburrale est un enduit blanc-grisâtre de la face dorsale, souvent confondu à tort avec une candidose ; le diagnostic est clinique et le traitement symptomatique (brossage-raclage)."},
+        {"id": "B", "text": "Est une candidose confirmée nécessitant un antifongique", "correct": false, "feedback": "Incorrect. Elle est souvent attribuée à tort à une candidose."},
+        {"id": "C", "text": "Est une lésion maligne", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Nécessite une exérèse chirurgicale", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Quelles sont les étiologies de la langue noire villeuse ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Le tabagisme", "correct": true, "feedback": "Correct. Le tabagisme est une étiologie de la langue noire villeuse."},
+        {"id": "B", "text": "Une antibiothérapie per os", "correct": true, "feedback": "Correct. Une antibiothérapie per os peut entraîner une langue noire villeuse."},
+        {"id": "C", "text": "Une xérostomie ou une hygiène orale défaillante", "correct": true, "feedback": "Correct. La xérostomie et une mauvaise hygiène orale favorisent la langue noire villeuse."},
+        {"id": "D", "text": "Une supplémentation en fluor", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Les varices linguales se rencontrent surtout :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Chez le sujet âgé, parfois en lien avec une hypertension", "correct": true, "feedback": "Correct. Les varices linguales se rencontrent surtout chez le sujet âgé, parfois associées à une hypertension."},
+        {"id": "B", "text": "Exclusivement chez l'enfant", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Chez le nourrisson", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Uniquement chez le sportif", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Parmi les causes de pigmentations linguales iatrogènes médicamenteuses, on retrouve :",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Les chimiothérapies (busulfan, bléomycine, cisplatine)", "correct": true, "feedback": "Correct. Plusieurs chimiothérapies provoquent des pigmentations linguales."},
+        {"id": "B", "text": "La prise prolongée de chlorhexidine", "correct": true, "feedback": "Correct. La prise prolongée de chlorhexidine en bains de bouche pigmente la langue."},
+        {"id": "C", "text": "Les cyclines (minocycline)", "correct": true, "feedback": "Correct. Les cyclines, dont la minocycline, sont une cause de pigmentation."},
+        {"id": "D", "text": "Le paracétamol", "correct": false, "feedback": "Incorrect. Le paracétamol n'est pas cité parmi les causes de pigmentation linguale."}
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Pourquoi est-il important pour le chirurgien-dentiste de connaître les variations physiologiques de la muqueuse buccale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Pour éviter un traitement inutile et rassurer le patient", "correct": true, "feedback": "Correct. Connaître les variations physiologiques permet d'éviter un traitement inutile et de rassurer le patient."},
+        {"id": "B", "text": "Pour pouvoir les exciser systématiquement", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Parce qu'elles évoluent toujours vers le cancer", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Parce qu'elles imposent toujours une biopsie", "correct": false, "feedback": "Incorrect."}
+      ]
+    }
+  ]
+}

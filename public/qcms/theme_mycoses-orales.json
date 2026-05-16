@@ -1,0 +1,528 @@
+{
+  "meta": {
+    "title": "Les mycoses orales",
+    "theme": "mycoses-orales"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Les mycoses buccales sont essentiellement des infections :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Opportunistes, dues à des germes saprophytes", "correct": true, "feedback": "Correct. Les mycoses buccales sont des infections opportunistes provoquées par des germes saprophytes."},
+        {"id": "B", "text": "Toujours d'origine bactérienne", "correct": false, "feedback": "Incorrect. Les mycoses sont d'origine fongique."},
+        {"id": "C", "text": "Strictement virales", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Toujours malignes", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quelle est l'infection fongique buccale la plus fréquente ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "L'aspergillose", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "La candidose due à la prolifération de Candida albicans", "correct": true, "feedback": "Correct. Les candidoses buccales, liées à une prolifération exagérée de Candida albicans, sont les infections fongiques les plus fréquentes."},
+        {"id": "C", "text": "La mucormycose", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "L'histoplasmose", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Les champignons sont des organismes :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Procaryotes dépourvus de noyau", "correct": false, "feedback": "Incorrect. Les bactéries sont procaryotes."},
+        {"id": "B", "text": "Eucaryotes, possédant un noyau entouré d'une membrane nucléaire", "correct": true, "feedback": "Correct. Les champignons sont des eucaryotes ; ils vivent en parasites ou en saprophytes."},
+        {"id": "C", "text": "Des virus à ARN", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Des protozoaires", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Quelle est l'espèce de Candida la plus fréquemment rencontrée dans la cavité buccale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Candida glabrata", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Candida krusei", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Candida albicans", "correct": true, "feedback": "Correct. Candida albicans est l'espèce la plus fréquemment rencontrée ; c'est un commensal normal de la cavité buccale."},
+        {"id": "D", "text": "Candida tropicalis", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Quelles sont les trois formes morphologiques du Candida ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Blastospore (forme végétative), pseudomycélium (cellule allongée) et chlamydospores", "correct": true, "feedback": "Correct. Le Candida présente trois formes : végétative (blastospore), cellule allongée (pseudomycélium) et cellule à capsule fine rétractile (chlamydospores)."},
+        {"id": "B", "text": "Spore, kyste et trophozoïte", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Bacille, coque et spirille", "correct": false, "feedback": "Incorrect. Ce sont des formes bactériennes."},
+        {"id": "D", "text": "Capside, enveloppe et génome", "correct": false, "feedback": "Incorrect. Ce sont des constituants viraux."}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Concernant le genre Cryptococcus :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Toutes les espèces sont pathogènes", "correct": false, "feedback": "Incorrect."},
+        {"id": "B", "text": "Seul Cryptococcus neoformans est pathogène", "correct": true, "feedback": "Correct. Seul C. neoformans est pathogène ; il en existe deux variétés : neoformans et gattii."},
+        {"id": "C", "text": "Aucune espèce n'est pathogène", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "C'est un champignon filamenteux", "correct": false, "feedback": "Incorrect. Le Cryptococcus est une levure."}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Quels patients sont particulièrement exposés à la mucormycose ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Les patients immunodéprimés (diabète, sida, neutropénies sévères)", "correct": true, "feedback": "Correct. La mucormycose touche les patients immunodéprimés : diabète, sida, neutropénies sévères, insuffisance rénale chronique."},
+        {"id": "B", "text": "Les sujets jeunes en bonne santé", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Uniquement les nourrissons", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Les sportifs de haut niveau", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "L'aspergillose extrapulmonaire (notamment A. fumigatus) à localisation nasosinusienne peut être favorisée par :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "L'obturation canalaire à l'oxyde de zinc", "correct": true, "feedback": "Correct. L'oxyde de zinc des pâtes d'obturation favorise la croissance d'Aspergillus fumigatus."},
+        {"id": "B", "text": "Le brossage dentaire régulier", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "L'usage du fil dentaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Les bains de bouche fluorés", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Parmi les facteurs prédisposants LOCAUX des mycoses orales, on retrouve :",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La face dorsale de la langue (papilles filiformes) servant de réservoir", "correct": true, "feedback": "Correct. Les papilles filiformes de la face dorsale de la langue constituent un réservoir d'organismes."},
+        {"id": "B", "text": "Une faible hygiène orale", "correct": true, "feedback": "Correct. Une faible hygiène orale favorise l'accumulation et la prolifération des levures."},
+        {"id": "C", "text": "Le port de prothèses", "correct": true, "feedback": "Correct. Les porteurs de prothèses sont exposés."},
+        {"id": "D", "text": "Le diabète", "correct": false, "feedback": "Incorrect. Le diabète est un facteur de risque systémique, et non local."}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Parmi les facteurs de risque SYSTÉMIQUES des mycoses orales, on retrouve :",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Le diabète", "correct": true, "feedback": "Correct. Le diabète est un facteur de risque systémique."},
+        {"id": "B", "text": "L'immunodépression (SIDA)", "correct": true, "feedback": "Correct. L'immunodépression favorise les mycoses orales."},
+        {"id": "C", "text": "Les antibiotiques", "correct": true, "feedback": "Correct. Les antibiotiques sont un facteur de risque systémique."},
+        {"id": "D", "text": "L'usage d'un dentifrice fluoré", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Quelle est la forme de candidose aiguë la plus commune ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "La candidose pseudomembraneuse aiguë (muguet)", "correct": true, "feedback": "Correct. La candidose pseudomembraneuse aiguë, ou muguet, est la forme la plus commune ; elle touche les âges extrêmes."},
+        {"id": "B", "text": "La candidose hyperplasique", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "La glossite losangique médiane", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "La candidose œsophagienne", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Quel facteur prédisposant est typiquement associé à l'apparition d'un muguet ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "L'administration d'antibiotiques, même de courte durée", "correct": true, "feedback": "Correct. L'administration d'antibiotiques, même de courte durée, est un facteur prédisposant du muguet."},
+        {"id": "B", "text": "La prise de paracétamol", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Un brossage trop fréquent", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "L'usage d'un bain de bouche fluoré", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Concernant les zones blanches du muguet :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Ce sont des plaques molles gélatineuses, détachables, laissant de petites zones hémorragiques", "correct": true, "feedback": "Correct. Les zones blanches du muguet sont des plaques molles gélatineuses (aspect « cottage cheese »), détachables à la spatule, laissant de petites zones hémorragiques."},
+        {"id": "B", "text": "Ce sont des plaques indurées indétachables", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Ce sont des stries blanches réticulées", "correct": false, "feedback": "Incorrect. Ces stries évoquent un lichen plan."},
+        {"id": "D", "text": "Ce sont des ulcérations profondes", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Quelle localisation est habituellement épargnée par la candidose pseudomembraneuse ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La face interne des joues", "correct": false, "feedback": "Incorrect. Elle peut y siéger."},
+        {"id": "B", "text": "Le palais", "correct": false, "feedback": "Incorrect. Elle peut y siéger."},
+        {"id": "C", "text": "La gencive", "correct": true, "feedback": "Correct. Les plaques peuvent siéger n'importe où sur la muqueuse buccale, à l'exception de la gencive."},
+        {"id": "D", "text": "La langue", "correct": false, "feedback": "Incorrect. Elle peut y siéger."}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "La candidose érythémateuse aiguë (atrophique) se caractérise par :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une lésion érythémateuse douloureuse, sans pseudomembrane", "correct": true, "feedback": "Correct. La candidose érythémateuse aiguë est douloureuse, érythémateuse et dépourvue de pseudomembrane ; elle est souvent liée aux antibiotiques à large spectre."},
+        {"id": "B", "text": "Des plaques blanches détachables", "correct": false, "feedback": "Incorrect. C'est la forme pseudomembraneuse."},
+        {"id": "C", "text": "Une ulcération nécrotique du palais osseux", "correct": false, "feedback": "Incorrect. Cela évoque une mucormycose."},
+        {"id": "D", "text": "Une lésion indurée bourgeonnante", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "La candidose érythémateuse chronique (stomatite sous-prothétique) touche préférentiellement :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La muqueuse palatine, au niveau de l'intrados des prothèses, surtout au maxillaire", "correct": true, "feedback": "Correct. La stomatite sous-prothétique touche la muqueuse palatine en regard de l'intrados prothétique, surtout au maxillaire."},
+        {"id": "B", "text": "Le plancher buccal", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "L'oropharynx", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le vermillon des lèvres", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Comment classe-t-on la stomatite sous-prothétique de type III ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Érythème localisé rouge-velouté", "correct": false, "feedback": "Incorrect. C'est le type I."},
+        {"id": "B", "text": "Inflammation diffuse avec muqueuse lisse atrophique", "correct": false, "feedback": "Incorrect. C'est le type II."},
+        {"id": "C", "text": "Muqueuse hyperhémique granuleuse ou noduleuse", "correct": true, "feedback": "Correct. Le type III correspond à une muqueuse hyperhémique granuleuse ou noduleuse."},
+        {"id": "D", "text": "Muqueuse normale sans inflammation", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Quelle est la cause de la chéilite angulaire (perlèche) ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La perte de dimension verticale d'occlusion associée à l'humidité", "correct": true, "feedback": "Correct. La perlèche résulte d'une perte de dimension verticale d'occlusion et de l'humidité au niveau des commissures."},
+        {"id": "B", "text": "Un traumatisme du palais", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une infection virale du vermillon", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une carence en fluor", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "La glossite losangique médiane (rhomboïde médiane) :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Est une candidose chronique localisée à la partie postérieure dorsale de la langue", "correct": true, "feedback": "Correct. La glossite losangique médiane est une candidose atrophique érythémateuse chronique de la partie postérieure dorsale de la langue ; elle était longtemps considérée comme congénitale."},
+        {"id": "B", "text": "Siège exclusivement sur les lèvres", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Est une lésion maligne", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Est une forme aiguë pseudomembraneuse", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "La candidose hyperplasique se présente comme :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une lésion blanche en plaques bien attachées, peu détachables", "correct": true, "feedback": "Correct. La candidose hyperplasique réalise des lésions blanches en plaques bien attachées à la muqueuse, moins détachables."},
+        {"id": "B", "text": "Des plaques molles facilement détachables", "correct": false, "feedback": "Incorrect. Elle est moins détachable que la forme pseudomembraneuse."},
+        {"id": "C", "text": "Une ulcération nécrotique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Un érythème diffus sans relief", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Quels sont les diagnostics différentiels de la candidose hyperplasique ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "La leucoplasie", "correct": true, "feedback": "Correct. La leucoplasie est un diagnostic différentiel."},
+        {"id": "B", "text": "Le lichen plan", "correct": true, "feedback": "Correct. Le lichen plan fait partie des diagnostics différentiels."},
+        {"id": "C", "text": "Le carcinome verruqueux", "correct": true, "feedback": "Correct. Le carcinome verruqueux est un diagnostic différentiel."},
+        {"id": "D", "text": "L'aphte mineur", "correct": false, "feedback": "Incorrect. L'aphte est une ulcération, et non une lésion blanche."}
+      ]
+    },
+    {
+      "id": 22,
+      "question": "La candidose œsophagienne est fréquente chez :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Les patients immunodéprimés (par exemple infectés par le VIH)", "correct": true, "feedback": "Correct. La candidose œsophagienne est fréquente chez les patients immunodéprimés, notamment infectés par le VIH ; elle se traduit par une odynophagie et une dysphagie."},
+        {"id": "B", "text": "Les sujets jeunes immunocompétents", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Les nourrissons exclusivement", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Les sportifs", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Dans la mucormycose, quelle est la porte d'entrée habituelle ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La voie respiratoire, par inhalation de spores", "correct": true, "feedback": "Correct. La porte d'entrée de la mucormycose est respiratoire, par inhalation de spores."},
+        {"id": "B", "text": "La voie digestive par ingestion d'aliments", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "La voie cutanée par contact direct", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "La voie sanguine par transfusion", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Quel mécanisme physiopathologique caractérise la mucormycose ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Les hyphes prolifèrent dans la paroi des vaisseaux, entraînant thromboses, artérite et nécrose", "correct": true, "feedback": "Correct. Les hyphes prolifèrent dans la paroi des artères et des veines, provoquant des thromboses vasculaires, une artérite et des phénomènes de nécrose."},
+        {"id": "B", "text": "Une simple colonisation superficielle sans atteinte vasculaire", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une prolifération exclusivement intra-épithéliale", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une réaction allergique de type immédiat", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 25,
+      "question": "L'aspergillose nasosinusienne d'origine dentaire siège le plus souvent :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Dans le sinus maxillaire", "correct": true, "feedback": "Correct. L'aspergillose nasosinusienne d'origine dentaire touche surtout le sinus maxillaire (granulome apical, communication bucco-sinusienne, dépassement apical de pâte)."},
+        {"id": "B", "text": "Dans le sinus frontal", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Dans le plancher buccal", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Dans la langue", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Concernant l'histoplasmose :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "C'est une mycose systémique granulomateuse due à Histoplasma capsulatum, dont la primo-infection pulmonaire est asymptomatique", "correct": true, "feedback": "Correct. L'histoplasmose est une mycose systémique granulomateuse due à H. capsulatum ; la primo-infection pulmonaire est asymptomatique et l'atteinte buccale survient chez l'immunodéprimé."},
+        {"id": "B", "text": "C'est une infection bénigne strictement buccale", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Elle est due à une levure du genre Candida", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Elle ne touche jamais les immunodéprimés", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Quel est l'élément essentiel du diagnostic des candidoses orales ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "La clinique", "correct": true, "feedback": "Correct. Le diagnostic des candidoses orales repose essentiellement sur la clinique (lésions blanches détachables, érythème, chéilite angulaire, facteurs étiologiques)."},
+        {"id": "B", "text": "L'imagerie par résonance magnétique", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Le bilan hépatique", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "La radiographie panoramique", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Quel examen permet une étude quantitative et qualitative du Candida pour orienter le traitement ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "L'écouvillonnage suivi d'une culture", "correct": true, "feedback": "Correct. L'écouvillonnage suivi d'une culture permet une étude quantitative (nombre de colonies) et qualitative (type de Candida)."},
+        {"id": "B", "text": "L'examen au fond noir", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "La scintigraphie", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "L'électromyogramme", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Quels sont les diagnostics différentiels d'une candidose buccale ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "La leucoplasie", "correct": true, "feedback": "Correct. La leucoplasie fait partie des diagnostics différentiels."},
+        {"id": "B", "text": "Le lichen plan", "correct": true, "feedback": "Correct. Le lichen plan est un diagnostic différentiel."},
+        {"id": "C", "text": "La syphilis secondaire", "correct": true, "feedback": "Correct. La syphilis secondaire fait partie des diagnostics différentiels."},
+        {"id": "D", "text": "La carie dentaire", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Quelles sont les deux familles d'antifongiques utilisées dans le traitement des mycoses orales ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 1,
+      "answers": [
+        {"id": "A", "text": "Les polyènes et les dérivés azolés", "correct": true, "feedback": "Correct. On utilise deux familles d'antifongiques : les polyènes et les dérivés azolés."},
+        {"id": "B", "text": "Les pénicillines et les céphalosporines", "correct": false, "feedback": "Incorrect. Ce sont des antibiotiques."},
+        {"id": "C", "text": "Les antiviraux et les corticoïdes", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Les cyclines et les macrolides", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Parmi les antifongiques suivants, lesquels appartiennent à la famille des polyènes ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "L'amphotéricine B", "correct": true, "feedback": "Correct. L'amphotéricine B est un polyène."},
+        {"id": "B", "text": "La nystatine", "correct": true, "feedback": "Correct. La nystatine appartient aux polyènes."},
+        {"id": "C", "text": "Le fluconazole", "correct": false, "feedback": "Incorrect. Le fluconazole est un dérivé azolé (triazolé)."},
+        {"id": "D", "text": "Le miconazole", "correct": false, "feedback": "Incorrect. Le miconazole est un dérivé azolé (imidazolé)."}
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Quel antifongique est considéré comme le traitement de choix des mycoses buccales, sans toxicité ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "La nystatine", "correct": true, "feedback": "Correct. La nystatine est le traitement de choix des mycoses buccales et ne présente pas de toxicité."},
+        {"id": "B", "text": "L'amphotéricine B par voie intraveineuse", "correct": false, "feedback": "Incorrect. La voie IV de l'amphotéricine B expose à une toxicité rénale."},
+        {"id": "C", "text": "Le kétoconazole", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Le fluconazole", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Le fluconazole (triazolé) :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Est métabolisé dans le rein et contre-indiqué pendant la grossesse et l'allaitement", "correct": true, "feedback": "Correct. Le fluconazole est métabolisé dans le rein, bien toléré mais avec un risque de résistance ; il est contre-indiqué pendant la grossesse et l'allaitement."},
+        {"id": "B", "text": "Est métabolisé exclusivement dans le foie", "correct": false, "feedback": "Incorrect. C'est le kétoconazole qui est métabolisé dans le foie."},
+        {"id": "C", "text": "N'est jamais actif sur les levures", "correct": false, "feedback": "Incorrect. Il est très actif sur la plupart des levures."},
+        {"id": "D", "text": "Est un polyène", "correct": false, "feedback": "Incorrect. C'est un triazolé."}
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Concernant la médication antifongique topique :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Elle nécessite un temps de contact minimal de 2 minutes et constitue la première intention des mycoses orales localisées", "correct": true, "feedback": "Correct. La médication topique exige un contact minimal de 2 minutes, dure environ 3 semaines et est utilisée en première intention dans les mycoses orales localisées."},
+        {"id": "B", "text": "Elle est réservée aux mycoses profondes disséminées", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Elle ne dure jamais plus de 24 heures", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Elle est contre-indiquée dans les candidoses localisées", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Quelle association d'antiseptique et d'antifongique est incompatible ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "La nystatine est incompatible avec l'utilisation de chlorhexidine", "correct": true, "feedback": "Correct. La nystatine est incompatible avec la chlorhexidine."},
+        {"id": "B", "text": "Le miconazole est incompatible avec l'eau", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "L'amphotéricine B est incompatible avec le bicarbonate", "correct": false, "feedback": "Incorrect. Les bains de bouche composés associent justement amphotéricine B et eau bicarbonatée."},
+        {"id": "D", "text": "Le fluconazole est incompatible avec la nystatine", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Quand un traitement antifongique général (systémique) est-il indiqué ?",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Lorsque l'atteinte est étendue", "correct": true, "feedback": "Correct. Une atteinte étendue justifie un traitement systémique."},
+        {"id": "B", "text": "Lorsque l'atteinte est inaccessible à un traitement local simple", "correct": true, "feedback": "Correct. Une atteinte inaccessible au traitement local justifie la voie systémique."},
+        {"id": "C", "text": "Dans un contexte de déficit immunitaire", "correct": true, "feedback": "Correct. Le déficit immunitaire (VIH, leucémie, greffe de moelle) justifie un traitement systémique."},
+        {"id": "D", "text": "Devant une candidose localisée bénigne", "correct": false, "feedback": "Incorrect. Une candidose localisée relève d'abord d'un traitement local."}
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Quelle est la durée minimale de traitement d'une candidose orale ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "21 jours, poursuivi au moins 48 heures après la disparition des symptômes", "correct": true, "feedback": "Correct. Le traitement d'une candidose orale dure au minimum 21 jours et est poursuivi au moins 48 heures après la disparition de tout symptôme."},
+        {"id": "B", "text": "2 jours", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "6 mois minimum", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une seule prise unique", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Quel est le traitement de la mucormycose ?",
+      "image": null,
+      "multiple": false,
+      "difficulty": 3,
+      "answers": [
+        {"id": "A", "text": "Médical (rééquilibration du diabète et amphotéricine B) et chirurgical (exérèse des tissus nécrotiques)", "correct": true, "feedback": "Correct. La mucormycose impose un traitement le plus précoce possible, à la fois médical (rééquilibration du diabète, amphotéricine B) et chirurgical (exérèse large des tissus nécrotiques)."},
+        {"id": "B", "text": "Une simple surveillance clinique", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Un bain de bouche fluoré", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Une antibiothérapie par pénicilline", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Le traitement de l'aspergillose nasosinusienne est avant tout :",
+      "image": null,
+      "multiple": false,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Chirurgical", "correct": true, "feedback": "Correct. Le traitement de l'aspergillose nasosinusienne est avant tout chirurgical."},
+        {"id": "B", "text": "Uniquement une surveillance", "correct": false, "feedback": "Incorrect."},
+        {"id": "C", "text": "Une corticothérapie au long cours", "correct": false, "feedback": "Incorrect."},
+        {"id": "D", "text": "Un traitement antiviral", "correct": false, "feedback": "Incorrect."}
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Parmi les mesures de prévention des mycoses orales, on retrouve :",
+      "image": null,
+      "multiple": true,
+      "difficulty": 2,
+      "answers": [
+        {"id": "A", "text": "Une bonne hygiène buccale et une bonne hygiène des prothèses", "correct": true, "feedback": "Correct. L'hygiène buccale et celle des prothèses sont des mesures de prévention essentielles."},
+        {"id": "B", "text": "Éviter le port des prothèses dentaires la nuit", "correct": true, "feedback": "Correct. Il est recommandé d'éviter le port des prothèses la nuit."},
+        {"id": "C", "text": "Supprimer les facteurs favorisants (antibiotiques, corticoïdes)", "correct": true, "feedback": "Correct. La suppression des facteurs favorisants évite les récidives."},
+        {"id": "D", "text": "Augmenter la consommation de sucres et d'alcool", "correct": false, "feedback": "Incorrect. Il faut au contraire diminuer les sucres et l'alcool."}
+      ]
+    }
+  ]
+}
